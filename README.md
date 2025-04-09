@@ -35,7 +35,7 @@ At Outlier, I get to merge creativity with precision, ensuring that both human r
 ### Justice Through Code, Tech Pathways (Back-End Development & AI/ML)  
 *Anticipated Graduation: August 14th*  
 - Currently immersed in back-end development with a focus on Python and AI/ML, honing skills to tackle real-world challenges and integrate next-generation technologies into innovative solutions.
-- 
+  
 ### Web Development Fundamentals - The Last Mile  
 *September 2024*  
 - Built a robust JavaScript application to manage content for tabletop game characters. Because why not mix code with a bit of geeky nostalgia?
