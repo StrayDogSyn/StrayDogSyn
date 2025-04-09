@@ -59,6 +59,6 @@ At Outlier, I get to merge creativity with precision, ensuring that both human r
 I'm always excited to discuss new technologies, share ideas, or even just chat about the latest in pop-culture and tech trends. Feel free to reach out via:
 
 - **Email:** [petrosseric@gmail.com](mailto:petrosseric@gmail.com)
-- **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/eric-petross)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/eric-petross)
 
 Thanks for stopping by! If you're looking for someone who takes code seriously but doesn't mind injecting a little humor into every line, then let's connect and create something extraordinary together. 🚀
