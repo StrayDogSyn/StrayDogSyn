@@ -1,6 +1,6 @@
 # Hi there, I'm Eric 'Hunter' Petross 👋
 
-Welcome to my GitHub profile—where code meets creativity and a dash of wit! I'm a detail-oriented and collaborative software developer based out of Pawtucket, Rhode Island, with a serious passion for JavaScript, AI/ML innovations, and the ever-fascinating world of LLMs. Think of me as the modern-day Indiana Jones—if Indiana swapped his hat for a hoodie and his whip for a keyboard.
+Welcome to my GitHub profile—where code meets creativity and a dash of wit! I'm a detail-oriented and collaborative software developer based out of New England, with a serious passion for JavaScript, AI/ML innovations, and the ever-fascinating world of LLMs. Think of me as the modern-day Indiana Jones—if Indiana swapped his hat for a hoodie and his whip for a keyboard.
 
 ## 🚀 About Me
 
