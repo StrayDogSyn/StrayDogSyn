@@ -20,14 +20,25 @@ I'm an enthusiastic learner who's always on a quest for new technologies. Whethe
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+### Back-End Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
 ### Web & API Technologies
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Wix](https://img.shields.io/badge/Wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white)
+![SquareSpace](https://img.shields.io/badge/Squarespace-000000?style=for-the-badge&logo=squarespace&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![API](https://img.shields.io/badge/API-0096FF?style=for-the-badge&logo=api&logoColor=white)
 
 ### Tools & Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Android Root](https://img.shields.io/badge/Android%20Root-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ### Additional Skills
 - **Testing & Quality:** A/B Testing, RegEx, UX/UI Design
@@ -67,6 +78,14 @@ At Outlier, I get to merge creativity with precision, ensuring that both human r
 - **Platform:** WordPress  
 - **Highlights:** Developed a professional digital presence that not only looks sharp but also captures the spirit of a brand ready to make its mark in a noisy digital world.
 
+### **💻 Learner Files Repository**
+- **Technologies:** Python, Git, Data Structures, Algorithms
+- **Overview:** A comprehensive collection of coding exercises, algorithms, and data structure implementations from my learning journey. This repository showcases my progression and serves as a knowledge base for future reference and continuous improvement.
+
+### **📝 Full Stack To-Do List Application**
+- **Technologies:** MERN Stack (MongoDB, Express.js, React, Node.js), RESTful API
+- **Highlights:** Built a responsive to-do list application with user authentication, task categorization, priority settings, and due date notifications. Implemented CRUD operations with a clean, intuitive interface and optimized database queries for performance.
+
 ### **🔥 Code the Dream Pre-work Submission**  
 - **Technologies:** HTML, CSS, JavaScript, jQuery, Bootstrap, API  
 - **Overview:** This project was all about demonstrating technical chops and readiness for the immersive experience at Code the Dream bootcamp. It's a testament to my belief that learning by doing is the best kind of learning—sort of like mastering the art of the perfect avocado toast.
@@ -82,6 +101,6 @@ At Outlier, I get to merge creativity with precision, ensuring that both human r
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-petross)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StrayDogSyn)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:petrosseric@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:straydogsyndicationsllc@gmail.com)
 
 Thanks for stopping by! If you're looking for someone who takes code seriously but doesn't mind injecting a little humor into every line, then let's connect and create something extraordinary together. 🚀
