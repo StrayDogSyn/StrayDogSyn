@@ -68,14 +68,14 @@ At Outlier, I get to merge creativity with precision, ensuring that both human r
 *September 2024*  
 - Built a robust JavaScript application to manage content for tabletop game characters. Because why not mix code with a bit of geeky nostalgia?
 
-### General Studies/Associate in Applied Science - Community College of Rhode Island  
+### Associate in Applied Science - Community College of Rhode Island  
 *September 2020 - Present*  
-- Earned 21 credit hours while navigating through challenges, with an additional 30 credits via independent study through the ReEntry Campus Program in RI-DOC. I believe that every line of code and every academic challenge is a stepping stone to becoming a better developer. I will be completing my degree in Computer Network Technologies Hardware/Software in early 2026.
+- Earned 21 credit hours while navigating through challenges, with an additional 30 credits via independent study through the ReEntry Campus Program in RI-DOC. I believe that every line of code and every academic challenge is a stepping stone to becoming a better developer. I will be completing my degree in Computer Network Technologies majoring in Hardware/Software, early 2026.
 
 ## 🌟 Projects
 
-### **🚀 Stray Dog Syndications LLC Homepage**  
-- **Platform:** WordPress  
+### **🚀 StrayDog Syndications LLC Homepage**  
+- **Platform:** Wix / WordPress
 - **Highlights:** Developed a professional digital presence that not only looks sharp but also captures the spirit of a brand ready to make its mark in a noisy digital world.
 
 ### **💻 Learner Files Repository**
