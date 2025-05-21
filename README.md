@@ -38,6 +38,7 @@ I'm an enthusiastic learner who's always on a quest for new technologies. Whethe
 ### Tools & Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Android Root](https://img.shields.io/badge/Android%20Root-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ### Additional Skills
