@@ -68,6 +68,14 @@ I'm an enthusiastic learner who's always on a quest for new technologies. Whethe
 ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### Terminal & Command Line
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Git CLI](https://img.shields.io/badge/Git%20CLI-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Command Line](https://img.shields.io/badge/Command%20Line-000000?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Shell Scripting](https://img.shields.io/badge/Shell%20Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 ### Professional Skills
 ![Teaching](https://img.shields.io/badge/Teaching-FF0000?style=for-the-badge&logo=academia&logoColor=white)
 ![Facilitation](https://img.shields.io/badge/Facilitation-0078D4?style=for-the-badge&logo=microsoft-teams&logoColor=white)
