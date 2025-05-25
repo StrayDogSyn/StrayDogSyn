@@ -27,21 +27,60 @@ I'm an enthusiastic learner who's always on a quest for new technologies. Whethe
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![MERN Stack](https://img.shields.io/badge/MERN-000000?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![API Development](https://img.shields.io/badge/API%20Development-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### Web & API Technologies
+### Front-End Technologies
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![ES6](https://img.shields.io/badge/ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![ECMAScript](https://img.shields.io/badge/ECMAScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vanilla JavaScript](https://img.shields.io/badge/Vanilla%20JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![AJAX](https://img.shields.io/badge/AJAX-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![HTML Canvas](https://img.shields.io/badge/HTML%20Canvas-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![p5.js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=white)
+![Front-end Coding](https://img.shields.io/badge/Front--end%20Coding-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Web & Content Management
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Wix](https://img.shields.io/badge/Wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white)
 ![SquareSpace](https://img.shields.io/badge/Squarespace-000000?style=for-the-badge&logo=squarespace&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![API](https://img.shields.io/badge/API-0096FF?style=for-the-badge&logo=api&logoColor=white)
+![CMS](https://img.shields.io/badge/CMS-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![JavaScript Libraries](https://img.shields.io/badge/JS%20Libraries-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Tools & Version Control
+### AI & Development Tools
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/AI-00C4CC?style=for-the-badge&logo=probot&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### Mobile & System Tools
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![ADB/FASTBOOT](https://img.shields.io/badge/ADB%2FFASTBOOT-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android Troubleshooting](https://img.shields.io/badge/Android%20Troubleshooting-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Data Recovery](https://img.shields.io/badge/Data%20Recovery-007AFF?style=for-the-badge&logo=data&logoColor=white)
+![FRP Unlocking](https://img.shields.io/badge/FRP%20Unlocking-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Android Root](https://img.shields.io/badge/Android%20Root-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+### Professional Skills
+![Teaching](https://img.shields.io/badge/Teaching-FF0000?style=for-the-badge&logo=academia&logoColor=white)
+![Facilitation](https://img.shields.io/badge/Facilitation-0078D4?style=for-the-badge&logo=microsoft-teams&logoColor=white)
+![Technical Writing](https://img.shields.io/badge/Technical%20Writing-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Professional Ethics](https://img.shields.io/badge/Professional%20Ethics-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)
+![A/B Testing](https://img.shields.io/badge/A/B%20Testing-FF6C37?style=for-the-badge&logo=optimizely&logoColor=white)
+![Information Technology](https://img.shields.io/badge/IT-0078D7?style=for-the-badge&logo=windows&logoColor=white)
 
 ### Additional Skills
+- **Object-Oriented Programming (OOP)** with JavaScript
+- **ES.next** modern JavaScript features
+- Expertise in **Content Management Systems (CMS)** implementation
+- **Mobile Development** experience with Android platform
 - **Testing & Quality:** A/B Testing, RegEx, UX/UI Design
 - **Soft Skills:** Technical Writing, Professional Ethics, and a knack for getting things done with a collaborative spirit
 
