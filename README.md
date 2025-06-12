@@ -6,6 +6,33 @@ Welcome to my GitHub profile—where code meets creativity and a dash of wit! I'
 
 I'm an enthusiastic learner who's always on a quest for new technologies. Whether it's building intuitive web interfaces or diving deep into the latest AI/ML advancements, my motto is simple: *"If it challenges me, it excites me!"* When I'm not debugging code or sculpting seamless UX, you might find me engaging in spirited debates about the best vintage arcade games or marveling at pop-culture references from the golden age of the '90s and early 2000s.
 
+## 🌐 Live Portfolio - Interactive Project Showcase
+
+**🚀 [View My Live Portfolio](https://straydogsyn.github.io/Learner-Files)** 
+
+Explore my comprehensive web development portfolio featuring interactive projects, games, and applications! This live showcase demonstrates my full-stack capabilities and creative problem-solving approach:
+
+### 🎮 Featured Interactive Projects
+- **🧮 Advanced Calculator** - Complete with explosion effects for divide-by-zero operations and full keyboard support
+- **🎲 Knucklebones Game** - Interactive dice-based strategy game with dynamic scoring
+- **🗿 Rock Paper Scissors** - Classic game with modern UI and responsive design  
+- **📋 CompTIA Quiz** - Technical certification preparation tool with interactive questions
+- **🎯 Interactive Navbar** - Showcase of navigation design patterns and accessibility features
+
+### 💼 Professional Showcase
+- **📄 Interactive Resume** - Comprehensive technical skills and professional experience
+- **🏢 Company Portfolio** - StrayDog Syndications LLC project gallery
+- **📱 Responsive Design** - Mobile-first approach with modern CSS and JavaScript
+
+### 🛠️ Technical Highlights
+- **Pure JavaScript** implementations with ES6+ features
+- **Responsive CSS** with Tailwind and custom styling
+- **Interactive Animations** and visual effects
+- **Accessibility Features** with ARIA labels and keyboard navigation
+- **Modern Web Standards** following best practices
+
+*The portfolio is automatically deployed via GitHub Actions and showcases real-world applications of web development skills in action!*
+
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=StrayDogSyn&show_icons=true&theme=tokyonight)
@@ -122,7 +149,19 @@ At Outlier, I get to merge creativity with precision, ensuring that both human r
 
 ## 🌟 Projects
 
-### **🚀 StrayDog Syndications LLC Homepage**  
+### **🌐 Interactive Web Development Portfolio**
+**🚀 [Live Portfolio](https://straydogsyn.github.io/Learner-Files)** | **📂 [Source Code](https://github.com/StrayDogSyn/Learner-Files)**
+
+- **Technologies:** HTML5, CSS3, JavaScript (ES6+), Tailwind CSS, Bootstrap, GitHub Actions
+- **Highlights:** A comprehensive showcase of interactive web applications featuring:
+  - Advanced calculator with explosion effects and keyboard support
+  - Interactive games (Knucklebones, Rock Paper Scissors)
+  - Technical quiz applications and educational tools
+  - Responsive design with modern CSS animations
+  - Automated deployment via GitHub Actions
+- **Features:** Mobile-first responsive design, accessibility compliance, interactive animations, and professional documentation
+
+### **🚀 StrayDog Syndications LLC Homepage**
 - **Platform:** Wix / WordPress
 - **Highlights:** Developed a professional digital presence that not only looks sharp but also captures the spirit of a brand ready to make its mark in a noisy digital world.
 
