@@ -111,6 +111,10 @@ Explore my comprehensive web development portfolio featuring interactive project
 ![A/B Testing](https://img.shields.io/badge/A/B%20Testing-FF6C37?style=for-the-badge&logo=optimizely&logoColor=white)
 ![Information Technology](https://img.shields.io/badge/IT-0078D7?style=for-the-badge&logo=windows&logoColor=white)
 
+### Coding Challenges & Practice
+
+[![CodeWars](https://www.codewars.com/users/StrayDogSyn/badges/large)](https://www.codewars.com/users/StrayDogSyn)
+
 ### Additional Skills
 - **Object-Oriented Programming (OOP)** with JavaScript
 - **ES.next** modern JavaScript features
