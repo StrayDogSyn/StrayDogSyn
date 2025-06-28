@@ -8,11 +8,12 @@ I'm an enthusiastic learner who's always on a quest for new technologies. Whethe
 
 ## 🌐 Live Portfolio - Interactive Project Showcase
 
-**🚀 [View My Live Portfolio](https://straydogsyn.github.io/Learner-Files)** 
+**🚀 [View My Live Portfolio](https://straydogsyn.github.io/Learner-Files)**
 
 Explore my comprehensive web development portfolio featuring interactive projects, games, and applications! This live showcase demonstrates my full-stack capabilities and creative problem-solving approach:
 
 ### 🎮 Featured Interactive Projects
+
 - **🧮 Advanced Calculator** - Complete with explosion effects for divide-by-zero operations and full keyboard support
 - **🎲 Knucklebones Game** - Interactive dice-based strategy game with dynamic scoring
 - **🗿 Rock Paper Scissors** - Classic game with modern UI and responsive design  
@@ -20,11 +21,13 @@ Explore my comprehensive web development portfolio featuring interactive project
 - **🎯 Interactive Navbar** - Showcase of navigation design patterns and accessibility features
 
 ### 💼 Professional Showcase
+
 - **📄 Interactive Resume** - Comprehensive technical skills and professional experience
 - **🏢 Company Portfolio** - StrayDog Syndications LLC project gallery
 - **📱 Responsive Design** - Mobile-first approach with modern CSS and JavaScript
 
 ### 🛠️ Technical Highlights
+
 - **Pure JavaScript** implementations with ES6+ features
 - **Responsive CSS** with Tailwind and custom styling
 - **Interactive Animations** and visual effects
@@ -41,6 +44,7 @@ Explore my comprehensive web development portfolio featuring interactive project
 ## 🛠️ Tech Stack & Skills
 
 ### Front-End Development
+
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -48,6 +52,7 @@ Explore my comprehensive web development portfolio featuring interactive project
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Back-End Development
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -59,6 +64,7 @@ Explore my comprehensive web development portfolio featuring interactive project
 ![API Development](https://img.shields.io/badge/API%20Development-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Front-End Technologies
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![ES6](https://img.shields.io/badge/ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![ECMAScript](https://img.shields.io/badge/ECMAScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -70,6 +76,7 @@ Explore my comprehensive web development portfolio featuring interactive project
 ![Front-end Coding](https://img.shields.io/badge/Front--end%20Coding-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Web & Content Management
+
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Wix](https://img.shields.io/badge/Wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white)
 ![SquareSpace](https://img.shields.io/badge/Squarespace-000000?style=for-the-badge&logo=squarespace&logoColor=white)
@@ -79,6 +86,7 @@ Explore my comprehensive web development portfolio featuring interactive project
 ![JavaScript Libraries](https://img.shields.io/badge/JS%20Libraries-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### AI & Development Tools
+
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Artificial Intelligence](https://img.shields.io/badge/AI-00C4CC?style=for-the-badge&logo=probot&logoColor=white)
@@ -86,6 +94,7 @@ Explore my comprehensive web development portfolio featuring interactive project
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### Mobile & System Tools
+
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![ADB/FASTBOOT](https://img.shields.io/badge/ADB%2FFASTBOOT-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -96,6 +105,7 @@ Explore my comprehensive web development portfolio featuring interactive project
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Terminal & Command Line
+
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -104,6 +114,7 @@ Explore my comprehensive web development portfolio featuring interactive project
 ![Shell Scripting](https://img.shields.io/badge/Shell%20Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Professional Skills
+
 ![Teaching](https://img.shields.io/badge/Teaching-FF0000?style=for-the-badge&logo=academia&logoColor=white)
 ![Facilitation](https://img.shields.io/badge/Facilitation-0078D4?style=for-the-badge&logo=microsoft-teams&logoColor=white)
 ![Technical Writing](https://img.shields.io/badge/Technical%20Writing-000000?style=for-the-badge&logo=markdown&logoColor=white)
@@ -117,7 +128,10 @@ Explore my comprehensive web development portfolio featuring interactive project
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/StrayDogSyn/)
 
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/straydogsyndica1)
+
 ### Additional Skills
+
 - **Object-Oriented Programming (OOP)** with JavaScript
 - **ES.next** modern JavaScript features
 - Expertise in **Content Management Systems (CMS)** implementation
@@ -129,8 +143,10 @@ I thrive on learning new frameworks and can smoothly transition into emerging te
 
 ## 👨‍💻 Experience
 
-### Outlier AI, Remote — *AI Content Writer*  
-*October 2024 - Present*  
+### Outlier AI, Remote — *AI Content Writer*
+
+*October 2024 - Present*
+
 - **Rewriting the Future:** Revised and fine-tuned written content to perfectly align with client visions and publisher needs.
 - **Predictive Prowess:** Tested, validated, and optimized models to ensure accurate predictions.
 - **Innovative Application Development:** Developed new functions and applications to drive insightful analyses.
@@ -141,21 +157,28 @@ At Outlier, I get to merge creativity with precision, ensuring that both human r
 
 ## 🎓 Education
 
-### Justice Through Code, Tech Pathways (Back-End Development & AI/ML)  
-*Anticipated Graduation: August 14th*  
+### Justice Through Code, Tech Pathways (Back-End Development & AI/ML)
+
+*Anticipated Graduation: August 14th*
+
 - Currently immersed in back-end development with a focus on Python and AI/ML, honing skills to tackle real-world challenges and integrate next-generation technologies into innovative solutions.
-  
-### Web Development Fundamentals - The Last Mile  
-*September 2024*  
+
+### Web Development Fundamentals - The Last Mile
+
+*September 2024*
+
 - Built a robust JavaScript application to manage content for tabletop game characters. Because why not mix code with a bit of geeky nostalgia?
 
-### Associate in Applied Science - Community College of Rhode Island  
-*September 2020 - Present*  
+### Associate in Applied Science - Community College of Rhode Island
+
+*September 2020 - Present*
+
 - Earned 21 credit hours while navigating through challenges, with an additional 30 credits via independent study through the ReEntry Campus Program in RI-DOC. I believe that every line of code and every academic challenge is a stepping stone to becoming a better developer. I will be completing my degree in Computer Network Technologies majoring in Hardware/Software, early 2026.
 
 ## 🌟 Projects
 
 ### **🌐 Interactive Web Development Portfolio**
+
 **🚀 [Live Portfolio](https://straydogsyn.github.io/Learner-Files)** | **📂 [Source Code](https://github.com/StrayDogSyn/Learner-Files)**
 
 - **Technologies:** HTML5, CSS3, JavaScript (ES6+), Tailwind CSS, Bootstrap, GitHub Actions
@@ -168,19 +191,23 @@ At Outlier, I get to merge creativity with precision, ensuring that both human r
 - **Features:** Mobile-first responsive design, accessibility compliance, interactive animations, and professional documentation
 
 ### **🚀 StrayDog Syndications LLC Homepage**
+
 - **Platform:** Wix / WordPress
 - **Highlights:** Developed a professional digital presence that not only looks sharp but also captures the spirit of a brand ready to make its mark in a noisy digital world.
 
 ### **💻 Learner Files Repository**
+
 - **Technologies:** Python, Git, Data Structures, Algorithms
 - **Overview:** A comprehensive collection of coding exercises, algorithms, and data structure implementations from my learning journey. This repository showcases my progression and serves as a knowledge base for future reference and continuous improvement.
 
 ### **📝 Full Stack To-Do List Application**
+
 - **Technologies:** MERN Stack (MongoDB, Express.js, React, Node.js), RESTful API
 - **Highlights:** Built a responsive to-do list application with user authentication, task categorization, priority settings, and due date notifications. Implemented CRUD operations with a clean, intuitive interface and optimized database queries for performance.
 
-### **🔥 Code the Dream Pre-work Submission**  
-- **Technologies:** HTML, CSS, JavaScript, jQuery, Bootstrap, API  
+### **🔥 Code the Dream Pre-work Submission**
+
+- **Technologies:** HTML, CSS, JavaScript, jQuery, Bootstrap, API
 - **Overview:** This project was all about demonstrating technical chops and readiness for the immersive experience at Code the Dream bootcamp. It's a testament to my belief that learning by doing is the best kind of learning—sort of like mastering the art of the perfect avocado toast.
 
 ## 🎉 Fun Facts & What I'm Working On
