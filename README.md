@@ -115,6 +115,8 @@ Explore my comprehensive web development portfolio featuring interactive project
 
 [![CodeWars](https://www.codewars.com/users/StrayDogSyn/badges/large)](https://www.codewars.com/users/StrayDogSyn)
 
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/StrayDogSyn/)
+
 ### Additional Skills
 - **Object-Oriented Programming (OOP)** with JavaScript
 - **ES.next** modern JavaScript features
