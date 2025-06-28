@@ -145,7 +145,7 @@ I thrive on learning new frameworks and can smoothly transition into emerging te
 
 ### Outlier AI, Remote — *AI Content Writer*
 
-*October 2024 - Present*
+October 2024 - Present
 
 - **Rewriting the Future:** Revised and fine-tuned written content to perfectly align with client visions and publisher needs.
 - **Predictive Prowess:** Tested, validated, and optimized models to ensure accurate predictions.
@@ -159,19 +159,19 @@ At Outlier, I get to merge creativity with precision, ensuring that both human r
 
 ### Justice Through Code, Tech Pathways (Back-End Development & AI/ML)
 
-*Anticipated Graduation: August 14th*
+Anticipated Graduation: August 14th
 
 - Currently immersed in back-end development with a focus on Python and AI/ML, honing skills to tackle real-world challenges and integrate next-generation technologies into innovative solutions.
 
 ### Web Development Fundamentals - The Last Mile
 
-*September 2024*
+September 2024
 
 - Built a robust JavaScript application to manage content for tabletop game characters. Because why not mix code with a bit of geeky nostalgia?
 
 ### Associate in Applied Science - Community College of Rhode Island
 
-*September 2020 - Present*
+September 2020 - Present
 
 - Earned 21 credit hours while navigating through challenges, with an additional 30 credits via independent study through the ReEntry Campus Program in RI-DOC. I believe that every line of code and every academic challenge is a stepping stone to becoming a better developer. I will be completing my degree in Computer Network Technologies majoring in Hardware/Software, early 2026.
 
