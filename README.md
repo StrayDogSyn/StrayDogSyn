@@ -8,7 +8,7 @@ I'm an enthusiastic learner who's always on a quest for new technologies. Whethe
 
 ## 🌐 Live Portfolio - Interactive Project Showcase
 
-**🚀 [View My Live Portfolio](https://straydogsyn.github.io/Learner-Files)**
+**🚀 [View My Live Portfolio](https://straydogsyn.github.io/Learner-Files/)**
 
 Explore my comprehensive web development portfolio featuring interactive projects, games, and applications! This live showcase demonstrates my full-stack capabilities and creative problem-solving approach:
 
