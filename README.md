@@ -45,91 +45,92 @@ Explore my comprehensive web development portfolio featuring interactive project
 
 ### Front-End Development
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-1a1b27?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1a1b27?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1b27?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![jQuery](https://img.shields.io/badge/jQuery-1a1b27?style=for-the-badge&logo=jquery&logoColor=0769AD)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-1a1b27?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 
 ### Back-End Development
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![MERN Stack](https://img.shields.io/badge/MERN-000000?style=for-the-badge&logo=mongodb&logoColor=white)
-![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![API Development](https://img.shields.io/badge/API%20Development-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-1a1b27?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express.js-1a1b27?style=for-the-badge&logo=express&logoColor=FFFFFF)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a1b27?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![React](https://img.shields.io/badge/React-1a1b27?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=3776AB)
+![Pandas](https://img.shields.io/badge/Pandas-1a1b27?style=for-the-badge&logo=pandas&logoColor=150458)
+![MERN Stack](https://img.shields.io/badge/MERN-1a1b27?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-1a1b27?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![API Development](https://img.shields.io/badge/API%20Development-1a1b27?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
 ### Front-End Technologies
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![ES6](https://img.shields.io/badge/ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![ECMAScript](https://img.shields.io/badge/ECMAScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vanilla JavaScript](https://img.shields.io/badge/Vanilla%20JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![AJAX](https://img.shields.io/badge/AJAX-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![HTML Canvas](https://img.shields.io/badge/HTML%20Canvas-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![p5.js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=white)
-![Front-end Coding](https://img.shields.io/badge/Front--end%20Coding-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![ES6](https://img.shields.io/badge/ES6-1a1b27?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![ECMAScript](https://img.shields.io/badge/ECMAScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Vanilla JavaScript](https://img.shields.io/badge/Vanilla%20JS-1a1b27?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![AJAX](https://img.shields.io/badge/AJAX-1a1b27?style=for-the-badge&logo=jquery&logoColor=0769AD)
+![jQuery](https://img.shields.io/badge/jQuery-1a1b27?style=for-the-badge&logo=jquery&logoColor=0769AD)
+![HTML Canvas](https://img.shields.io/badge/HTML%20Canvas-1a1b27?style=for-the-badge&logo=html5&logoColor=E34F26)
+![p5.js](https://img.shields.io/badge/p5.js-1a1b27?style=for-the-badge&logo=p5.js&logoColor=ED225D)
+![Front-end Coding](https://img.shields.io/badge/Front--end%20Coding-1a1b27?style=for-the-badge&logo=css3&logoColor=1572B6)
 
 ### Web & Content Management
 
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Wix](https://img.shields.io/badge/Wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white)
-![SquareSpace](https://img.shields.io/badge/Squarespace-000000?style=for-the-badge&logo=squarespace&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![API](https://img.shields.io/badge/API-0096FF?style=for-the-badge&logo=api&logoColor=white)
-![CMS](https://img.shields.io/badge/CMS-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![JavaScript Libraries](https://img.shields.io/badge/JS%20Libraries-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![WordPress](https://img.shields.io/badge/WordPress-1a1b27?style=for-the-badge&logo=wordpress&logoColor=21759B)
+![Wix](https://img.shields.io/badge/Wix-1a1b27?style=for-the-badge&logo=wix&logoColor=0C6EFC)
+![Squarespace](https://img.shields.io/badge/Squarespace-1a1b27?style=for-the-badge&logo=squarespace&logoColor=FFFFFF)
+![JSON](https://img.shields.io/badge/JSON-1a1b27?style=for-the-badge&logo=json&logoColor=FFFFFF)
+![API](https://img.shields.io/badge/API-1a1b27?style=for-the-badge&logo=api&logoColor=0096FF)
+![CMS](https://img.shields.io/badge/CMS-1a1b27?style=for-the-badge&logo=wordpress&logoColor=21759B)
+![JavaScript Libraries](https://img.shields.io/badge/JS%20Libraries-1a1b27?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ### AI & Development Tools
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
-![Artificial Intelligence](https://img.shields.io/badge/AI-00C4CC?style=for-the-badge&logo=probot&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-1a1b27?style=for-the-badge&logo=openai&logoColor=74aa9c)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-1a1b27?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Artificial Intelligence](https://img.shields.io/badge/AI-1a1b27?style=for-the-badge&logo=probot&logoColor=00C4CC)
+![Git](https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=FFFFFF)
 
 ### Mobile & System Tools
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![ADB/FASTBOOT](https://img.shields.io/badge/ADB%2FFASTBOOT-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Android Troubleshooting](https://img.shields.io/badge/Android%20Troubleshooting-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Data Recovery](https://img.shields.io/badge/Data%20Recovery-007AFF?style=for-the-badge&logo=data&logoColor=white)
-![FRP Unlocking](https://img.shields.io/badge/FRP%20Unlocking-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Android](https://img.shields.io/badge/Android-1a1b27?style=for-the-badge&logo=android&logoColor=3DDC84)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-1a1b27?style=for-the-badge&logo=android-studio&logoColor=3DDC84)
+![ADB/FASTBOOT](https://img.shields.io/badge/ADB%2FFASTBOOT-1a1b27?style=for-the-badge&logo=android&logoColor=3DDC84)
+![Android Troubleshooting](https://img.shields.io/badge/Android%20Troubleshooting-1a1b27?style=for-the-badge&logo=android&logoColor=3DDC84)
+![Data Recovery](https://img.shields.io/badge/Data%20Recovery-1a1b27?style=for-the-badge&logo=data&logoColor=007AFF)
+![FRP Unlocking](https://img.shields.io/badge/FRP%20Unlocking-1a1b27?style=for-the-badge&logo=android&logoColor=3DDC84)
+![VBA](https://img.shields.io/badge/VBA-1a1b27?style=for-the-badge&logo=microsoft-office&logoColor=217346)
+![SQL](https://img.shields.io/badge/SQL-1a1b27?style=for-the-badge&logo=postgresql&logoColor=4479A1)
 
 ### Terminal & Command Line
 
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Git CLI](https://img.shields.io/badge/Git%20CLI-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Command Line](https://img.shields.io/badge/Command%20Line-000000?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Shell Scripting](https://img.shields.io/badge/Shell%20Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-1a1b27?style=for-the-badge&logo=powershell&logoColor=5391FE)
+![Bash](https://img.shields.io/badge/Bash-1a1b27?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-1a1b27?style=for-the-badge&logo=ubuntu&logoColor=E95420)
+![Git CLI](https://img.shields.io/badge/Git%20CLI-1a1b27?style=for-the-badge&logo=git&logoColor=F05032)
+![Command Line](https://img.shields.io/badge/Command%20Line-1a1b27?style=for-the-badge&logo=windows-terminal&logoColor=FFFFFF)
+![Shell Scripting](https://img.shields.io/badge/Shell%20Scripting-1a1b27?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25)
 
 ### Professional Skills
 
-![Teaching](https://img.shields.io/badge/Teaching-FF0000?style=for-the-badge&logo=academia&logoColor=white)
-![Facilitation](https://img.shields.io/badge/Facilitation-0078D4?style=for-the-badge&logo=microsoft-teams&logoColor=white)
-![Technical Writing](https://img.shields.io/badge/Technical%20Writing-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Professional Ethics](https://img.shields.io/badge/Professional%20Ethics-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)
-![A/B Testing](https://img.shields.io/badge/A/B%20Testing-FF6C37?style=for-the-badge&logo=optimizely&logoColor=white)
-![Information Technology](https://img.shields.io/badge/IT-0078D7?style=for-the-badge&logo=windows&logoColor=white)
+![Teaching](https://img.shields.io/badge/Teaching-1a1b27?style=for-the-badge&logo=academia&logoColor=FF0000)
+![Facilitation](https://img.shields.io/badge/Facilitation-1a1b27?style=for-the-badge&logo=microsoft-teams&logoColor=0078D4)
+![Technical Writing](https://img.shields.io/badge/Technical%20Writing-1a1b27?style=for-the-badge&logo=markdown&logoColor=FFFFFF)
+![Professional Ethics](https://img.shields.io/badge/Professional%20Ethics-1a1b27?style=for-the-badge&logo=google-scholar&logoColor=4285F4)
+![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-1a1b27?style=for-the-badge&logo=optimizely&logoColor=FF6C37)
+![Information Technology](https://img.shields.io/badge/IT-1a1b27?style=for-the-badge&logo=windows&logoColor=0078D7)
 
 ### Coding Challenges & Practice
 
 [![CodeWars](https://www.codewars.com/users/StrayDogSyn/badges/large)](https://www.codewars.com/users/StrayDogSyn)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/StrayDogSyn/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1a1b27?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/StrayDogSyn/)
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/straydogsyndica1)
+[![HackerRank](https://img.shields.io/badge/HackerRank-1a1b27?style=for-the-badge&logo=hackerrank&logoColor=2EC866)](https://www.hackerrank.com/profile/straydogsyndica1)
+
 
 ### Additional Skills
 
