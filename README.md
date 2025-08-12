@@ -8,7 +8,7 @@ I'm an enthusiastic learner who's always on a quest for new technologies. Whethe
 
 ## 🌐 Live Portfolio - Interactive Project Showcase
 
-**🚀 [View My Live Portfolio](https://straydogsyn.github.io/Learner-Files/)**
+**🚀 [View My Live Portfolio](https://straydogsyn.github.io/Learner-Files-v3.5/)**
 
 Explore my comprehensive web development portfolio featuring interactive projects, games, and applications! This live showcase demonstrates my full-stack capabilities and creative problem-solving approach:
 
@@ -181,7 +181,7 @@ September 2020 - Present
 
 ### **🌐 Interactive Web Development Portfolio**
 
-**🚀 [Live Portfolio](https://straydogsyn.github.io/Learner-Files)** | **📂 [Source Code](https://github.com/StrayDogSyn/Learner-Files)**
+**🚀 [Live Portfolio](https://straydogsyn.github.io/Learner-Files-v3.5/)** | **📂 [Source Code](https://github.com/StrayDogSyn/Learner-Files-v3.5)**
 
 - **Technologies:** HTML5, CSS3, JavaScript (ES6+), Tailwind CSS, Bootstrap, GitHub Actions
 - **Highlights:** A comprehensive showcase of interactive web applications featuring:
