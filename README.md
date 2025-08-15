@@ -161,7 +161,7 @@ At Outlier, I get to merge creativity with precision, ensuring that both human r
 
 ### Justice Through Code, Tech Pathways (Back-End Development & AI/ML)
 
-Anticipated Graduation: August 14th
+August 2025
 
 - Currently immersed in back-end development with a focus on Python and AI/ML, honing skills to tackle real-world challenges and integrate next-generation technologies into innovative solutions.
 
