@@ -53,7 +53,7 @@ _The portfolio is automatically deployed via GitHub Actions and showcases real-w
 
 ### 🟢 MongoDB Certification — **NEW!**
 
-![MongoDB Certified Badge](https://images.credly.com/size/340x340/images/8e0b0c7e-2b7e-4e7a-8e7a-2b7e4e7a8e7a/image.png)
+![MongoDB AI Agent Certification](https://images.credly.com/size/110x110/images/252ed95c-8043-44f5-ae1f-6f5a6cf313c4/blob)
 
 [View my MongoDB Certification on Credly »](https://www.credly.com/badges/ac46733b-d150-4e52-bb9d-580843dfd12f/public_url)
 
