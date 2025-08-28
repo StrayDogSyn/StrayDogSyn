@@ -251,6 +251,7 @@ Explore my comprehensive web development portfolio featuring interactive project
 ![Academic Status](https://img.shields.io/badge/🎓%20Status-Active%20Student-7AA2F7?style=for-the-badge&logoColor=1A1B26)
 ![GPA](https://img.shields.io/badge/📊%20GPA-3.40-9ECE6A?style=for-the-badge&logoColor=1A1B26)
 ![Standing](https://img.shields.io/badge/🏆%20Standing-Good%20Academic-BB9AF7?style=for-the-badge&logoColor=1A1B26)
+![STEM Scholar](https://img.shields.io/badge/🔬%20STEM%20Pathway-Scholar-F7768E?style=for-the-badge&logoColor=1A1B26)
 
 </div>
 
@@ -264,27 +265,71 @@ Explore my comprehensive web development portfolio featuring interactive project
 
 ![Major](https://img.shields.io/badge/🎯%20Major-Computer%20&%20Networking%20Technology-7AA2F7?style=flat-square&logoColor=1A1B26)
 ![Concentration](https://img.shields.io/badge/🔧%20Concentration-Computer%20Networking%20Technology%20Hardware-73DACA?style=flat-square&logoColor=1A1B26)
-![Progress](https://img.shields.io/badge/📈%20Progress-22%25%20Complete-E0AF68?style=flat-square&logoColor=1A1B26)
+![Progress](https://img.shields.io/badge/📈%20Progress-60%25%20Credits%20Complete-E0AF68?style=flat-square&logoColor=1A1B26)
+![Requirements](https://img.shields.io/badge/📊%20Requirements-22%25%20Complete-9ECE6A?style=flat-square&logoColor=1A1B26)
 ![Pathway](https://img.shields.io/badge/🛤️%20Pathway-STEM-9D7CD8?style=flat-square&logoColor=1A1B26)
 
 </div>
 
 **📋 Core Coursework & Technical Focus:**
 
-- **Network Infrastructure:** TCP/IP, OSI Model, Network Protocols, Subnetting
-- **Hardware Systems:** Computer Architecture, Hardware Troubleshooting, System Assembly
-- **Operating Systems:** Windows Server Administration, Linux Fundamentals
-- **Security Fundamentals:** Network Security, Cybersecurity Principles
-- **Programming Foundations:** Logic Development, Algorithm Design
-- **Database Management:** SQL Fundamentals, Data Structure Design
-- **Project Management:** Technical Documentation, Team Collaboration
+**🌐 Network Infrastructure & Protocols:**
+
+- TCP/IP Protocol Suite, OSI Model Implementation
+- Network Design, Subnetting, VLAN Configuration
+- Routing & Switching Fundamentals
+- Wireless Network Technologies
+
+**💻 Hardware Systems & Architecture:**
+
+- Computer Architecture & System Design
+- Hardware Troubleshooting & Diagnostics
+- System Assembly & Component Integration
+- Performance Optimization & Maintenance
+
+**🖥️ Operating Systems & Administration:**
+
+- Windows Server Administration & Management
+- Linux Fundamentals & Command Line Interface
+- System Configuration & User Management
+- Virtualization Technologies
+
+**🔒 Security & Cybersecurity:**
+
+- Network Security Protocols & Implementation
+- Cybersecurity Principles & Best Practices
+- Risk Assessment & Vulnerability Management
+- Security Monitoring & Incident Response
+
+**⚡ Programming & Development:**
+
+- Logic Development & Algorithm Design
+- Object-Oriented Programming Concepts
+- Software Development Lifecycle
+- Code Documentation & Version Control
+
+**🗄️ Database Management & Design:**
+
+- SQL Fundamentals & Query Optimization
+- Database Design & Normalization
+- Data Structure Implementation
+- Database Administration & Backup Strategies
+
+**📊 Project Management & Collaboration:**
+
+- Technical Documentation & Communication
+- Team Collaboration & Agile Methodologies
+- Project Planning & Resource Management
+- Quality Assurance & Testing Procedures
 
 **🏆 Academic Achievements:**
 
-- **Dean's List Recognition** - Multiple semesters for academic excellence
-- **STEM Pathway Scholar** - Specialized track in Science, Technology, Engineering & Math
-- **Consistent Academic Performance** - Maintained 3.40+ GPA throughout program
-- **Hands-on Laboratory Excellence** - Practical application of networking concepts
+- **🥇 Dean's List Recognition** - Multiple semesters for academic excellence (3.5+ GPA)
+- **🔬 STEM Pathway Scholar** - Specialized track in Science, Technology, Engineering & Math
+- **📈 Consistent Academic Performance** - Maintained 3.40+ GPA throughout program
+- **🛠️ Hands-on Laboratory Excellence** - Practical application of networking concepts
+- **📚 Advanced Standing** - 60% credit completion demonstrates strong academic progress
+- **🎯 Good Academic Standing** - Verified academic status with institution
 
 ### 🚀 Professional Development & Specialized Training
 
