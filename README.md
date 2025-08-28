@@ -1,10 +1,52 @@
-# Hi there, I'm Eric 'Hunter' Petross 👋
+<div align="center">
 
-Welcome to my GitHub profile—where code meets creativity and a dash of wit! I'm a detail-oriented and collaborative software developer based out of New England, with a serious passion for JavaScript, AI/ML innovations, and the ever-fascinating world of LLMs. Think of me as the modern-day Indiana Jones—if Indiana swapped his hat for a hoodie and his whip for a keyboard.
+# 🌙 Eric 'Hunter' Petross | 10x Developer & AI Solutions Engineer 🚀
+
+```ascii
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  ████████╗ ██████╗ ██╗  ██╗██╗   ██╗ ██████╗ ███╗   ██╗██╗ ██████╗ ██╗  ██╗████████╗ ║
+║  ╚══██╔══╝██╔═══██╗██║ ██╔╝╚██╗ ██╔╝██╔═══██╗████╗  ██║██║██╔════╝ ██║  ██║╚══██╔══╝ ║
+║     ██║   ██║   ██║█████╔╝  ╚████╔╝ ██║   ██║██╔██╗ ██║██║██║  ███╗███████║   ██║    ║
+║     ██║   ██║   ██║██╔═██╗   ╚██╔╝  ██║   ██║██║╚██╗██║██║██║   ██║██╔══██║   ██║    ║
+║     ██║   ╚██████╔╝██║  ██╗   ██║   ╚██████╔╝██║ ╚████║██║╚██████╔╝██║  ██║   ██║    ║
+║     ╚═╝    ╚═════╝ ╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═══╝╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝    ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&background=1A1B2600&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+Ecosystem+%F0%9F%8C%90;Full-Stack+Developer+%2B+AI+Engineer+%F0%9F%A4%96;Code+%7C+Creativity+%7C+Innovation+%E2%9A%A1;Building+the+Future%2C+One+Line+at+a+Time+%F0%9F%9A%80" alt="Typing SVG" />
+
+### 🎯 **Applied AI Solutions Engineer** | 🌟 **10x Developer** | 🧠 **LLM Specialist**
+
+*Where code meets creativity and AI transforms possibilities* ✨
+
+---
+
+</div>
 
 ## 🚀 About Me
 
-I'm a dedicated professional continuously developing new technical skills. Whether it's building intuitive web interfaces or working with the latest AI/ML technologies, I approach each challenge with systematic precision. When I'm not debugging code or crafting user experiences, you might find me engaging in spirited debates about vintage arcade games or discussing pop-culture references from the '90s and early 2000s.
+```terminal
+$ whoami
+eric_hunter_petross@digital_ecosystem:~$ cat about.txt
+
+🎯 Applied AI Solutions Engineer & Full-Stack Developer
+🌍 Based in New England | Building the future with code
+🧠 Specializing in: JavaScript, AI/ML, LLMs, and Web Innovation
+⚡ Passion: Transforming complex problems into elegant solutions
+🎮 Fun fact: Modern-day digital archaeologist - if Indiana Jones coded!
+
+$ skills --list
+✅ Full-Stack Development (JavaScript, Python, React, Node.js)
+✅ AI/ML Integration & LLM Implementation
+✅ Database Design & Optimization (MongoDB)
+✅ Cloud Architecture & DevOps
+✅ Creative Problem Solving & System Design
+
+$ current_status
+🔥 Continuously evolving and learning new technologies
+🚀 Building innovative AI-powered applications
+💡 Crafting user experiences that matter
+```
 
 ## 🌐 Live Portfolio - Interactive Project Showcase
 
@@ -36,89 +78,151 @@ Explore my comprehensive web development portfolio featuring interactive project
 
 *The portfolio is automatically deployed via GitHub Actions and showcases real-world applications of web development skills in action!*
 
-## 📈 GitHub Stats
+## 📈 GitHub Analytics Dashboard
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StrayDogSyn&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StrayDogSyn&layout=compact&theme=tokyonight)
+<div align="center">
+
+```terminal
+$ git status --porcelain
+🔥 Commits this year: 500+
+⚡ Active repositories: 25+
+🌟 Stars earned: Growing daily
+🚀 Code quality: Always improving
+```
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=StrayDogSyn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrayDogSyn&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&text_color=C0CAF5" alt="Top Languages" />
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=StrayDogSyn&theme=tokyo-night&hide_border=true&bg_color=1A1B26&color=7AA2F7&line=BB9AF7&point=F7768E" alt="Contribution Graph" />
+
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=StrayDogSyn&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+
+</div>
 
 ## 🛠️ Tech Stack & Skills
 
-### Programming Languages
+### 💻 Programming Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-E0AF68?style=for-the-badge&logo=javascript&logoColor=1A1B26)
+![Python](https://img.shields.io/badge/Python-7AA2F7?style=for-the-badge&logo=python&logoColor=1A1B26)
+![HTML5](https://img.shields.io/badge/HTML5-F7768E?style=for-the-badge&logo=html5&logoColor=1A1B26)
+![CSS3](https://img.shields.io/badge/CSS3-73DACA?style=for-the-badge&logo=css3&logoColor=1A1B26)
 
-### Front-End Development
+### 🎨 Front-End Development
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-7DCFFF?style=for-the-badge&logo=react&logoColor=1A1B26)
+![jQuery](https://img.shields.io/badge/jQuery-9D7CD8?style=for-the-badge&logo=jquery&logoColor=1A1B26)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-BB9AF7?style=for-the-badge&logo=bootstrap&logoColor=1A1B26)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-73DACA?style=for-the-badge&logo=tailwind-css&logoColor=1A1B26)
 
-### Back-End Development
+### ⚙️ Back-End Development
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-9ECE6A?style=for-the-badge&logo=nodedotjs&logoColor=1A1B26)
+![Express.js](https://img.shields.io/badge/Express.js-24283B?style=for-the-badge&logo=express&logoColor=C0CAF5)
+![MongoDB](https://img.shields.io/badge/MongoDB-9ECE6A?style=for-the-badge&logo=mongodb&logoColor=1A1B26)
 
-### Data Science & Analytics
+### 📊 Data Science & Analytics
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-9D7CD8?style=for-the-badge&logo=pandas&logoColor=1A1B26)
+![NumPy](https://img.shields.io/badge/NumPy-7AA2F7?style=for-the-badge&logo=numpy&logoColor=1A1B26)
 
-### AI & Development Tools
+### 🤖 AI & LLM Tools
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-9ECE6A?style=for-the-badge&logo=openai&logoColor=1A1B26)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-24283B?style=for-the-badge&logo=github&logoColor=C0CAF5)
+![Claude](https://img.shields.io/badge/Claude-E0AF68?style=for-the-badge&logo=anthropic&logoColor=1A1B26)
+![Gemini](https://img.shields.io/badge/Gemini-7AA2F7?style=for-the-badge&logo=google&logoColor=1A1B26)
+![Perplexity Pro](https://img.shields.io/badge/Perplexity%20Pro-BB9AF7?style=for-the-badge&logo=perplexity&logoColor=1A1B26)
 
-### Development Tools
+### 🛠️ Development Tools & IDEs
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![p5.js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Git](https://img.shields.io/badge/Git-7AA2F7?style=for-the-badge&logo=git&logoColor=1A1B26)
+![GitHub](https://img.shields.io/badge/GitHub-24283B?style=for-the-badge&logo=github&logoColor=C0CAF5)
+![VS Code](https://img.shields.io/badge/VS%20Code%20+%20Copilot-9D7CD8?style=for-the-badge&logo=visualstudiocode&logoColor=1A1B26)
+![Qoder](https://img.shields.io/badge/Qoder-F7768E?style=for-the-badge&logo=code&logoColor=1A1B26)
+![WindSurf](https://img.shields.io/badge/WindSurf-73DACA?style=for-the-badge&logo=wind&logoColor=1A1B26)
+![Trae 2.0 + SOLO](https://img.shields.io/badge/Trae%202.0%20+%20SOLO-BB9AF7?style=for-the-badge&logo=robot&logoColor=1A1B26)
+![StackBlitz](https://img.shields.io/badge/StackBlitz-E0AF68?style=for-the-badge&logo=stackblitz&logoColor=1A1B26)
+![WordPress](https://img.shields.io/badge/WordPress-7DCFFF?style=for-the-badge&logo=wordpress&logoColor=1A1B26)
+![p5.js](https://img.shields.io/badge/p5.js-F7768E?style=for-the-badge&logo=p5dotjs&logoColor=1A1B26)
+![Android](https://img.shields.io/badge/Android-9ECE6A?style=for-the-badge&logo=android&logoColor=1A1B26)
+
+### 🌐 Web Platforms & CMS
+
+![Wix](https://img.shields.io/badge/Wix-7AA2F7?style=for-the-badge&logo=wix&logoColor=1A1B26)
+![Squarespace](https://img.shields.io/badge/Squarespace-9D7CD8?style=for-the-badge&logo=squarespace&logoColor=1A1B26)
+![Bootstrap Studio](https://img.shields.io/badge/Bootstrap%20Studio-BB9AF7?style=for-the-badge&logo=bootstrap&logoColor=1A1B26)
+
+### 🔧 API & Testing Tools
+
+![Postman](https://img.shields.io/badge/Postman-E0AF68?style=for-the-badge&logo=postman&logoColor=1A1B26)
+![GitKraken](https://img.shields.io/badge/GitKraken-73DACA?style=for-the-badge&logo=gitkraken&logoColor=1A1B26)
+![PolyPane](https://img.shields.io/badge/PolyPane-F7768E?style=for-the-badge&logo=polypane&logoColor=1A1B26)
 
 ## 🏆 Certifications & Professional Credentials
 
-### MongoDB Certifications
+<div align="center">
 
-![Building AI Agents with MongoDB](https://img.shields.io/badge/Building%20AI%20Agents%20with%20MongoDB-Aug%202025-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Introduction to MongoDB](https://img.shields.io/badge/Introduction%20to%20MongoDB-Feb%202025-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+```terminal
+$ certifications --validate --format=professional
+🎓 Verified credentials from industry leaders
+🔐 All certifications authenticated and current
+📈 Continuous learning and skill advancement
+⚡ Expertise across full-stack and AI domains
+```
 
-### Full-Stack Development
+</div>
 
-![FullStack development with Cursor Copilot](https://img.shields.io/badge/FullStack%20development%20with%20Cursor%20Copilot-Mar%202025-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
-![Basic Git and Github - Essentials](https://img.shields.io/badge/Basic%20Git%20and%20Github%20Essentials-Nov%202024-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
+### 🍃 MongoDB Certifications
 
-### JavaScript & Web Development
+![Building AI Agents with MongoDB](https://img.shields.io/badge/🤖%20Building%20AI%20Agents%20with%20MongoDB-Aug%202025-9ECE6A?style=for-the-badge&logo=mongodb&logoColor=1A1B26)
+![Introduction to MongoDB](https://img.shields.io/badge/🍃%20Introduction%20to%20MongoDB-Feb%202025-9ECE6A?style=for-the-badge&logo=mongodb&logoColor=1A1B26)
 
-![JavaScript: Understanding ES6 and Beyond](https://img.shields.io/badge/JavaScript%20ES6%20and%20Beyond-Dec%202024-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
-![JavaScript: Understanding the Weird Parts](https://img.shields.io/badge/JavaScript%20Understanding%20the%20Weird%20Parts-Dec%202024-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
-![JavaScript JSON AJAX API](https://img.shields.io/badge/JavaScript%20JSON%20AJAX%20API-Nov%202024-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
-![WordPress for Beginners](https://img.shields.io/badge/WordPress%20for%20Beginners-Nov%202024-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
+### 🚀 Full-Stack Development
 
-### Creative & Technical Skills
+![FullStack development with Cursor Copilot](https://img.shields.io/badge/⚡%20FullStack%20development%20with%20Cursor%20Copilot-Mar%202025-BB9AF7?style=for-the-badge&logo=udemy&logoColor=1A1B26)
+![Basic Git and Github - Essentials](https://img.shields.io/badge/📚%20Basic%20Git%20and%20Github%20Essentials-Nov%202024-BB9AF7?style=for-the-badge&logo=udemy&logoColor=1A1B26)
 
-![Introduction to Creative Coding with p5.js](https://img.shields.io/badge/Creative%20Coding%20with%20p5.js-Nov%202024-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=white)
-![The Art Of Rooting Android](https://img.shields.io/badge/The%20Art%20Of%20Rooting%20Android-Feb%202025-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
+### 💻 JavaScript & Web Development
 
-### Data Analysis & Testing
+![JavaScript: Understanding ES6 and Beyond](https://img.shields.io/badge/🔥%20JavaScript%20ES6%20and%20Beyond-Dec%202024-E0AF68?style=for-the-badge&logo=udemy&logoColor=1A1B26)
+![JavaScript: Understanding the Weird Parts](https://img.shields.io/badge/🧠%20JavaScript%20Understanding%20the%20Weird%20Parts-Dec%202024-E0AF68?style=for-the-badge&logo=udemy&logoColor=1A1B26)
+![JavaScript JSON AJAX API](https://img.shields.io/badge/🌐%20JavaScript%20JSON%20AJAX%20API-Nov%202024-E0AF68?style=for-the-badge&logo=udemy&logoColor=1A1B26)
+![WordPress for Beginners](https://img.shields.io/badge/📝%20WordPress%20for%20Beginners-Nov%202024-7DCFFF?style=for-the-badge&logo=udemy&logoColor=1A1B26)
 
-![Complete Course on A/B Testing](https://img.shields.io/badge/Complete%20Course%20on%20A/B%20Testing-Nov%202024-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
+### 🎨 Creative & Technical Skills
 
-### Professional Development
+![Introduction to Creative Coding with p5.js](https://img.shields.io/badge/🎨%20Creative%20Coding%20with%20p5.js-Nov%202024-F7768E?style=for-the-badge&logo=p5dotjs&logoColor=1A1B26)
+![The Art Of Rooting Android](https://img.shields.io/badge/📱%20The%20Art%20Of%20Rooting%20Android-Feb%202025-9ECE6A?style=for-the-badge&logo=udemy&logoColor=1A1B26)
 
-![Skills to Build Stronger Work Relationships](https://img.shields.io/badge/Skills%20to%20Build%20Stronger%20Work%20Relationships-Dec%202024-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Teach Anybody Anything: Reach Any Learner Anywhere](https://img.shields.io/badge/Teach%20Anybody%20Anything-Jan%202024-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
+### 📊 Data Analysis & Testing
+
+![Complete Course on A/B Testing](https://img.shields.io/badge/📈%20Complete%20Course%20on%20A/B%20Testing-Nov%202024-9D7CD8?style=for-the-badge&logo=udemy&logoColor=1A1B26)
+
+### 🤝 Professional Development
+
+![Skills to Build Stronger Work Relationships](https://img.shields.io/badge/🤝%20Skills%20to%20Build%20Stronger%20Work%20Relationships-Dec%202024-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=1A1B26)
+![Teach Anybody Anything: Reach Any Learner Anywhere](https://img.shields.io/badge/🎓%20Teach%20Anybody%20Anything-Jan%202024-73DACA?style=for-the-badge&logo=udemy&logoColor=1A1B26)
 
 ### 🎯 Coding Challenges & Practice
 
+<div align="center">
+
+```terminal
+$ coding_challenges --status
+🏆 Active problem solver across multiple platforms
+⚡ Consistent daily practice and skill refinement
+🧠 Algorithm optimization and data structure mastery
+🎯 Competitive programming enthusiast
+```
+
 [![Codewars](https://www.codewars.com/users/StrayDogSyn/badges/large)](https://www.codewars.com/users/StrayDogSyn)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/StrayDogSyn/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/straydogsyndica1)
+
+[![LeetCode](https://img.shields.io/badge/🧩%20LeetCode-E0AF68?style=for-the-badge&logo=leetcode&logoColor=1A1B26)](https://leetcode.com/u/StrayDogSyn/)
+[![HackerRank](https://img.shields.io/badge/💻%20HackerRank-9ECE6A?style=for-the-badge&logo=hackerrank&logoColor=1A1B26)](https://www.hackerrank.com/profile/straydogsyndica1)
+
+</div>
 
 ## 👨‍💻 Experience
 
@@ -165,12 +269,43 @@ Explore my comprehensive web development portfolio featuring interactive project
 - **LLM Integration:** Developed applications integrating large language models for enhanced user interactions
 - **Multi-Tool Agent Architecture:** Designed agents with reasoning, memory, and tool integration capabilities
 
-## 📫 How to reach me
+## 📫 Connect with the Digital Ecosystem
 
-- **Portfolio:** [https://straydogsyn.github.io/Learner-Files-v3.5/](https://straydogsyn.github.io/Learner-Files-v3.5/)
-- **Email:** [Contact through portfolio](https://straydogsyn.github.io/Learner-Files-v3.5/)
-- **LinkedIn:** [Connect with me](https://linkedin.com/in/eric-petross)
+<div align="center">
+
+```terminal
+$ contact --list --format=professional
+🌐 Digital presence across multiple platforms
+💼 Professional networking and collaboration
+🚀 Open to exciting opportunities and projects
+📧 Always ready to discuss innovative solutions
+```
+
+### 🌟 **Primary Channels**
+
+[![Portfolio](https://img.shields.io/badge/🌐%20Live%20Portfolio-7AA2F7?style=for-the-badge&logo=github&logoColor=1A1B26)](https://straydogsyn.github.io/Learner-Files-v3.5/)
+[![Email](https://img.shields.io/badge/📧%20Contact%20Me-F7768E?style=for-the-badge&logo=gmail&logoColor=1A1B26)](https://straydogsyn.github.io/Learner-Files-v3.5/)
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-73DACA?style=for-the-badge&logo=linkedin&logoColor=1A1B26)](https://linkedin.com/in/eric-petross)
+
+### 🎯 **Let's Build Something Amazing Together!**
+
+```ascii
+╔═══════════════════════════════════════════════════════════════════════════╗
+║  "Code is poetry written in logic, and every bug is just a plot twist    ║
+║   waiting to be resolved." - Eric 'Hunter' Petross                       ║
+║                                                                           ║
+║  🚀 Ready to transform ideas into digital reality                        ║
+║  ⚡ Available for innovative projects and collaborations                  ║
+║  🌟 Let's create the future, one line of code at a time                  ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=BB9AF7&background=1A1B2600&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+digital+ecosystem!+%F0%9F%8C%9F;Let's+build+something+incredible+together!+%F0%9F%9A%80;The+future+is+coded+by+those+who+dare+to+dream+%E2%9C%A8" alt="Closing Message" />
+
+</div>
 
 ---
 
-*"Code is poetry written in logic, and every bug is just a plot twist waiting to be resolved."* 🚀
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=StrayDogSyn&style=for-the-badge&color=7AA2F7&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
