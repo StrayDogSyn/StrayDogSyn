@@ -43,6 +43,12 @@ _The portfolio is automatically deployed via GitHub Actions and showcases real-w
 
 ## 🛠️ Tech Stack & Skills
 
+### 🟢 MongoDB Certification — **NEW!**
+
+![MongoDB AI Agent Certification](https://images.credly.com/size/110x110/images/252ed95c-8043-44f5-ae1f-6f5a6cf313c4/blob)
+
+[View my MongoDB Certification on Credly »](https://www.credly.com/badges/ac46733b-d150-4e52-bb9d-580843dfd12f/public_url)
+
 ### Front-End Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -50,12 +56,6 @@ _The portfolio is automatically deployed via GitHub Actions and showcases real-w
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### 🟢 MongoDB Certification — **NEW!**
-
-![MongoDB AI Agent Certification](https://images.credly.com/size/110x110/images/252ed95c-8043-44f5-ae1f-6f5a6cf313c4/blob)
-
-[View my MongoDB Certification on Credly »](https://www.credly.com/badges/ac46733b-d150-4e52-bb9d-580843dfd12f/public_url)
 
 ### Back-End Development
 
