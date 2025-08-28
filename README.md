@@ -1,4 +1,4 @@
-# 🌙 Eric 'Hunter' Petross | 10x Developer & AI Solutions Engineer 🚀
+# 🌙 Eric 'Hunter' Petross | 10x Developer & AI Solutions Engineer
 
 <p align="center">
   <img src="./image/README/StrayDog Syndications LLC (Tag (US)).png" alt="StrayDog Syndications LLC" width="400" />
