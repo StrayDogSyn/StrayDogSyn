@@ -104,6 +104,8 @@ Continuosly evolving, comprehensive web development portfolio featuring interact
 ![Python](https://img.shields.io/badge/Python-7AA2F7?style=for-the-badge&logo=python&logoColor=1A1B26)
 ![HTML5](https://img.shields.io/badge/HTML5-F7768E?style=for-the-badge&logo=html5&logoColor=1A1B26)
 ![CSS3](https://img.shields.io/badge/CSS3-73DACA?style=for-the-badge&logo=css3&logoColor=1A1B26)
+![SQL](https://img.shields.io/badge/SQL-7AA2F7?style=for-the-badge&logo=mysql&logoColor=1A1B26)
+![VBA](https://img.shields.io/badge/VBA-E0AF68?style=for-the-badge&logo=microsoft&logoColor=1A1B26)
 
 ### 🎨 Front-End Development
 
@@ -120,8 +122,8 @@ Continuosly evolving, comprehensive web development portfolio featuring interact
 ![Node.js](https://img.shields.io/badge/Node.js-9ECE6A?style=for-the-badge&logo=nodedotjs&logoColor=1A1B26)
 ![Express.js](https://img.shields.io/badge/Express.js-24283B?style=for-the-badge&logo=express&logoColor=C0CAF5)
 ![MongoDB](https://img.shields.io/badge/MongoDB-9ECE6A?style=for-the-badge&logo=mongodb&logoColor=1A1B26)
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-9ECE6A?style=for-the-badge&logo=mongodb&logoColor=1A1B26)
 ![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-73DACA?style=for-the-badge&logo=mongodb&logoColor=1A1B26)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-9ECE6A?style=for-the-badge&logo=mongodb&logoColor=1A1B26)
 ![Supabase](https://img.shields.io/badge/Supabase-9ECE6A?style=for-the-badge&logo=supabase&logoColor=1A1B26)
 ![RESTful API](https://img.shields.io/badge/RESTful%20API-F7768E?style=for-the-badge&logo=api&logoColor=1A1B26)
 
@@ -157,6 +159,7 @@ Continuosly evolving, comprehensive web development portfolio featuring interact
 
 ### 🌐 Web Platforms & CMS
 
+![Vercel](https://img.shields.io/badge/Vercel-24283B?style=for-the-badge&logo=vercel&logoColor=C0CAF5)
 ![Wix](https://img.shields.io/badge/Wix-7AA2F7?style=for-the-badge&logo=wix&logoColor=1A1B26)
 ![Squarespace](https://img.shields.io/badge/Squarespace-9D7CD8?style=for-the-badge&logo=squarespace&logoColor=1A1B26)
 ![WordPress](https://img.shields.io/badge/WordPress-73DACA?style=for-the-badge&logo=wordpress&logoColor=1A1B26)
