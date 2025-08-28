@@ -8,6 +8,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&background=1A1B2600&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+Ecosystem+%F0%9F%8C%90;Full-Stack+Developer+%2B+AI+Engineer+%F0%9F%A4%96;Code+%7C+Creativity+%7C+Innovation+%E2%9A%A1;Building+the+Future%2C+One+Line+at+a+Time+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
+## 🌐 Digital Ecosystem - Business Portfolio
+
+<p align="center">
+  <a href="https://www.straydog-syndications-llc.com/"><img src="https://img.shields.io/badge/🏢%20StrayDog%20Syndications%20LLC-7AA2F7?style=for-the-badge&logo=company&logoColor=1A1B26" alt="Main Company Site" /></a>
+  <a href="https://www.straydog-secondstory.org/"><img src="https://img.shields.io/badge/📖%20Second%20Story-BB9AF7?style=for-the-badge&logo=book&logoColor=1A1B26" alt="Second Story" /></a>
+  <a href="https://www.straydogsyndicationsllc.tech/"><img src="https://img.shields.io/badge/⚡%20Tech%20Division-F7768E?style=for-the-badge&logo=tech&logoColor=1A1B26" alt="Tech Division" /></a>
+  <a href="https://straydogsyndicationsllc.biz/"><img src="https://img.shields.io/badge/💼%20Business%20Hub-9ECE6A?style=for-the-badge&logo=business&logoColor=1A1B26" alt="Business Hub" /></a>
+</p>
+
 ## 🎯 **Applied AI Solutions Engineer** | 🌟 **10x Developer** | 🧠 **LLM Specialist**
 
 *Where code meets creativity and AI transforms possibilities* ✨
@@ -16,14 +25,10 @@
 
 ## 🚀 About Me
 
-![1756414209393](image/README/1756414209393.png)
+🎯 **Applied AI Solutions Engineer** | 🌟 **Full-Stack Developer** | 🧠 **LLM Specialist**
 
-```bash
-$ whoami
-🎯 Applied AI Solutions Engineer & Full-Stack Developer
-🌍 New England • JavaScript, AI/ML, LLMs • Code + Creativity
-🎮 Modern-day digital archaeologist - if Indiana Jones coded!
-```
+*New England-based developer specializing in JavaScript, AI/ML, and LLMs*  
+*Modern-day digital archaeologist - if Indiana Jones coded! 🎮*
 
 ## 🌐 Live Portfolio - Interactive Project Showcase
 
@@ -87,7 +92,7 @@ Explore my comprehensive web development portfolio featuring interactive project
 ### 🎯 Achievement Showcase
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=StrayDogSyn&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=StrayDogSyn&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
 </p>
 
 ### 📊 Contribution Insights
