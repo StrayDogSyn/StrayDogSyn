@@ -16,27 +16,11 @@
 
 ## 🚀 About Me
 
-```terminal
+```bash
 $ whoami
-eric_hunter_petross@digital_ecosystem:~$ cat about.txt
-
 🎯 Applied AI Solutions Engineer & Full-Stack Developer
-🌍 Based in New England | Building the future with code
-🧠 Specializing in: JavaScript, AI/ML, LLMs, and Web Innovation
-⚡ Passion: Transforming complex problems into elegant solutions
-🎮 Fun fact: Modern-day digital archaeologist - if Indiana Jones coded!
-
-$ skills --list
-✅ Full-Stack Development (JavaScript, Python, React, Node.js)
-✅ AI/ML Integration & LLM Implementation
-✅ Database Design & Optimization (MongoDB)
-✅ Cloud Architecture & DevOps
-✅ Creative Problem Solving & System Design
-
-$ current_status
-🔥 Continuously evolving and learning new technologies
-🚀 Building innovative AI-powered applications
-💡 Crafting user experiences that matter
+🌍 New England | JavaScript, AI/ML, LLMs | Code + Creativity
+🎮 Modern-day digital archaeologist - if Indiana Jones coded!
 ```
 
 ## 🌐 Live Portfolio - Interactive Project Showcase
@@ -71,12 +55,9 @@ Explore my comprehensive web development portfolio featuring interactive project
 
 ## 📈 GitHub Analytics Dashboard
 
-```terminal
-$ git status --porcelain
-🔥 Commits this year: 500+
-⚡ Active repositories: 25+
-🌟 Stars earned: Growing daily
-🚀 Code quality: Always improving
+```bash
+$ github_stats --dashboard
+🔥 500+ commits | ⚡ 25+ repos | 🌟 Growing daily | 🚀 Always improving
 ```
 
 <p align="center">
@@ -156,12 +137,9 @@ $ git status --porcelain
 
 ## 🏆 Certifications & Professional Credentials
 
-```terminal
-$ certifications --validate --format=professional
-🎓 Verified credentials from industry leaders
-🔐 All certifications authenticated and current
-📈 Continuous learning and skill advancement
-⚡ Expertise across full-stack and AI domains
+```bash
+$ certifications --validate
+🎓 Verified credentials | 🔐 Authenticated | 📈 Continuous learning
 ```
 
 ### 🍃 MongoDB Certifications
@@ -197,12 +175,9 @@ $ certifications --validate --format=professional
 
 ### 🎯 Coding Challenges & Practice
 
-```terminal
+```bash
 $ coding_challenges --status
-🏆 Active problem solver across multiple platforms
-⚡ Consistent daily practice and skill refinement
-🧠 Algorithm optimization and data structure mastery
-🎯 Competitive programming enthusiast
+🏆 Active problem solver | ⚡ Daily practice | 🧠 Algorithm mastery
 ```
 
 <p align="center">
@@ -261,12 +236,9 @@ $ coding_challenges --status
 
 ## 📫 Connect with the Digital Ecosystem
 
-```terminal
-$ contact --list --format=professional
-🌐 Digital presence across multiple platforms
-💼 Professional networking and collaboration
-🚀 Open to exciting opportunities and projects
-📧 Always ready to discuss innovative solutions
+```bash
+$ contact --list
+🌐 Digital presence | 💼 Professional networking | 🚀 Open to opportunities
 ```
 
 ### 🌟 **Primary Channels**
@@ -279,17 +251,12 @@ $ contact --list --format=professional
 
 ### 🎯 **Let's Build Something Amazing Together!**
 
-```ascii
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                "Code is poetry written in logic, and every bug            ║
-║              is just a plot twist waiting to be resolved."                ║
-║                      - Eric 'Hunter' Petross                              ║
-║                                                                           ║
-║               🚀 Ready to transform ideas into digital reality            ║
-║             ⚡ Available for innovative projects and collaborations        ║
-║              🌟 Let's create the future, one line of code at a time       ║
-╚═══════════════════════════════════════════════════════════════════════════╝
-```
+> "Code is poetry written in logic, and every bug is just a plot twist waiting to be resolved."  
+> — Eric 'Hunter' Petross
+
+**🚀 Ready to transform ideas into digital reality**  
+**⚡ Available for innovative projects and collaborations**  
+**🌟 Let's create the future, one line of code at a time**
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=BB9AF7&background=1A1B2600&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+digital+ecosystem!+%F0%9F%8C%9F;Let's+build+something+incredible+together!+%F0%9F%9A%80;The+future+is+coded+by+those+who+dare+to+dream+%E2%9C%A8" alt="Closing Message" />
