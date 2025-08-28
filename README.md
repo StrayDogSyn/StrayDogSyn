@@ -21,58 +21,27 @@
 
 ## 🚀 About Me
 
-**🎯 Applied AI Solutions Engineer** | **🌟 Full-Stack Developer** | **🧠 LLM Specialist**
+**Applied AI Solutions Engineer specializing in full-stack development and LLM integration. I architect scalable applications that bridge cutting-edge AI capabilities with production-ready infrastructure. From New England, building the future one intelligent system at a time.**
 
-*Neural network architect and code synthicist operating from the digital shadows of New England. I jack into the matrix of JavaScript frameworks, surf the data streams of AI/ML pipelines, and commune with large language models like a digital shaman. Part cyberpunk data-jockey, part enterprise-grade systems architect—I decode the syntax of tomorrow while building the infrastructure of today. When corporations need their AI dreams realized in production-ready code, they call the Hunter.*
+## ⚡ Professional Differentiators
 
-**Current Focus:**
+### Multi-Platform Development Orchestration
 
-- 🤖 Building AI-powered applications with MongoDB vector search
-- ⚡ Full-stack development with modern JavaScript frameworks
-- 🧠 LLM integration and prompt engineering
-- 🌟 Creating elegant solutions for complex problems
+- Parallel development across 6 specialized IDEs for maximum efficiency
+- 3 deployed AI Slack agents serving business automation needs  
+- Integrated AI workflow combining Claude, Perplexity, and specialized tools
 
-## ⚡ Multi-IDE Orchestration Workflow
+### Business Leadership
 
-**🎯 Advanced AI-Assisted Development Capabilities**
+- Owner/operator of 4 active digital properties
+- Community engagement instructor at The Moth
+- Applied AI solutions for enterprise clients
 
-#### Parallel IDE environments for complex project orchestration - a unique technical differentiator that maximizes development velocity and code quality
+## 🌐 Live Portfolio
 
-**🚀 Development Environment Matrix:**
+**🚀 [Interactive Project Showcase](https://straydogsyn.github.io/Learner-Files-v3.5/)**
 
-- **VS Code + GitHub Copilot** - Primary development with AI pair programming
-- **Qoder** - Advanced code analysis and refactoring workflows
-- **WindSurf** - Collaborative development and real-time synchronization
-- **Trae 2.0 + SOLO** - AI-powered project management and automation
-- **StackBlitz** - Rapid prototyping and cloud-based development
-
-**💡 Orchestration Benefits:**
-
-- **Parallel Processing** - Multiple codebases and features developed simultaneously
-- **AI-Enhanced Productivity** - Leveraging different AI assistants for specialized tasks
-- **Quality Assurance** - Cross-platform validation and testing workflows
-- **Rapid Iteration** - Seamless switching between development contexts
-- **Enterprise Scalability** - Complex project management across distributed teams
-
-## 🌐 Live Portfolio - Interactive Project Showcase
-
-**🚀 [https://straydogsyn.github.io/Learner-Files-v3.5/](https://straydogsyn.github.io/Learner-Files-v3.5/)**
-
-Comprehensive web development portfolio featuring interactive projects and applications demonstrating full-stack capabilities:
-
-**🎮 Interactive Applications:**
-
-- **Advanced Calculator** - Complete with explosion effects and keyboard support
-- **Knucklebones Game** - Strategy-based dice game with dynamic scoring
-- **Rock Paper Scissors** - Modern UI with responsive design
-- **CompTIA Quiz Tool** - Interactive certification preparation
-
-**💼 Technical Highlights:**
-
-- Pure JavaScript implementations with ES6+ features
-- Responsive CSS with Tailwind and custom styling
-- Interactive animations and accessibility features
-- Mobile-first design following modern web standards
+Full-stack web applications featuring advanced calculator with explosion effects, strategy-based games, and interactive certification tools. Built with modern JavaScript, responsive design, and mobile-first architecture.
 
 ## 📈 GitHub Analytics
 
@@ -85,87 +54,43 @@ Comprehensive web development portfolio featuring interactive projects and appli
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=StrayDogSyn&theme=tokyo-night&hide_border=true&bg_color=1A1B26&color=7AA2F7&line=BB9AF7&point=F7768E" alt="Contribution Graph" />
 </p>
 
-### 🌟 Advanced AI Orchestration
-
-**Multi-Platform Development Workflow:**
-
-- **Simultaneous IDE Orchestration:** VS Code + Cursor Composer + WindSurf + Qoder + Trae 2.0 + StackBlitz
-- **AI Agent Coordination:** Claude + Perplexity for complex reasoning chains  
-- **Slack Bot Development:** 3 deployed AI agents for automated community engagement
-- **Visual AI Integration:** Microsoft Designer + Deep Image AI for UI/UX enhancement
-- **Advanced Prompt Engineering:** LangChain workflows with token optimization
-
-## 🛠️ Tech Stack & Skills
-
-### 💻 Programming Languages
+## 🚀 Core Technologies
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-E0AF68?style=for-the-badge&logo=javascript&logoColor=1A1B26)
 ![Python](https://img.shields.io/badge/Python-7AA2F7?style=for-the-badge&logo=python&logoColor=1A1B26)
-![HTML5](https://img.shields.io/badge/HTML5-F7768E?style=for-the-badge&logo=html5&logoColor=1A1B26)
-![CSS3](https://img.shields.io/badge/CSS3-73DACA?style=for-the-badge&logo=css3&logoColor=1A1B26)
-
-### 🎨 Front-End Development
-
 ![React](https://img.shields.io/badge/React-7DCFFF?style=for-the-badge&logo=react&logoColor=1A1B26)
 ![Next.js](https://img.shields.io/badge/Next.js-24283B?style=for-the-badge&logo=nextdotjs&logoColor=C0CAF5)
-![Vite](https://img.shields.io/badge/Vite-BB9AF7?style=for-the-badge&logo=vite&logoColor=1A1B26)
-![React Router](https://img.shields.io/badge/React%20Router-F7768E?style=for-the-badge&logo=reactrouter&logoColor=1A1B26)
-![jQuery](https://img.shields.io/badge/jQuery-9D7CD8?style=for-the-badge&logo=jquery&logoColor=1A1B26)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-BB9AF7?style=for-the-badge&logo=bootstrap&logoColor=1A1B26)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-73DACA?style=for-the-badge&logo=tailwind-css&logoColor=1A1B26)
-
-### ⚙️ Back-End Development
-
 ![Node.js](https://img.shields.io/badge/Node.js-9ECE6A?style=for-the-badge&logo=nodedotjs&logoColor=1A1B26)
-![Express.js](https://img.shields.io/badge/Express.js-24283B?style=for-the-badge&logo=express&logoColor=C0CAF5)
 ![MongoDB](https://img.shields.io/badge/MongoDB-9ECE6A?style=for-the-badge&logo=mongodb&logoColor=1A1B26)
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-9ECE6A?style=for-the-badge&logo=mongodb&logoColor=1A1B26)
-![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-73DACA?style=for-the-badge&logo=mongodb&logoColor=1A1B26)
-![Supabase](https://img.shields.io/badge/Supabase-9ECE6A?style=for-the-badge&logo=supabase&logoColor=1A1B26)
-![RESTful API](https://img.shields.io/badge/RESTful%20API-F7768E?style=for-the-badge&logo=api&logoColor=1A1B26)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-73DACA?style=for-the-badge&logo=tailwind-css&logoColor=1A1B26)
+![Express.js](https://img.shields.io/badge/Express.js-24283B?style=for-the-badge&logo=express&logoColor=C0CAF5)
 
-### 📊 Data Science & Analytics
-
-![Pandas](https://img.shields.io/badge/Pandas-9D7CD8?style=for-the-badge&logo=pandas&logoColor=1A1B26)
-![NumPy](https://img.shields.io/badge/NumPy-7AA2F7?style=for-the-badge&logo=numpy&logoColor=1A1B26)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-E0AF68?style=for-the-badge&logo=python&logoColor=1A1B26)
-![TKinter](https://img.shields.io/badge/TKinter-BB9AF7?style=for-the-badge&logo=python&logoColor=1A1B26)
-
-### 🤖 AI & LLM Tools
+## 🤖 AI & Development Workflow
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-9ECE6A?style=for-the-badge&logo=openai&logoColor=1A1B26)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-24283B?style=for-the-badge&logo=github&logoColor=C0CAF5)
 ![Claude](https://img.shields.io/badge/Claude-E0AF68?style=for-the-badge&logo=anthropic&logoColor=1A1B26)
-![Gemini](https://img.shields.io/badge/Gemini-7AA2F7?style=for-the-badge&logo=google&logoColor=1A1B26)
-![Perplexity Pro](https://img.shields.io/badge/Perplexity%20Pro-BB9AF7?style=for-the-badge&logo=perplexity&logoColor=1A1B26)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-24283B?style=for-the-badge&logo=github&logoColor=C0CAF5)
 ![LangChain](https://img.shields.io/badge/LangChain-F7768E?style=for-the-badge&logo=chainlink&logoColor=1A1B26)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-73DACA?style=for-the-badge&logo=huggingface&logoColor=1A1B26)
+![VS Code](https://img.shields.io/badge/VS%20Code%20+%20Copilot-9D7CD8?style=for-the-badge&logo=visualstudiocode&logoColor=1A1B26)
+![Cursor Composer](https://img.shields.io/badge/Cursor%20Composer-E0AF68?style=for-the-badge&logo=cursor&logoColor=1A1B26)
+![Trae 2.0 + SOLO](https://img.shields.io/badge/Trae%202.0%20+%20SOLO-BB9AF7?style=for-the-badge&logo=robot&logoColor=1A1B26)
 ![AI Slack Agents](https://img.shields.io/badge/AI%20Slack%20Agents-9D7CD8?style=for-the-badge&logo=slack&logoColor=1A1B26)
 
-### 🛠️ Development Tools & IDEs
+## 🛠️ Professional Tools
 
 ![Git](https://img.shields.io/badge/Git-7AA2F7?style=for-the-badge&logo=git&logoColor=1A1B26)
 ![GitHub](https://img.shields.io/badge/GitHub-24283B?style=for-the-badge&logo=github&logoColor=C0CAF5)
-![VS Code](https://img.shields.io/badge/VS%20Code%20+%20Copilot-9D7CD8?style=for-the-badge&logo=visualstudiocode&logoColor=1A1B26)
-![Cursor Composer](https://img.shields.io/badge/Cursor%20Composer-E0AF68?style=for-the-badge&logo=cursor&logoColor=1A1B26)
-![Qoder](https://img.shields.io/badge/Qoder-F7768E?style=for-the-badge&logo=code&logoColor=1A1B26)
-![WindSurf](https://img.shields.io/badge/WindSurf-73DACA?style=for-the-badge&logo=wind&logoColor=1A1B26)
-![Trae 2.0 + SOLO](https://img.shields.io/badge/Trae%202.0%20+%20SOLO-BB9AF7?style=for-the-badge&logo=robot&logoColor=1A1B26)
-![StackBlitz](https://img.shields.io/badge/StackBlitz-E0AF68?style=for-the-badge&logo=stackblitz&logoColor=1A1B26)
-![Xojo](https://img.shields.io/badge/Xojo-9ECE6A?style=for-the-badge&logo=xojo&logoColor=1A1B26)
+![Postman](https://img.shields.io/badge/Postman-E0AF68?style=for-the-badge&logo=postman&logoColor=1A1B26)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-9ECE6A?style=for-the-badge&logo=mongodb&logoColor=1A1B26)
+![Supabase](https://img.shields.io/badge/Supabase-9ECE6A?style=for-the-badge&logo=supabase&logoColor=1A1B26)
+![RESTful API](https://img.shields.io/badge/RESTful%20API-F7768E?style=for-the-badge&logo=api&logoColor=1A1B26)
 
-### 🌐 Web Platforms & CMS
+## 🌐 Business Platforms
 
 ![Wix](https://img.shields.io/badge/Wix-7AA2F7?style=for-the-badge&logo=wix&logoColor=1A1B26)
 ![Squarespace](https://img.shields.io/badge/Squarespace-9D7CD8?style=for-the-badge&logo=squarespace&logoColor=1A1B26)
 ![WordPress](https://img.shields.io/badge/WordPress-73DACA?style=for-the-badge&logo=wordpress&logoColor=1A1B26)
 ![Bootstrap Studio](https://img.shields.io/badge/Bootstrap%20Studio-BB9AF7?style=for-the-badge&logo=bootstrap&logoColor=1A1B26)
-
-### 🔧 API & Testing Tools
-
-![Postman](https://img.shields.io/badge/Postman-E0AF68?style=for-the-badge&logo=postman&logoColor=1A1B26)
-![GitKraken](https://img.shields.io/badge/GitKraken-73DACA?style=for-the-badge&logo=gitkraken&logoColor=1A1B26)
-![PolyPane](https://img.shields.io/badge/PolyPane-F7768E?style=for-the-badge&logo=polypane&logoColor=1A1B26)
 
 ## 🏆 Certifications & Professional Credentials
 
@@ -236,39 +161,9 @@ Comprehensive web development portfolio featuring interactive projects and appli
 - **Consistent Academic Performance** - Maintained 3.40+ GPA throughout program
 - **Hands-on Laboratory Excellence** - Practical application of networking concepts
 
-## 🎯 Coding Challenges & Practice
+## 📫 Let's Connect
 
-<p align="center">
-  <a href="https://www.codewars.com/users/StrayDogSyn"><img src="https://www.codewars.com/users/StrayDogSyn/badges/large" alt="Codewars" /></a>
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/StrayDogSyn/"><img src="https://img.shields.io/badge/🧩%20LeetCode-E0AF68?style=for-the-badge&logo=leetcode&logoColor=1A1B26" alt="LeetCode" /></a>
-  <a href="https://www.hackerrank.com/profile/straydogsyndica1"><img src="https://img.shields.io/badge/💻%20HackerRank-9ECE6A?style=for-the-badge&logo=hackerrank&logoColor=1A1B26" alt="HackerRank" /></a>
-</p>
-
-## 🌟 AI Agent Development Projects
-
-### **🤖 MongoDB Vector Search Integration**
-
-- Built intelligent agents leveraging MongoDB's vector search capabilities
-- Implemented semantic similarity search for enhanced data retrieval
-- Developed custom AI workflows for content analysis and generation
-
-### **🧠 LLM Integration & Prompt Engineering**
-
-- Integrated multiple AI services (OpenAI, Anthropic, Google Gemini)
-- Designed multi-tool reasoning agents with memory systems
-- Created production-ready AI applications with real-world deployment
-
-## 📫 Connect & Collaborate
-
-> *"Code is poetry written in logic, and every bug is just a plot twist waiting to be resolved."*  
-> — Eric 'Hunter' Petross
-
-**🚀 Ready to transform ideas into digital reality**  
-**⚡ Available for innovative projects and collaborations**  
-**🌟 Let's create the future, one line of code at a time**
+### Available for AI development projects and technical consulting
 
 <p align="center">
   <a href="https://straydogsyn.github.io/Learner-Files-v3.5/"><img src="https://img.shields.io/badge/🌐%20Live%20Portfolio-7AA2F7?style=for-the-badge&logo=github&logoColor=1A1B26" alt="Portfolio" /></a>
