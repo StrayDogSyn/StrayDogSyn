@@ -21,7 +21,7 @@
 ```bash
 $ whoami
 🎯 Applied AI Solutions Engineer & Full-Stack Developer
-🌍 New England | JavaScript, AI/ML, LLMs | Code + Creativity
+🌍 New England • JavaScript, AI/ML, LLMs • Code + Creativity
 🎮 Modern-day digital archaeologist - if Indiana Jones coded!
 ```
 
@@ -87,7 +87,7 @@ Explore my comprehensive web development portfolio featuring interactive project
 ### 🎯 Achievement Showcase
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=StrayDogSyn&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=StrayDogSyn&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
 </p>
 
 ### 📊 Contribution Insights
