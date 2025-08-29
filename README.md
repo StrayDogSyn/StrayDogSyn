@@ -207,20 +207,31 @@ Full-stack web applications featuring advanced calculator with explosion effects
 
 <p align="center">
   <a href="https://straydogsyn.github.io/Learner-Files-v3.5/"><img src="https://img.shields.io/badge/🌐%20Live%20Portfolio-7AA2F7?style=for-the-badge&logo=github&logoColor=1A1B26" alt="Portfolio" /></a>
-  <a href="mailto:eHunter@straydog-secondstory.org"><img src="https://img.shields.io/badge/📧%20Email-F7768E?style=for-the-badge&logo=gmail&logoColor=1A1B26" alt="Email" /></a>
+  <a href="mailto:eHunter@straydog-secondstory.org"><img src="https://img.shields.io/badge/📧%20Contact%20Me-F7768E?style=for-the-badge&logo=gmail&logoColor=1A1B26" alt="Email" /></a>
   <a href="https://linkedin.com/in/eric-petross"><img src="https://img.shields.io/badge/💼%20LinkedIn-73DACA?style=for-the-badge&logo=linkedin&logoColor=1A1B26" alt="LinkedIn" /></a>
+  <a href="https://dot.cards/straydog_syndications_llc"><img src="https://img.shields.io/badge/📇%20Digital%20Card-BB9AF7?style=for-the-badge&logo=qrcode&logoColor=1A1B26" alt="Business Card" /></a>
 </p>
 
-### 📱 Quick Contact
+### 📇 Digital Business Card
 
 <p align="center">
-  <a href="https://dot.cards/straydog_syndications_llc"><img src="https://img.shields.io/badge/📱%20Digital%20Business%20Card-7AA2F7?style=for-the-badge&logo=qrcode&logoColor=1A1B26" alt="Dot Card QR" /></a>
-  <a href="https://discord.com/users/erichunterpetross_81351"><img src="https://img.shields.io/badge/💬%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://dot.cards/straydog_syndications_llc">
+    <img src="https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=https://dot.cards/straydog_syndications_llc" alt="Scan for Digital Business Card" />
+  </a>
 </p>
 
 <p align="center">
-  <strong>🔗 Business Card:</strong> <a href="https://dot.cards/straydog_syndications_llc">dot.cards/straydog_syndications_llc</a><br>
-  <strong>💬 Discord:</strong> erichunterpetross_81351
+  <strong>📱 Scan to connect instantly</strong> • <code>https://dot.cards/straydog_syndications_llc</code>
+</p>
+
+### 💬 Quick Contact
+
+<p align="center">
+  <a href="https://discord.com/users/erichunterpetross_81351"><img src="https://img.shields.io/badge/💬%20Discord-9ECE6A?style=for-the-badge&logo=discord&logoColor=1A1B26" alt="Discord" /></a>
+</p>
+
+<p align="center">
+  <strong>🟢 Available for new opportunities and collaborations</strong>
 </p>
 
 ---
