@@ -125,8 +125,13 @@ Full-stack web applications featuring advanced calculator with explosion effects
 
 ### ⚖️ Justice Through Code - Applied AI Solutions Engineer
 
+<<<<<<< HEAD
 ![Applied AI Solutions Engineer](https://img.shields.io/badge/⚖️%20Applied%20AI%20Solutions%20Engineer-Pending%202026-F7768E?style=for-the-badge&logo=scales&logoColor=1A1B26)
 ![AI Edge Certification](https://img.shields.io/badge/🤖%20AI%20Edge%20Certification-Aug%202025-E0AF68?style=for-the-badge&logo=robot&logoColor=1A1B26)
+=======
+![Applied AI Solutions Engineer](https://img.shields.io/badge/⚖️%20Applied%20AI%20Solutions%20Engineer-Justice%20Through%20Code-Pending%202026-F7768E?style=for-the-badge&logo=scales&logoColor=1A1B26)
+![AI Edge Certification](https://img.shields.io/badge/🤖%20AI%20Edge%20Certification-Justice%20Through%20Code-Aug%202025-E0AF68?style=for-the-badge&logo=robot&logoColor=1A1B26)
+>>>>>>> 45c8fcb441d567d58c006e9e520d2acb406b6285
 
 ### 🍃 MongoDB Certifications
 
