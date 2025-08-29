@@ -23,18 +23,6 @@
 
 **Applied AI Solutions Engineer specializing in full-stack development and LLM integration. I architect scalable applications that bridge cutting-edge AI capabilities with production-ready infrastructure. From New England, building the future one intelligent system at a time.**
 
-## 📞 Connect With Me
-
-<p align="center">
-  <a href="https://dot.cards/straydog_syndications_llc"><img src="https://img.shields.io/badge/📱%20Digital%20Business%20Card-7AA2F7?style=for-the-badge&logo=qrcode&logoColor=1A1B26" alt="Dot Card QR" /></a>
-  <a href="https://discord.com/users/erichunterpetross_81351"><img src="https://img.shields.io/badge/💬%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-</p>
-
-<p align="center">
-  <strong>🔗 Quick Contact:</strong> <a href="https://dot.cards/straydog_syndications_llc">dot.cards/straydog_syndications_llc</a><br>
-  <strong>💬 Discord:</strong> erichunterpetross_81351
-</p>
-
 ## ⚡ Professional Differentiators
 
 ### Multi-Platform Development Orchestration
@@ -223,4 +211,16 @@ Full-stack web applications featuring advanced calculator with explosion effects
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=StrayDogSyn&style=for-the-badge&color=7AA2F7&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+## 📞 Connect With Me
+
+<p align="center">
+  <a href="https://dot.cards/straydog_syndications_llc"><img src="https://img.shields.io/badge/📱%20Digital%20Business%20Card-7AA2F7?style=for-the-badge&logo=qrcode&logoColor=1A1B26" alt="Dot Card QR" /></a>
+  <a href="https://discord.com/users/erichunterpetross_81351"><img src="https://img.shields.io/badge/💬%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+</p>
+
+<p align="center">
+  <strong>🔗 Quick Contact:</strong> <a href="https://dot.cards/straydog_syndications_llc">dot.cards/straydog_syndications_llc</a><br>
+  <strong>💬 Discord:</strong> erichunterpetross_81351
 </p>
