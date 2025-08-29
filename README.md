@@ -123,27 +123,22 @@ Full-stack web applications featuring advanced calculator with explosion effects
 
 ## 🏆 Certifications & Professional Credentials
 
-### ⚖️ Justice Through Code - Applied AI Solutions Engineer
+## ⚖️ Justice Through Code - Applied AI Solutions Engineer
 
-<<<<<<< HEAD
 ![Applied AI Solutions Engineer](https://img.shields.io/badge/⚖️%20Applied%20AI%20Solutions%20Engineer-Pending%202026-F7768E?style=for-the-badge&logo=scales&logoColor=1A1B26)
 ![AI Edge Certification](https://img.shields.io/badge/🤖%20AI%20Edge%20Certification-Aug%202025-E0AF68?style=for-the-badge&logo=robot&logoColor=1A1B26)
-=======
-![Applied AI Solutions Engineer](https://img.shields.io/badge/⚖️%20Applied%20AI%20Solutions%20Engineer-Justice%20Through%20Code-Pending%202026-F7768E?style=for-the-badge&logo=scales&logoColor=1A1B26)
-![AI Edge Certification](https://img.shields.io/badge/🤖%20AI%20Edge%20Certification-Justice%20Through%20Code-Aug%202025-E0AF68?style=for-the-badge&logo=robot&logoColor=1A1B26)
->>>>>>> 45c8fcb441d567d58c006e9e520d2acb406b6285
 
-### 🍃 MongoDB Certifications
+## 🍃 MongoDB Certifications
 
 ![Building AI Agents with MongoDB](https://img.shields.io/badge/🤖%20Building%20AI%20Agents%20with%20MongoDB-Aug%202025-9ECE6A?style=for-the-badge&logo=mongodb&logoColor=1A1B26)
 ![Introduction to MongoDB](https://img.shields.io/badge/🍃%20Introduction%20to%20MongoDB-Feb%202025-9ECE6A?style=for-the-badge&logo=mongodb&logoColor=1A1B26)
 
-### 🚀 Full-Stack Development
+## 🚀 Full-Stack Development
 
 ![FullStack development with Cursor Copilot](https://img.shields.io/badge/⚡%20FullStack%20development%20with%20Cursor%20Copilot-Mar%202025-BB9AF7?style=for-the-badge&logo=udemy&logoColor=1A1B26)
 ![Basic Git and Github - Essentials](https://img.shields.io/badge/📚%20Basic%20Git%20and%20Github%20Essentials-Nov%202024-BB9AF7?style=for-the-badge&logo=udemy&logoColor=1A1B26)
 
-### 💻 JavaScript & Web Development
+## 💻 JavaScript & Web Development
 
 ![JavaScript: Understanding ES6 and Beyond](https://img.shields.io/badge/🔥%20JavaScript%20ES6%20and%20Beyond-Dec%202024-E0AF68?style=for-the-badge&logo=udemy&logoColor=1A1B26)
 ![JavaScript: Understanding the Weird Parts](https://img.shields.io/badge/🧠%20JavaScript%20Understanding%20the%20Weird%20Parts-Dec%202024-E0AF68?style=for-the-badge&logo=udemy&logoColor=1A1B26)
