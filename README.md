@@ -58,8 +58,9 @@ Full-stack web applications featuring advanced calculator with explosion effects
 
 ### 💻 Programming Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-E0AF68?style=for-the-badge&logo=javascript&logoColor=1A1B26)
 ![Python](https://img.shields.io/badge/Python-7AA2F7?style=for-the-badge&logo=python&logoColor=1A1B26)
+![TypeScript](https://img.shields.io/badge/TypeScript-7DCFFF?style=for-the-badge&logo=typescript&logoColor=1A1B26)
+![JavaScript](https://img.shields.io/badge/JavaScript-E0AF68?style=for-the-badge&logo=javascript&logoColor=1A1B26)
 ![HTML5](https://img.shields.io/badge/HTML5-F7768E?style=for-the-badge&logo=html5&logoColor=1A1B26)
 ![CSS3](https://img.shields.io/badge/CSS3-73DACA?style=for-the-badge&logo=css3&logoColor=1A1B26)
 ![SQL](https://img.shields.io/badge/SQL-9ECE6A?style=for-the-badge&logo=postgresql&logoColor=1A1B26)
