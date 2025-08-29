@@ -195,25 +195,23 @@ Full-stack web applications featuring advanced calculator with explosion effects
 - **Consistent Academic Performance** - Maintained 3.40+ GPA throughout program
 - **Hands-on Laboratory Excellence** - Practical application of networking concepts
 
+---
+
 ## 📫 Let's Connect
 
-### Available for AI development projects and technical consulting
+<p align="center">
+  <strong>Available for AI development projects and technical consulting</strong>
+</p>
+
+### 🌐 Professional Links
 
 <p align="center">
   <a href="https://straydogsyn.github.io/Learner-Files-v3.5/"><img src="https://img.shields.io/badge/🌐%20Live%20Portfolio-7AA2F7?style=for-the-badge&logo=github&logoColor=1A1B26" alt="Portfolio" /></a>
-  <a href="mailto:eHunter@straydog-secondstory.org"><img src="https://img.shields.io/badge/📧%20Contact%20Me-F7768E?style=for-the-badge&logo=gmail&logoColor=1A1B26" alt="Email" /></a>
+  <a href="mailto:eHunter@straydog-secondstory.org"><img src="https://img.shields.io/badge/📧%20Email-F7768E?style=for-the-badge&logo=gmail&logoColor=1A1B26" alt="Email" /></a>
   <a href="https://linkedin.com/in/eric-petross"><img src="https://img.shields.io/badge/💼%20LinkedIn-73DACA?style=for-the-badge&logo=linkedin&logoColor=1A1B26" alt="LinkedIn" /></a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=BB9AF7&background=1A1B2600&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+digital+ecosystem!+%F0%9F%8C%9F;Let's+build+something+incredible+together!+%F0%9F%9A%80" alt="Closing Message" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=StrayDogSyn&style=for-the-badge&color=7AA2F7&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
-
-## 📞 Connect With Me
+### 📱 Quick Contact
 
 <p align="center">
   <a href="https://dot.cards/straydog_syndications_llc"><img src="https://img.shields.io/badge/📱%20Digital%20Business%20Card-7AA2F7?style=for-the-badge&logo=qrcode&logoColor=1A1B26" alt="Dot Card QR" /></a>
@@ -221,6 +219,16 @@ Full-stack web applications featuring advanced calculator with explosion effects
 </p>
 
 <p align="center">
-  <strong>🔗 Quick Contact:</strong> <a href="https://dot.cards/straydog_syndications_llc">dot.cards/straydog_syndications_llc</a><br>
+  <strong>🔗 Business Card:</strong> <a href="https://dot.cards/straydog_syndications_llc">dot.cards/straydog_syndications_llc</a><br>
   <strong>💬 Discord:</strong> erichunterpetross_81351
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=BB9AF7&background=1A1B2600&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+digital+ecosystem!+%F0%9F%8C%9F;Let's+build+something+incredible+together!+%F0%9F%9A%80" alt="Closing Message" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=StrayDogSyn&style=for-the-badge&color=7AA2F7&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
