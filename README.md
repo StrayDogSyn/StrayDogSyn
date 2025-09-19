@@ -284,17 +284,17 @@ Full-stack web applications featuring advanced calculator with explosion effects
 <table align="center">
 <tr>
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/l3q2XhfQ8oCkm1Ts4/giphy.gif" width="80" height="80" alt="Star Me"/>
+<img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="80" height="80" alt="Star Wars Death Star"/>
 <br><strong>⭐ STAR THIS REPO</strong><br>
 <sub><em>It's free real estate!</em></sub>
 </td>
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="80" height="80" alt="Follow Me"/>
+<img src="https://media.giphy.com/media/3ornka9rAaKRA2Rkac/giphy.gif" width="80" height="80" alt="Star Wars Rebel Alliance"/>
 <br><strong>👥 FOLLOW ON GITHUB</strong><br>
 <sub><em>Join the AI revolution!</em></sub>
 </td>
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/26AHPxxnSw1L9T1rW/giphy.gif" width="80" height="80" alt="HF Follow"/>
+<img src="https://media.giphy.com/media/8nmvR3jAxnl2o/giphy.gif" width="80" height="80" alt="Star Wars R2D2"/>
 <br><strong>🤗 HUGGING FACE FOLLOW</strong><br>
 <sub><em>Feed the algorithm!</em></sub>
 </td>
@@ -324,9 +324,13 @@ Full-stack web applications featuring advanced calculator with explosion effects
 ### 📊 **CURRENT MOTIVATION LEVELS** 📊
 
 <p align="center">
-  <img src="https://progress-bar.dev/85/?title=Coding%20Enthusiasm&width=300&color=7AA2F7" alt="Coding Progress" />
-  <img src="https://progress-bar.dev/60/?title=Need%20More%20Stars&width=300&color=F7768E" alt="Stars Progress" />
-  <img src="https://progress-bar.dev/40/?title=HF%20Followers&width=300&color=FF6B35" alt="HF Progress" />
+  <img src="https://progress-bar.dev/85/?scale=100&title=Coding%20Enthusiasm&width=400&color=babaca&suffix=%25" alt="Coding Progress" />
+</p>
+<p align="center">
+  <img src="https://progress-bar.dev/60/?scale=100&title=Need%20More%20Stars&width=400&color=f7768e&suffix=%25" alt="Stars Progress" />
+</p>
+<p align="center">
+  <img src="https://progress-bar.dev/40/?scale=100&title=HF%20Followers&width=400&color=ff6b35&suffix=%25" alt="HF Progress" />
 </p>
 
 ---
