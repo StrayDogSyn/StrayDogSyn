@@ -1,41 +1,33 @@
 # 🌙 Eric 'Hunter' Petross | Applied AI Solutions Engineer
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=STRAY%20DOG%20SYNDICATIONS&fontSize=35&fontColor=FFFFFF&animation=twinkling&desc=Building%20the%20Future%2C%20One%20Line%20at%20a%20Time&descAlignY=75&descAlign=50" alt="Brand Header" />
-</p>
-
 <div align="center">
 
-## ✨ **PREMIUM BRAND EXPERIENCE** ✨
+```ascii
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                        STRAY DOG SYNDICATIONS LLC                           ║
+║                    Building the Future, One Line at a Time                  ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
 
 <p align="center">
-  <img src="./image/README/StrayDog Syndications LLC (Tag (US)).png" alt="StrayDog Syndications LLC" width="450" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(122, 162, 247, 0.3);" />
+  <img src="./image/README/StrayDog Syndications LLC (Tag (US)).png" alt="StrayDog Syndications LLC" width="400" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=800&color=7AA2F7&background=1A1B2600&center=true&vCenter=true&width=800&height=80&lines=%F0%9F%8C%9F+WELCOME+TO+THE+DIGITAL+REVOLUTION+%F0%9F%8C%9F;%F0%9F%A4%96+AI+SOLUTIONS+ENGINEER+EXTRAORDINAIRE+%F0%9F%A4%96;%E2%9A%A1+FULL-STACK+WIZARD+%2B+AI+ALCHEMIST+%E2%9A%A1;%F0%9F%9A%80+BUILDING+TOMORROW'S+TECH+TODAY+%F0%9F%9A%80;%F0%9F%A4%97+HUGGING+FACE+AI+PIONEER+%F0%9F%A4%97;%F0%9F%94%97+CONNECT+%26+COLLABORATE+WITH+ME+%F0%9F%94%97" alt="Dynamic Brand Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=18&duration=4000&pause=1000&color=7AA2F7&background=1A1B2600&center=true&vCenter=true&width=700&lines=%E2%96%B6+Applied+AI+Solutions+Engineer;%E2%96%B6+Full-Stack+Developer+%2B+LLM+Integration;%E2%96%B6+Building+Scalable+AI+Infrastructure;%E2%96%B6+From+New+England%2C+Coding+the+Future;%E2%96%B6+Connect+on+Hugging+Face+%F0%9F%A4%97" alt="Terminal Typing" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,20,24,25&height=120&section=header&text=STRAY%20DOG%20SYNDICATIONS%20LLC&fontSize=22&fontColor=FFFFFF&animation=blinking&desc=Premium%20AI%20Development%20%E2%80%A2%20Innovation%20%E2%80%A2%20Excellence&descAlignY=85&descAlign=50" alt="Brand Cylinder" />
-</p>
-
-<table align="center" cellpadding="10">
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/%F0%9F%8E%AF-PRECISION-gold?style=for-the-badge&logo=target&logoColor=black&labelColor=FFD700&color=FF6B35" alt="Precision" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/%F0%9F%92%8E-PREMIUM-blueviolet?style=for-the-badge&logo=gem&logoColor=white&labelColor=8A2BE2&color=FF1493" alt="Premium" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/%F0%9F%9A%80-INNOVATION-cyan?style=for-the-badge&logo=rocket&logoColor=black&labelColor=00FFFF&color=32CD32" alt="Innovation" />
-</td>
-</tr>
-</table>
+```ascii
+┌─────────────────────────────────────────────────────────────┐
+│ STATUS: ● ONLINE     │ LOCATION: New England    │ MODE: AI   │
+│ FOCUS:  Development  │ STACK: Full-Stack        │ LLM: ✓     │
+└─────────────────────────────────────────────────────────────┘
+```
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=20,11,6&height=60&section=footer&animation=fadeIn" alt="Brand Footer" />
+  <img src="https://komarev.com/ghpvc/?username=StrayDogSyn&label=Terminal+Sessions&color=7AA2F7&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/StrayDogSyn?label=Network+Nodes&style=flat-square&color=BB9AF7&logo=github&logoColor=white" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/AI+Stack-Deployed-9ECE6A?style=flat-square&logo=robot&logoColor=white" alt="AI Status" />
 </p>
 
 </div>
