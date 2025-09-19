@@ -2,32 +2,40 @@
 
 <div align="center">
 
-```ascii
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                        STRAY DOG SYNDICATIONS LLC                           ║
-║                    Building the Future, One Line at a Time                  ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
 <p align="center">
-  <img src="./image/README/StrayDog Syndications LLC (Tag (US)).png" alt="StrayDog Syndications LLC" width="400" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=120&section=header&text=STRAY%20DOG%20SYNDICATIONS%20LLC&fontSize=28&fontColor=FFFFFF&desc=Building%20the%20Future%2C%20One%20Line%20at%20a%20Time&descAlignY=75&descAlign=50&animation=fadeIn" alt="Company Header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=18&duration=4000&pause=1000&color=7AA2F7&background=1A1B2600&center=true&vCenter=true&width=700&lines=%E2%96%B6+Applied+AI+Solutions+Engineer;%E2%96%B6+Full-Stack+Developer+%2B+LLM+Integration;%E2%96%B6+Building+Scalable+AI+Infrastructure;%E2%96%B6+From+New+England%2C+Coding+the+Future;%E2%96%B6+Connect+on+Hugging+Face+%F0%9F%A4%97" alt="Terminal Typing" />
+  <img src="./image/README/StrayDog Syndications LLC (Tag (US)).png" alt="StrayDog Syndications LLC" width="420" />
 </p>
 
-```ascii
-┌─────────────────────────────────────────────────────────────┐
-│ STATUS: ● ONLINE     │ LOCATION: New England    │ MODE: AI   │
-│ FOCUS:  Development  │ STACK: Full-Stack        │ LLM: ✓     │
-└─────────────────────────────────────────────────────────────┘
-```
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=7AA2F7&background=1A1B2600&center=true&vCenter=true&width=650&lines=Applied+AI+Solutions+Engineer+%F0%9F%A4%96;Full-Stack+Developer+%2B+LLM+Integration+%E2%9A%A1;Building+Scalable+AI+Infrastructure+%F0%9F%9A%80;From+New+England%2C+Coding+the+Future+%F0%9F%8C%9F;Connect+on+Hugging+Face+%F0%9F%A4%97" alt="Dynamic Description" />
+</p>
+
+<table align="center" style="border: none;">
+<tr>
+<td align="center" style="border: none;">
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff88?style=for-the-badge&logo=circle&logoColor=white&labelColor=1a1b26" alt="Status" />
+</td>
+<td align="center" style="border: none;">
+<img src="https://img.shields.io/badge/LOCATION-New%20England-7aa2f7?style=for-the-badge&logo=map-pin&logoColor=white&labelColor=1a1b26" alt="Location" />
+</td>
+<td align="center" style="border: none;">
+<img src="https://img.shields.io/badge/MODE-AI%20Development-bb9af7?style=for-the-badge&logo=robot&logoColor=white&labelColor=1a1b26" alt="Mode" />
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=StrayDogSyn&label=Terminal+Sessions&color=7AA2F7&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/StrayDogSyn?label=Network+Nodes&style=flat-square&color=BB9AF7&logo=github&logoColor=white" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/AI+Stack-Deployed-9ECE6A?style=flat-square&logo=robot&logoColor=white" alt="AI Status" />
+  <img src="https://komarev.com/ghpvc/?username=StrayDogSyn&label=Profile+Views&color=7AA2F7&style=for-the-badge&logo=eye" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/StrayDogSyn?label=Followers&style=for-the-badge&color=BB9AF7&logo=github&logoColor=white" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/AI+Stack-Deployed-9ECE6A?style=for-the-badge&logo=checkmark&logoColor=white" alt="AI Status" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=60&section=footer&animation=twinkling" alt="Separator" />
 </p>
 
 </div>
