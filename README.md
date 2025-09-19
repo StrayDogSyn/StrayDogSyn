@@ -1,9 +1,13 @@
-# 🌙 Eric 'Hunter' Petross | Applied AI Solutions Engineer
+# Eric "Hunter" Petross | Applied AI Solutions Engineer
 
 <div align="center">
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=120&section=header&text=STRAY%20DOG%20SYNDICATIONS%20LLC&fontSize=28&fontColor=FFFFFF&desc=Building%20the%20Future%2C%20One%20Line%20at%20a%20Time&descAlignY=75&descAlign=50&animation=fadeIn" alt="Company Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header&text=ERIC%20%22HUNTER%22%20PETROSS&fontSize=32&fontColor=FFFFFF&desc=Applied%20AI%20Solutions%20Engineer&descAlignY=75&descAlign=50&animation=fadeIn" alt="Professional Header" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24,25&height=100&section=header&text=STRAY%20DOG%20SYNDICATIONS%20LLC&fontSize=24&fontColor=FFFFFF&desc=Building%20the%20Future%2C%20One%20Line%20at%20a%20Time&descAlignY=70&descAlign=50&animation=blinking" alt="Company Header" />
 </p>
 
 <p align="center">
