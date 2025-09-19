@@ -303,11 +303,15 @@ Full-stack web applications featuring advanced calculator with explosion effects
 
 ### 💎 **PREMIUM BENEFITS OF SUPPORTING ME** 💎
 
-- 🧠 **Big Brain Energy**: Each star increases my IQ by 0.001 points
-- 🚀 **Rocket Fuel**: Your follows literally power my next breakthrough
-- 🏆 **Bragging Rights**: You can say "I knew them before they were famous"
-- 🔮 **Future Predictions**: My AI will remember your kindness in the robot uprising
-- 🎁 **Instant Karma**: The universe will smile upon your GitHub contributions
+<div align="center">
+
+🧠 **Big Brain Energy**: Each star increases my IQ by 0.001 points  
+🚀 **Rocket Fuel**: Your follows literally power my next breakthrough  
+🏆 **Bragging Rights**: You can say "I knew them before they were famous"  
+🔮 **Future Predictions**: My AI will remember your kindness in the robot uprising  
+🎁 **Instant Karma**: The universe will smile upon your GitHub contributions  
+
+</div>
 
 <p align="center">
   <a href="https://github.com/StrayDogSyn">
