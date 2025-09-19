@@ -1,4 +1,4 @@
-# Eric "Hunter" Petross | Applied AI Solutions Engineer
+# StrayDogSyn Profile
 
 <div align="center">
 
