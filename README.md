@@ -324,13 +324,18 @@ Full-stack web applications featuring advanced calculator with explosion effects
 ### 📊 **CURRENT MOTIVATION LEVELS** 📊
 
 <p align="center">
-  <img src="https://progress-bar.dev/85/?scale=100&title=Coding%20Enthusiasm&width=400&color=babaca&suffix=%25" alt="Coding Progress" />
+  <img src="https://geps.dev/progress/85?dangerColor=800080&warningColor=ff9500&successColor=00ff5b" alt="Coding Enthusiasm: 85%" />
+  <br><strong>🚀 Coding Enthusiasm: 85%</strong>
 </p>
+
 <p align="center">
-  <img src="https://progress-bar.dev/60/?scale=100&title=Need%20More%20Stars&width=400&color=f7768e&suffix=%25" alt="Stars Progress" />
+  <img src="https://geps.dev/progress/60?dangerColor=800080&warningColor=ff9500&successColor=00ff5b" alt="Need More Stars: 60%" />
+  <br><strong>⭐ Need More Stars: 60%</strong>
 </p>
+
 <p align="center">
-  <img src="https://progress-bar.dev/40/?scale=100&title=HF%20Followers&width=400&color=ff6b35&suffix=%25" alt="HF Progress" />
+  <img src="https://geps.dev/progress/40?dangerColor=800080&warningColor=ff9500&successColor=00ff5b" alt="HF Followers: 40%" />
+  <br><strong>🤗 HF Followers: 40%</strong>
 </p>
 
 ---
