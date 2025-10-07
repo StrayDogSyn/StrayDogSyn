@@ -20,12 +20,13 @@
 
 ## 🚀 Featured Projects
 
-### [**MERN Stack Pomodoro TimeBlock Application**](https://github.com/StrayDogSyn)
-Fully functional productivity application combining Pomodoro technique with time-blocking methodology
+### [**MERN Stack Pomodoro TimeBlock Application**](https://github.com/StrayDogSyn/MERN-Stack-Pomodoro-TimeBlock-Application)
+Fully functional productivity application combining Pomodoro technique with time-blocking methodology.
 - **Tech Stack:** MongoDB, Express.js, React, Node.js, JWT Authentication
 - **Key Features:** Real-time timer sync, task categorization, productivity analytics dashboard
 - **My Role:** Full-stack development from database schema to responsive UI implementation
-- [Source Code](https://github.com/StrayDogSyn) | [Documentation](https://github.com/StrayDogSyn)
+- [Source Code](https://github.com/StrayDogSyn/MERN-Stack-Pomodoro-TimeBlock-Application) | [Documentation](https://github.com/StrayDogSyn/MERN-Stack-Pomodoro-TimeBlock-Application)
+
 
 ### [**Marvel Quiz Game Demo**](https://straydogsyn.github.io/)
 Interactive trivia game leveraging Marvel Comics API for dynamic content generation
