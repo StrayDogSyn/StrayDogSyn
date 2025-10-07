@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=1A1B26)](https://linkedin.com/in/eric-petross-766a08330)
 [![Email](https://img.shields.io/badge/Email-F7768E?style=for-the-badge&logo=gmail&logoColor=1A1B26)](mailto:eHunter@straydog-secondstory.org)
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-BB9AF7?style=for-the-badge&logo=huggingface&logoColor=1A1B26)](https://huggingface.co/StrayDogSyn)
-[![Portfolio](https://img.shields.io/badge/Portfolio-9ECE6A?style=for-the-badge&logo=vercel&logoColor=1A1B26)](https://straydogsyn.github.io/Learner-Files-v3.5/)
+[![Github Pages](https://img.shields.io/badge/Portfolio-9ECE6A?style=for-the-badge&logo=vercel&logoColor=1A1B26)](https://straydogsyn.github.io/Learner-Files-v3.5/)
 
 </div>
 
@@ -38,9 +38,9 @@ Interactive trivia game leveraging Marvel Comics API for dynamic content generat
 ### [**Web Development Digital Ecosystem**](https://www.straydog-syndications-llc.com/)
 Multi-domain platform showcasing AI consultancy and justice reform initiatives (Under Active Development)
 - **Tech Stack:** Next.js 14, TypeScript, Tailwind CSS, Supabase, Claude API Integration
-- **Domains:** [Corporate](https://www.straydog-syndications-llc.com/) | [Tech Portal](https://www.straydogsyndicationllc.tech/) | [Business](https://straydogsyndicationsllc.biz/) | [Non-Profit](https://www.straydog-secondstory.org/)
+- **Domains:** [Freelance LLC](https://www.straydog-syndications-llc.com/) | [Tech Portal](https://www.straydogsyndicationllc.tech/) | [Business Site](https://straydogsyndicationsllc.biz/) | [Non-Profit Initiative](https://www.straydog-secondstory.org/)
 - **Purpose:** Living testing platform for new techniques and emerging technologies
-- [View Portfolio](https://www.straydog-syndications-llc.com/)
+- [View Live Portfolio](https://straydogsyn.github.io/Learner-Files-v3.5/)
 
 > *Note: These sites are continuously evolving as experimental platforms for testing new technologies and techniques. Some data and metrics shown are simulated placeholders for demonstration purposes.*
 
@@ -86,16 +86,19 @@ I'm a pragmatic developer who believes in writing clean, maintainable code that 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-73DACA?style=for-the-badge&logo=tailwind-css&logoColor=1A1B26)
 
 ### AI/ML & Data
-![LangChain](https://img.shields.io/badge/LangChain-BB9AF7?style=for-the-badge&logo=chainlink&logoColor=1A1B26)
 ![MongoDB](https://img.shields.io/badge/MongoDB-9ECE6A?style=for-the-badge&logo=mongodb&logoColor=1A1B26)
-![Pinecone](https://img.shields.io/badge/Pinecone-F7768E?style=for-the-badge&logo=tree&logoColor=1A1B26)
 ![Supabase](https://img.shields.io/badge/Supabase-9ECE6A?style=for-the-badge&logo=supabase&logoColor=1A1B26)
+![Claude](https://img.shields.io/badge/Claude-da7756?style=for-the-badge&logo=claude&logoColor=1A1B26)
+![Databricks](https://img.shields.io/badge/Databricks-181825?style=for-the-badge&logo=databricks&logoColor=1A1B26)
 
 ### Development Tools
 ![Git](https://img.shields.io/badge/Git-F7768E?style=for-the-badge&logo=git&logoColor=1A1B26)
 ![Docker](https://img.shields.io/badge/Docker-7DCFFF?style=for-the-badge&logo=docker&logoColor=1A1B26)
 ![Vercel](https://img.shields.io/badge/Vercel-24283B?style=for-the-badge&logo=vercel&logoColor=C0CAF5)
 ![VS Code](https://img.shields.io/badge/VS_Code-9D7CD8?style=for-the-badge&logo=visual-studio-code&logoColor=1A1B26)
+![Cursor](https://img.shields.io/badge/Cursor-22272A?style=for-the-badge&logo=cursor&logoColor=1A1B26)
+![Trae](https://img.shields.io/badge/Trae%20IDE-32F08C?style=for-the-badge&logo=programming&logoColor=1A1B26)
+![Windsurf](https://img.shields.io/badge/Windsurf-808080?style=for-the-badge&logo=windsurf&logoColor=1A1B26)
 
 ---
 
