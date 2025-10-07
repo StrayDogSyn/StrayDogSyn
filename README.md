@@ -28,12 +28,12 @@ Fully functional productivity application combining Pomodoro technique with time
 - [Source Code](https://github.com/StrayDogSyn/MERN-Stack-Pomodoro-TimeBlock-Application) | [Documentation](https://github.com/StrayDogSyn/MERN-Stack-Pomodoro-TimeBlock-Application)
 
 
-### [**Marvel Quiz Game Demo**](https://straydogsyn.github.io/)
+### [**Marvel Quiz Game Demo**](https://straydogsyn.github.io/Learner-Files-v3.5/marvel-quiz-game/index.html)
 Interactive trivia game leveraging Marvel Comics API for dynamic content generation
 - **Tech Stack:** Vanilla JavaScript, Marvel API, Local Storage, CSS3 Animations
 - **Key Features:** Dynamic question generation, score tracking, character encyclopedia
 - **Note:** GitHub Pages deployment prevents live API calls; local development shows full functionality
-- [Demo (Limited)](https://straydogsyn.github.io/) | [Full Source](https://github.com/StrayDogSyn)
+- [Demo (Limited)](https://straydogsyn.github.io/Learner-Files-v3.5/marvel-quiz-game/index.html) | [Full Source](https://github.com/StrayDogSyn/Learner-Files-v3.5/tree/gh-pages/marvel-quiz-game)
 
 ### [**Web Development Digital Ecosystem**](https://www.straydog-syndications-llc.com/)
 Multi-domain platform showcasing AI consultancy and justice reform initiatives (Under Active Development)
