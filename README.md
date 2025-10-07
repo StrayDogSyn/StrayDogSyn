@@ -74,31 +74,31 @@ I'm a pragmatic developer who believes in writing clean, maintainable code that 
 ## 🛠️ Technical Skills
 
 ### Core Technologies
-![Python](https://img.shields.io/badge/Python-7AA2F7?style=for-the-badge&logo=python&logoColor=1A1B26)
-![TypeScript](https://img.shields.io/badge/TypeScript-7DCFFF?style=for-the-badge&logo=typescript&logoColor=1A1B26)
-![JavaScript](https://img.shields.io/badge/JavaScript-E0AF68?style=for-the-badge&logo=javascript&logoColor=1A1B26)
-![Node.js](https://img.shields.io/badge/Node.js-9ECE6A?style=for-the-badge&logo=nodedotjs&logoColor=1A1B26)
+![Python](https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7e018?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-66bb6a?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### Frameworks & Libraries
-![Next.js](https://img.shields.io/badge/Next.js-24283B?style=for-the-badge&logo=nextdotjs&logoColor=C0CAF5)
-![React](https://img.shields.io/badge/React-7DCFFF?style=for-the-badge&logo=react&logoColor=1A1B26)
-![Express](https://img.shields.io/badge/Express.js-24283B?style=for-the-badge&logo=express&logoColor=C0CAF5)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-73DACA?style=for-the-badge&logo=tailwind-css&logoColor=1A1B26)
+![Next.js](https://img.shields.io/badge/Next.js-2D2C2F?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black)
+![Express.js](https://img.shields.io/badge/Express.js-20232a?style=for-the-badge&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### AI/ML & Data
-![MongoDB](https://img.shields.io/badge/MongoDB-9ECE6A?style=for-the-badge&logo=mongodb&logoColor=1A1B26)
-![Supabase](https://img.shields.io/badge/Supabase-9ECE6A?style=for-the-badge&logo=supabase&logoColor=1A1B26)
-![Claude](https://img.shields.io/badge/Claude-da7756?style=for-the-badge&logo=claude&logoColor=1A1B26)
-![Databricks](https://img.shields.io/badge/Databricks-181825?style=for-the-badge&logo=databricks&logoColor=1A1B26)
+![MongoDB](https://img.shields.io/badge/MongoDB-4db33d?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ecf8e?style=for-the-badge&logo=supabase&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-d97757?style=for-the-badge&logo=claude&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-21262e?style=for-the-badge&logo=databricks&logoColor=ff3621)
 
 ### Development Tools
-![Git](https://img.shields.io/badge/Git-F7768E?style=for-the-badge&logo=git&logoColor=1A1B26)
-![Docker](https://img.shields.io/badge/Docker-7DCFFF?style=for-the-badge&logo=docker&logoColor=1A1B26)
-![Vercel](https://img.shields.io/badge/Vercel-24283B?style=for-the-badge&logo=vercel&logoColor=C0CAF5)
-![VS Code](https://img.shields.io/badge/VS_Code-9D7CD8?style=for-the-badge&logo=visual-studio-code&logoColor=1A1B26)
-![Cursor](https://img.shields.io/badge/Cursor-22272A?style=for-the-badge&logo=cursor&logoColor=1A1B26)
-![Trae](https://img.shields.io/badge/Trae%20IDE-32F08C?style=for-the-badge&logo=programming&logoColor=1A1B26)
-![Windsurf](https://img.shields.io/badge/Windsurf-808080?style=for-the-badge&logo=windsurf&logoColor=1A1B26)
+![Git](https://img.shields.io/badge/Git-f14c35?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-0c0c0c?style=for-the-badge&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-8257e5?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-23272F?style=for-the-badge&logo=cursor&logoColor=white)
+![Trae SOLO](https://img.shields.io/badge/Trae_IDE-45e29d?style=for-the-badge&logo=code&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-bababa?style=for-the-badge&logo=windsurf&logoColor=23272F)
 
 ---
 
