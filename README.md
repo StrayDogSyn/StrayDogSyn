@@ -1,35 +1,47 @@
 # Eric "Hunter" Petross
-**Applied AI Solutions Engineer | Full-Stack Developer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/eric-petross-766a08330)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:eHunter@straydog-secondstory.org)
-[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/StrayDogSyn)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://straydogsyn.github.io/Learner-Files-v3.5/)
+<div align="center">
+  <img src="./image/README/StrayDog Syndications LLC (Tag (US)).png" alt="StrayDog Syndications LLC" width="400" />
+  
+  **Applied AI Solutions Engineer | Full-Stack Developer**
+  
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=7AA2F7&background=1A1B2600&center=true&vCenter=true&width=650&lines=Building+Scalable+AI+Infrastructure+%F0%9F%9A%80;Full-Stack+Developer+%2B+LLM+Integration+%E2%9A%A1;From+New+England%2C+Coding+the+Future+%F0%9F%8C%9F" alt="Dynamic Description" />
+  </p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=1A1B26)](https://linkedin.com/in/eric-petross-766a08330)
+[![Email](https://img.shields.io/badge/Email-F7768E?style=for-the-badge&logo=gmail&logoColor=1A1B26)](mailto:eHunter@straydog-secondstory.org)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-BB9AF7?style=for-the-badge&logo=huggingface&logoColor=1A1B26)](https://huggingface.co/StrayDogSyn)
+[![Portfolio](https://img.shields.io/badge/Portfolio-9ECE6A?style=for-the-badge&logo=vercel&logoColor=1A1B26)](https://straydogsyn.github.io/Learner-Files-v3.5/)
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### [**StrayDog Syndications Multi-Domain Platform**](https://www.straydog-syndications-llc.com/)
-Full-stack enterprise platform spanning 4 interconnected domains with AI-powered features
-- **Tech Stack:** Next.js 14, TypeScript, Tailwind CSS, Supabase, Claude API
-- **Key Features:** Real-time AI chatbot, automated proposal generation, ROI calculator
-- **My Role:** Solo architect and developer, implementing LLM orchestration, RAG architecture, and CI/CD pipelines
-- [Live Demo](https://www.straydog-syndications-llc.com/) | [Tech Portal](https://www.straydogsyndicationllc.tech/) | [Code →](https://github.com/StrayDogSyn)
+### [**MERN Stack Pomodoro TimeBlock Application**](https://github.com/StrayDogSyn)
+Fully functional productivity application combining Pomodoro technique with time-blocking methodology
+- **Tech Stack:** MongoDB, Express.js, React, Node.js, JWT Authentication
+- **Key Features:** Real-time timer sync, task categorization, productivity analytics dashboard
+- **My Role:** Full-stack development from database schema to responsive UI implementation
+- [Source Code](https://github.com/StrayDogSyn) | [Documentation](https://github.com/StrayDogSyn)
 
-### [**Second Story Initiative**](https://www.straydog-secondstory.org/)
-Justice reform platform using AI for story curation and impact tracking
-- **Tech Stack:** Next.js, MongoDB Atlas, LangChain, Vector Embeddings
-- **Key Features:** Automated story matching, volunteer coordination, donation tracking with transparency
-- **My Role:** Built end-to-end ML pipeline for semantic search and content recommendation
-- [Live Demo](https://www.straydog-secondstory.org/) | [Documentation](https://github.com/StrayDogSyn)
+### [**Marvel Quiz Game Demo**](https://straydogsyn.github.io/)
+Interactive trivia game leveraging Marvel Comics API for dynamic content generation
+- **Tech Stack:** Vanilla JavaScript, Marvel API, Local Storage, CSS3 Animations
+- **Key Features:** Dynamic question generation, score tracking, character encyclopedia
+- **Note:** GitHub Pages deployment prevents live API calls; local development shows full functionality
+- [Demo (Limited)](https://straydogsyn.github.io/) | [Full Source](https://github.com/StrayDogSyn)
 
-### [**Interactive Learning Platform**](https://straydogsyn.github.io/Learner-Files-v3.5/)
-Educational tools suite featuring advanced calculator, strategy games, and certification tracker
-- **Tech Stack:** Vanilla JavaScript, CSS3, Progressive Web App
-- **Key Features:** Mobile-first design, offline capability, gamified learning modules
-- **My Role:** Created interactive UI components and implemented responsive design patterns
-- [Live Demo](https://straydogsyn.github.io/Learner-Files-v3.5/) | [Source Code](https://github.com/StrayDogSyn/Learner-Files-v3.5)
+### [**Web Development Digital Ecosystem**](https://www.straydog-syndications-llc.com/)
+Multi-domain platform showcasing AI consultancy and justice reform initiatives (Under Active Development)
+- **Tech Stack:** Next.js 14, TypeScript, Tailwind CSS, Supabase, Claude API Integration
+- **Domains:** [Corporate](https://www.straydog-syndications-llc.com/) | [Tech Portal](https://www.straydogsyndicationllc.tech/) | [Business](https://straydogsyndicationsllc.biz/) | [Non-Profit](https://www.straydog-secondstory.org/)
+- **Purpose:** Living testing platform for new techniques and emerging technologies
+- [View Portfolio](https://www.straydog-syndications-llc.com/)
+
+> *Note: These sites are continuously evolving as experimental platforms for testing new technologies and techniques. Some data and metrics shown are simulated placeholders for demonstration purposes.*
 
 ---
 
@@ -45,31 +57,48 @@ I'm a pragmatic developer who believes in writing clean, maintainable code that 
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=StrayDogSyn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrayDogSyn&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&text_color=C0CAF5" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=StrayDogSyn&theme=tokyonight&hide_border=true&background=1A1B26&ring=7AA2F7&fire=F7768E&currStreakLabel=BB9AF7" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=StrayDogSyn&theme=tokyo-night&hide_border=true&bg_color=1A1B26&color=7AA2F7&line=BB9AF7&point=F7768E" alt="Contribution Graph" />
+</div>
+
+---
+
 ## 🛠️ Technical Skills
 
 ### Core Technologies
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-7AA2F7?style=for-the-badge&logo=python&logoColor=1A1B26)
+![TypeScript](https://img.shields.io/badge/TypeScript-7DCFFF?style=for-the-badge&logo=typescript&logoColor=1A1B26)
+![JavaScript](https://img.shields.io/badge/JavaScript-E0AF68?style=for-the-badge&logo=javascript&logoColor=1A1B26)
+![Node.js](https://img.shields.io/badge/Node.js-9ECE6A?style=for-the-badge&logo=nodedotjs&logoColor=1A1B26)
 
 ### Frameworks & Libraries
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-24283B?style=for-the-badge&logo=nextdotjs&logoColor=C0CAF5)
+![React](https://img.shields.io/badge/React-7DCFFF?style=for-the-badge&logo=react&logoColor=1A1B26)
+![Express](https://img.shields.io/badge/Express.js-24283B?style=for-the-badge&logo=express&logoColor=C0CAF5)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-73DACA?style=for-the-badge&logo=tailwind-css&logoColor=1A1B26)
 
 ### AI/ML & Data
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-BB9AF7?style=for-the-badge&logo=chainlink&logoColor=1A1B26)
+![MongoDB](https://img.shields.io/badge/MongoDB-9ECE6A?style=for-the-badge&logo=mongodb&logoColor=1A1B26)
+![Pinecone](https://img.shields.io/badge/Pinecone-F7768E?style=for-the-badge&logo=tree&logoColor=1A1B26)
+![Supabase](https://img.shields.io/badge/Supabase-9ECE6A?style=for-the-badge&logo=supabase&logoColor=1A1B26)
 
 ### Development Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F7768E?style=for-the-badge&logo=git&logoColor=1A1B26)
+![Docker](https://img.shields.io/badge/Docker-7DCFFF?style=for-the-badge&logo=docker&logoColor=1A1B26)
+![Vercel](https://img.shields.io/badge/Vercel-24283B?style=for-the-badge&logo=vercel&logoColor=C0CAF5)
+![VS Code](https://img.shields.io/badge/VS_Code-9D7CD8?style=for-the-badge&logo=visual-studio-code&logoColor=1A1B26)
 
 ---
 
@@ -98,17 +127,10 @@ I'm a pragmatic developer who believes in writing clean, maintainable code that 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StrayDogSyn&show_icons=true&theme=dark&hide_border=true&hide=stars&count_private=true" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrayDogSyn&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150"/>
-</p>
-
----
-
 ## 📫 Let's Connect
 
+<div align="center">
+  
 I'm always interested in discussing challenging technical problems, particularly those involving AI integration, scalable architectures, or social impact technology. 
 
 **Currently seeking:** Full-time opportunities in AI engineering, full-stack development, or technical architecture roles where I can contribute to meaningful products.
@@ -121,8 +143,11 @@ I'm always interested in discussing challenging technical problems, particularly
   <sub>Scan for complete contact information</sub>
 </p>
 
+</div>
+
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=StrayDogSyn&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=StrayDogSyn&style=for-the-badge&color=7AA2F7&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/StrayDogSyn?label=Followers&style=for-the-badge&color=BB9AF7&logo=github&logoColor=white" alt="GitHub Followers" />
 </p>
