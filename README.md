@@ -20,7 +20,7 @@
 
 ## 🚀 Featured Projects
 
-### [**MERN Stack Pomodoro TimeBlock Application**](https://github.com/StrayDogSyn/MERN-Stack-Pomodoro-TimeBlock-Application)
+### [**MERN Stack Pomodoro TimeBlock Application**](https://trae5tthwuf3.vercel.app/login)
 Fully functional productivity application combining Pomodoro technique with time-blocking methodology.
 - **Tech Stack:** MongoDB, Express.js, React, Node.js, JWT Authentication
 - **Key Features:** Real-time timer sync, task categorization, productivity analytics dashboard
