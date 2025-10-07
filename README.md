@@ -90,6 +90,7 @@ I'm a pragmatic developer who believes in writing clean, maintainable code that 
 ![Supabase](https://img.shields.io/badge/Supabase-3ecf8e?style=for-the-badge&logo=supabase&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-d97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-21262e?style=for-the-badge&logo=databricks&logoColor=ff3621)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### Development Tools
 ![Git](https://img.shields.io/badge/Git-f14c35?style=for-the-badge&logo=git&logoColor=white)
