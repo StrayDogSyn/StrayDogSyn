@@ -104,7 +104,7 @@ I'm a pragmatic developer who believes in writing clean, maintainable code that 
 *Community College of Rhode Island* | In Progress | GPA: 3.40
 
 ### Recent Certifications
-- **Applied AI Solutions Engineer** - Justice Through Code (2026)
+- **Applied AI Solutions Engineer** - Justice Through Code (pending 2026)
 - **Building AI Agents with MongoDB** - MongoDB University (2025)
 - **JavaScript: ES6 and Beyond** - Udemy (2024)
 - **Full-Stack Development with Cursor Copilot** - Udemy (2025)
