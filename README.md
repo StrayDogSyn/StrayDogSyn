@@ -57,33 +57,19 @@ I'm a pragmatic developer who believes in writing clean, maintainable code that 
 
 ---
 
-## 📊 Development Activity
+## 📊 GitHub Analytics
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <strong>1.3k+</strong><br/>
-        <sub>Total Commits</sub>
-      </td>
-      <td align="center">
-        <strong>2,470</strong><br/>
-        <sub>Contributions (2024)</sub>
-      </td>
-      <td align="center">
-        <strong>39</strong><br/>
-        <sub>Pull Requests</sub>
-      </td>
-      <td align="center">
-        <strong>51 days</strong><br/>
-        <sub>Longest Streak</sub>
-      </td>
-    </tr>
-  </table>
-  
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrayDogSyn&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&text_color=C0CAF5&hide=powershell" alt="Top Languages" />
-  
-  <sub><strong>Primary Languages:</strong> Python (39%) • TypeScript (35%) • JavaScript (10%)</sub>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=StrayDogSyn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrayDogSyn&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&text_color=C0CAF5" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=StrayDogSyn&theme=tokyonight&hide_border=true&background=1A1B26&ring=7AA2F7&fire=F7768E&currStreakLabel=BB9AF7" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=StrayDogSyn&theme=tokyo-night&hide_border=true&bg_color=1A1B26&color=7AA2F7&line=BB9AF7&point=F7768E" alt="Contribution Graph" />
 </div>
 
 ---
