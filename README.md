@@ -68,10 +68,6 @@ I'm a pragmatic developer who believes in writing clean, maintainable code that 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=StrayDogSyn&theme=tokyonight&hide_border=true&background=1A1B26&ring=7AA2F7&fire=F7768E&currStreakLabel=BB9AF7" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=StrayDogSyn&theme=tokyo-night&hide_border=true&bg_color=1A1B26&color=7AA2F7&line=BB9AF7&point=F7768E" alt="Contribution Graph" />
-</div>
-
 ---
 
 ## 🛠️ Technical Skills
