@@ -103,6 +103,48 @@ I'm a pragmatic developer who believes in writing clean, maintainable code that 
 ![Windsurf](https://img.shields.io/badge/Windsurf-bababa?style=for-the-badge&logo=windsurf&logoColor=23272F)
 
 ---
+---
+
+## 🎯 Competitive Coding & Problem Solving
+
+<div align="center">
+
+### Active Practice Platforms
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h4>CodeWars</h4>
+      <a href="https://www.codewars.com/users/StrayDogSyn">
+        <img src="https://www.codewars.com/users/StrayDogSyn/badges/large" alt="CodeWars Badge" />
+      </a>
+      <br>
+      <sub>Solving algorithmic challenges</sub>
+    </td>
+    <td align="center" width="33%">
+      <h4>LeetCode</h4>
+      <a href="https://leetcode.com/StrayDogSyn">
+        <img src="https://leetcard.jacoblin.cool/StrayDogSyn?theme=dark&font=JetBrains%20Mono&ext=contest" alt="LeetCode Stats" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <h4>HackerRank</h4>
+      <a href="https://www.hackerrank.com/straydogsyndica1">
+        <img src="https://hrcdn.net/fcore/assets/badges/problem-solving-1c59f000b2.svg" alt="HackerRank Problem Solving" width="100" />
+      </a>
+      <br>
+      <a href="https://www.hackerrank.com/straydogsyndica1">
+        <img src="https://img.shields.io/badge/View_Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+**Focus Areas:** Algorithm optimization, data structures, system design, problem decomposition
+
+</div>
+
+---
 
 ## 📚 Education & Certifications
 
