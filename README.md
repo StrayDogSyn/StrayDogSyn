@@ -107,6 +107,8 @@ I'm a pragmatic developer who believes in writing clean, maintainable code that 
 
 ---
 
+---
+
 ## 🎯 Competitive Coding & Problem Solving
 
 <div align="center">
@@ -132,14 +134,14 @@ I'm a pragmatic developer who believes in writing clean, maintainable code that 
     <td align="center" width="33%">
       <h4>HackerRank</h4>
       <a href="https://www.hackerrank.com/straydogsyndica1">
-        <img src="https://hrcdn.net/fcore/assets/badges/problem-solving-1c59f000b2.svg" alt="Problem Solving" width="100" />
-        <br><br>
-        <img src="https://hrcdn.net/fcore/assets/badges/python-ba7c004f66.svg" alt="Python" width="80" />
-        <img src="https://hrcdn.net/fcore/assets/badges/sql-7e1223967e.svg" alt="SQL" width="80" />
-        <img src="https://hrcdn.net/fcore/assets/badges/javascript-05b556e347.svg" alt="JavaScript" width="80" />
+        <img src="https://img.shields.io/badge/Python-★_Certified-FFD43B?style=for-the-badge&logo=python&logoColor=306998" alt="Python Certified" />
       </a>
       <br><br>
-      <sub>Active certifications & challenges</sub>
+      <a href="https://www.hackerrank.com/straydogsyndica1">
+        <img src="https://img.shields.io/badge/Profile-View_Challenges-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="View Profile" />
+      </a>
+      <br><br>
+      <sub>Active in Problem Solving & Python</sub>
     </td>
   </tr>
 </table>
