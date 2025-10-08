@@ -103,15 +103,6 @@ I'm a pragmatic developer who believes in writing clean, maintainable code that 
 ![Windsurf](https://img.shields.io/badge/Windsurf-bababa?style=for-the-badge&logo=windsurf&logoColor=23272F)
 
 ---
----
-
----
-
----
-
----
-
----
 
 ## 🎯 Competitive Coding & Problem Solving
 
