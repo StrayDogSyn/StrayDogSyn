@@ -128,15 +128,18 @@ I'm a pragmatic developer who believes in writing clean, maintainable code that 
     </td>
     <td align="center" width="33%">
       <h4>HackerRank</h4>
+      <br>
       <a href="https://www.hackerrank.com/straydogsyndica1">
-        <img src="./hackerrank-python.svg" alt="Python Badge" width="120" />
+        <img src="./hackerrank-python.svg" alt="Python Badge" width="110" />
       </a>
+      <br><br><br>
+      <strong>Python Certified</strong>
+      <br>
+      <sub>Problem Solving • Algorithms</sub>
       <br><br>
       <a href="https://www.hackerrank.com/straydogsyndica1">
         <img src="https://img.shields.io/badge/View_Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="View Profile" />
       </a>
-      <br><br>
-      <sub>Python certified & problem solving</sub>
     </td>
   </tr>
 </table>
