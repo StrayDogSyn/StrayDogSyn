@@ -85,9 +85,10 @@ I'm a pragmatic developer who believes in writing clean, maintainable code that 
 
 ## 📊 GitHub Analytics
 
+📊 GitHub Analytics
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-git-master-eric-hunter-petross-projects.vercel.app/api?username=StrayDogSyn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats-git-master-eric-hunter-petross-projects.vercel.app/api/top-langs/?username=StrayDogSyn&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&text_color=C0CAF5" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats-chi-beryl.vercel.app/api?username=StrayDogSyn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats-chi-beryl.vercel.app/api/top-langs/?username=StrayDogSyn&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&text_color=C0CAF5" alt="Top Languages" />
 </div>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=StrayDogSyn&theme=tokyonight&hide_border=true&background=1A1B26&ring=7AA2F7&fire=F7768E&currStreakLabel=BB9AF7" alt="GitHub Streak" />
