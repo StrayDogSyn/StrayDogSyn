@@ -9,10 +9,10 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=7AA2F7&background=1A1B2600&center=true&vCenter=true&width=650&lines=Building+Scalable+AI+Infrastructure+%F0%9F%9A%80;Full-Stack+Developer+%2B+LLM+Integration+%E2%9A%A1;From+New+England%2C+Coding+the+Future+%F0%9F%8C%9F" alt="Dynamic Description" />
   </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=1A1B26)](https://linkedin.com/in/eric-petross-766a08330)
-[![Email](https://img.shields.io/badge/Email-F7768E?style=for-the-badge&logo=gmail&logoColor=1A1B26)](mailto:eHunter@straydog-secondstory.org)
-[![Hugging Face](https://img.shields.io/badge/Hugging_Face-BB9AF7?style=for-the-badge&logo=huggingface&logoColor=1A1B26)](https://huggingface.co/StrayDogSyn)
-[![Github Pages](https://img.shields.io/badge/Portfolio-9ECE6A?style=for-the-badge&logo=vercel&logoColor=1A1B26)](https://straydogsyn.github.io/Learner-Files-v3.5/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7AA2F7?style=flat&logo=linkedin&logoColor=1A1B26)](https://linkedin.com/in/eric-petross-766a08330)
+[![Email](https://img.shields.io/badge/Email-F7768E?style=flat&logo=gmail&logoColor=1A1B26)](mailto:eHunter@straydog-secondstory.org)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-BB9AF7?style=flat&logo=huggingface&logoColor=1A1B26)](https://huggingface.co/StrayDogSyn)
+[![Github Pages](https://img.shields.io/badge/Portfolio-9ECE6A?style=flat&logo=vercel&logoColor=1A1B26)](https://straydogsyn.github.io/Learner-Files-v3.5/)
 
 </div>
 
@@ -100,36 +100,36 @@ I'm a pragmatic developer who believes in writing clean, maintainable code that 
 
 ### Core Technologies
 
-![Python](https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7e018?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-66bb6a?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-4584b6?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7e018?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-66bb6a?style=flat&logo=nodedotjs&logoColor=white)
 
 ### Frameworks & Libraries
 
-![Next.js](https://img.shields.io/badge/Next.js-2D2C2F?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black)
-![Express.js](https://img.shields.io/badge/Express.js-20232a?style=for-the-badge&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-2D2C2F?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61dafb?style=flat&logo=react&logoColor=black)
+![Express.js](https://img.shields.io/badge/Express.js-20232a?style=flat&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06b6d4?style=flat&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
 ### AI/ML & Data
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4db33d?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ecf8e?style=for-the-badge&logo=supabase&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-d97757?style=for-the-badge&logo=claude&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-21262e?style=for-the-badge&logo=databricks&logoColor=ff3621)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-4db33d?style=flat&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ecf8e?style=flat&logo=supabase&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-d97757?style=flat&logo=claude&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-21262e?style=flat&logo=databricks&logoColor=ff3621)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFCC00?style=flat&logo=huggingface&logoColor=black)
 
 ### Development Tools
 
-![Git](https://img.shields.io/badge/Git-f14c35?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-0c0c0c?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-8257e5?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-23272F?style=for-the-badge&logo=cursor&logoColor=white)
-![Trae SOLO](https://img.shields.io/badge/Trae_IDE-45e29d?style=for-the-badge&logo=code&logoColor=white)
-![Windsurf](https://img.shields.io/badge/Windsurf-bababa?style=for-the-badge&logo=windsurf&logoColor=23272F)
+![Git](https://img.shields.io/badge/Git-f14c35?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-0c0c0c?style=flat&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-8257e5?style=flat&logo=visualstudiocode&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-23272F?style=flat&logo=cursor&logoColor=white)
+![Trae SOLO](https://img.shields.io/badge/Trae_IDE-45e29d?style=flat&logo=code&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-bababa?style=flat&logo=windsurf&logoColor=23272F)
 
 ---
 
@@ -167,7 +167,7 @@ I'm a pragmatic developer who believes in writing clean, maintainable code that 
       <sub>Problem Solving • Algorithms</sub>
       <br><br>
       <a href="https://www.hackerrank.com/straydogsyndica1">
-        <img src="https://img.shields.io/badge/View_Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="View Profile" />
+        <img src="https://img.shields.io/badge/View_Profile-00EA64?style=flat&logo=hackerrank&logoColor=white" alt="View Profile" />
       </a>
     </td>
   </tr>
@@ -228,6 +228,6 @@ I'm always interested in discussing challenging technical problems, particularly
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=StrayDogSyn&style=for-the-badge&color=7AA2F7&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/StrayDogSyn?label=Followers&style=for-the-badge&color=BB9AF7&logo=github&logoColor=white" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=StrayDogSyn&style=flat&color=7AA2F7&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/StrayDogSyn?label=Followers&style=flat&color=BB9AF7&logo=github&logoColor=white" alt="GitHub Followers" />
 </p>
