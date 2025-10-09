@@ -61,9 +61,9 @@ Comprehensive showcase of front-end development capabilities and interactive Jav
 - **Technologies:** Vanilla JavaScript, CSS3 animations, API integration, mobile-first responsive design
 - **Purpose:** Demonstrates client-side programming proficiency and UI/UX implementation skills
 
-### **[WDF Certificate Program - Justice Through Code](https://github.com/StrayDogSyn/WDF-GitLab-TheLastMileProgram)**
+### **[WDF Certificate Program - The Last Mile Program](https://straydogsyn.github.io/WDF-GitLab-TheLastMileProgram/)**
 
-Full curriculum completion repository from The Last Mile's intensive web development program.
+Highlighted projects from curriculum completion repository from The Last Mile's intensive web development program.
 
 - **Contents:** 100+ coding exercises, 20+ projects covering HTML/CSS/JavaScript fundamentals, Git workflow, collaborative development
 - **Certification:** Web Development Fundamentals (WDF) - January 2025
