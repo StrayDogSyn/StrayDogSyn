@@ -87,7 +87,7 @@ I'm a pragmatic developer who believes in writing clean, maintainable code that 
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats-chi-beryl.vercel.app/api?username=StrayDogSyn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="52%" src="https://github-readme-stats-chi-beryl.vercel.app/api/top-langs/?username=StrayDogSyn&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&text_color=C0CAF5" alt="Top Languages" />
+  <img width="50%" src="https://github-readme-stats-chi-beryl.vercel.app/api/top-langs/?username=StrayDogSyn&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&text_color=C0CAF5" alt="Top Languages" />
 </div>
 
 ---
