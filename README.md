@@ -2,9 +2,9 @@
 
 <div align="center">
   <img src="./image/README/StrayDog Syndications LLC (Tag (US)).png" alt="StrayDog Syndications LLC" width="400" />
-  
-  **Applied AI Solutions Engineer | Full-Stack Developer**
-  
+
+## Applied AI Solutions Engineer | Full-Stack Developer
+
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=7AA2F7&background=1A1B2600&center=true&vCenter=true&width=650&lines=Building+Scalable+AI+Infrastructure+%F0%9F%9A%80;Full-Stack+Developer+%2B+LLM+Integration+%E2%9A%A1;From+New+England%2C+Coding+the+Future+%F0%9F%8C%9F" alt="Dynamic Description" />
   </p>
@@ -21,28 +21,53 @@
 ## 🚀 Featured Projects
 
 ### [**MERN Stack Pomodoro TimeBlock Application**](https://trae5tthwuf3.vercel.app/login)
+
 Fully functional productivity application combining Pomodoro technique with time-blocking methodology.
+
 - **Tech Stack:** MongoDB, Express.js, React, Node.js, JWT Authentication
 - **Key Features:** Real-time timer sync, task categorization, productivity analytics dashboard
 - **My Role:** Full-stack development from database schema to responsive UI implementation
 - [Source Code](https://github.com/StrayDogSyn/MERN-Stack-Pomodoro-TimeBlock-Application) | [Documentation](https://github.com/StrayDogSyn/MERN-Stack-Pomodoro-TimeBlock-Application)
 
-
 ### [**Marvel Quiz Game Demo**](https://straydogsyn.github.io/Learner-Files-v3.5/marvel-quiz-game/index.html)
+
 Interactive trivia game leveraging Marvel Comics API for dynamic content generation
+
 - **Tech Stack:** Vanilla JavaScript, Marvel API, Local Storage, CSS3 Animations
 - **Key Features:** Dynamic question generation, score tracking, character encyclopedia
 - **Note:** GitHub Pages deployment prevents live API calls; local development shows full functionality
 - [Demo (Limited)](https://straydogsyn.github.io/Learner-Files-v3.5/marvel-quiz-game/index.html) | [Full Source](https://github.com/StrayDogSyn/Learner-Files-v3.5/tree/gh-pages/marvel-quiz-game)
 
 ### [**Web Development Digital Ecosystem**](https://www.straydog-syndications-llc.com/)
+
 Multi-domain platform showcasing AI consultancy and justice reform initiatives (Under Active Development)
+
 - **Tech Stack:** Next.js 14, TypeScript, Tailwind CSS, Supabase, Claude API Integration
 - **Domains:** [Freelance LLC](https://www.straydog-syndications-llc.com/) | [Tech Portal](https://www.straydogsyndicationllc.tech/) | [Business Site](https://straydogsyndicationsllc.biz/) | [Non-Profit Initiative](https://www.straydog-secondstory.org/)
 - **Purpose:** Living testing platform for new techniques and emerging technologies
 - [View Live Portfolio](https://straydogsyn.github.io/Learner-Files-v3.5/)
 
 > *Note: These sites are continuously evolving as experimental platforms for testing new technologies and techniques. Some data and metrics shown are simulated placeholders for demonstration purposes.*
+
+---
+
+## 📂 Portfolio Collections
+
+### **[Interactive Web Development Portfolio](https://straydogsyn.github.io/Learner-Files-v3.5/)**
+
+Comprehensive showcase of front-end development capabilities and interactive JavaScript applications.
+
+- **Contents:** Advanced calculator with particle effects, Marvel API trivia game, responsive layouts, interactive certifications display
+- **Technologies:** Vanilla JavaScript, CSS3 animations, API integration, mobile-first responsive design
+- **Purpose:** Demonstrates client-side programming proficiency and UI/UX implementation skills
+
+### **[WDF Certificate Program - Justice Through Code](https://github.com/StrayDogSyn/WDF-GitLab-TheLastMileProgram)**
+
+Full curriculum completion repository from The Last Mile's intensive web development program.
+
+- **Contents:** 100+ coding exercises, 20+ projects covering HTML/CSS/JavaScript fundamentals, Git workflow, collaborative development
+- **Certification:** Web Development Fundamentals (WDF) - January 2025
+- **Highlights:** Structured learning progression from basic syntax to complex DOM manipulation and API integration
 
 ---
 
@@ -74,12 +99,14 @@ I'm a pragmatic developer who believes in writing clean, maintainable code that 
 ## 🛠️ Technical Skills
 
 ### Core Technologies
+
 ![Python](https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7e018?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-66bb6a?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### Frameworks & Libraries
+
 ![Next.js](https://img.shields.io/badge/Next.js-2D2C2F?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black)
 ![Express.js](https://img.shields.io/badge/Express.js-20232a?style=for-the-badge&logo=express&logoColor=white)
@@ -87,6 +114,7 @@ I'm a pragmatic developer who believes in writing clean, maintainable code that 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ### AI/ML & Data
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-4db33d?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ecf8e?style=for-the-badge&logo=supabase&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-d97757?style=for-the-badge&logo=claude&logoColor=white)
@@ -94,6 +122,7 @@ I'm a pragmatic developer who believes in writing clean, maintainable code that 
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### Development Tools
+
 ![Git](https://img.shields.io/badge/Git-f14c35?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-0c0c0c?style=for-the-badge&logo=vercel&logoColor=white)
@@ -156,6 +185,7 @@ I'm a pragmatic developer who believes in writing clean, maintainable code that 
 *Community College of Rhode Island* | In Progress | GPA: 3.40
 
 ### Recent Certifications
+
 - **Tech Pathways AI\ML Fundamentals** - Justice Through Code (2025)
 - **Building AI Agents with MongoDB** - MongoDB University (2025)
 - **JavaScript: ES6 and Beyond** - Udemy (2024)
@@ -166,10 +196,12 @@ I'm a pragmatic developer who believes in writing clean, maintainable code that 
 ## 💼 Professional Experience
 
 **Community Engagement Instructor** | The Moth | Nov 2024 - Present
+
 - Develop and deliver technical storytelling workshops bridging technology and human narrative
 - Create curriculum integrating digital tools with traditional communication methods
 
 **AI Content Engineer** | Outlier AI | Oct 2024 - Present
+
 - Fine-tune and validate LLM outputs for production applications
 - Develop testing frameworks for model performance optimization
 
@@ -178,8 +210,8 @@ I'm a pragmatic developer who believes in writing clean, maintainable code that 
 ## 📫 Let's Connect
 
 <div align="center">
-  
-I'm always interested in discussing challenging technical problems, particularly those involving AI integration, scalable architectures, or social impact technology. 
+
+I'm always interested in discussing challenging technical problems, particularly those involving AI integration, scalable architectures, or social impact technology.
 
 **Currently seeking:** Full-time opportunities in AI engineering, full-stack development, or technical architecture roles where I can contribute to meaningful products.
 
