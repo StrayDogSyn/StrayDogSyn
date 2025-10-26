@@ -20,23 +20,32 @@
 
 ## 🚀 Featured Projects
 
-### [**MERN Stack Pomodoro TimeBlock Application**](https://trae5tthwuf3.vercel.app/login)
+### [**Full-Stack To-Do List Application**](https://full-stack-to-do-list-hunter-fronte.vercel.app/)
 
-Fully functional productivity application combining Pomodoro technique with time-blocking methodology.
+A comprehensive task management application with modern full-stack architecture.
 
-- **Tech Stack:** MongoDB, Express.js, React, Node.js, JWT Authentication
-- **Key Features:** Real-time timer sync, task categorization, productivity analytics dashboard
-- **My Role:** Full-stack development from database schema to responsive UI implementation
-- [Source Code](https://github.com/StrayDogSyn/MERN-Stack-Pomodoro-TimeBlock-Application) | [Documentation](https://github.com/StrayDogSyn/MERN-Stack-Pomodoro-TimeBlock-Application)
+- **Tech Stack:** MongoDB, Express.js, React, Node.js
+- **Key Features:** RESTful API, responsive design, CRUD operations, persistent data storage
+- **Deployment:** Full-stack deployment with Vercel frontend and backend integration
+- [Live Demo](https://full-stack-to-do-list-hunter-fronte.vercel.app/) | [Source Code](https://github.com/StrayDogSyn/full-stack-ToDoList-Hunter)
 
-### [**Marvel Quiz Game Demo**](https://straydogsyn.github.io/Learner-Files-v3.5/marvel-quiz-game/index.html)
+### [**Pygame Asteroids Deluxe**](https://github.com/StrayDogSyn/pygame-asteriods-deluxe)
 
-Interactive trivia game leveraging Marvel Comics API for dynamic content generation
+Classic arcade game reimagined with Python and Pygame.
+
+- **Tech Stack:** Python, Pygame, Object-Oriented Programming
+- **Key Features:** Collision detection, score tracking, progressive difficulty, sprite animation
+- **Purpose:** Demonstrates game development fundamentals and OOP principles
+- [Source Code](https://github.com/StrayDogSyn/pygame-asteriods-deluxe)
+
+### [**Marvel Quiz**](https://straydogsyn.github.io/Marvel-Quiz/)
+
+Interactive trivia game leveraging Marvel Comics API for dynamic content generation.
 
 - **Tech Stack:** Vanilla JavaScript, Marvel API, Local Storage, CSS3 Animations
 - **Key Features:** Dynamic question generation, score tracking, character encyclopedia
-- **Note:** GitHub Pages deployment prevents live API calls; local development shows full functionality
-- [Demo (Limited)](https://straydogsyn.github.io/Learner-Files-v3.5/marvel-quiz-game/index.html) | [Full Source](https://github.com/StrayDogSyn/Learner-Files-v3.5/tree/gh-pages/marvel-quiz-game)
+- **Deployment:** Live interactive quiz game with API integration
+- [Live Demo](https://straydogsyn.github.io/Marvel-Quiz/) | [Source Code](https://github.com/StrayDogSyn/Marvel-Quiz)
 
 ### [**Web Development Digital Ecosystem**](https://www.straydog-syndications-llc.com/)
 
@@ -53,14 +62,6 @@ Multi-domain platform showcasing AI consultancy and justice reform initiatives (
 
 ## 📂 Portfolio Collections
 
-### **[Interactive Web Development Portfolio](https://straydogsyn.github.io/Learner-Files-v3.5/)**
-
-Comprehensive showcase of front-end development capabilities and interactive JavaScript applications.
-
-- **Contents:** Advanced calculator with particle effects, Marvel API trivia game, responsive layouts, interactive certifications display
-- **Technologies:** Vanilla JavaScript, CSS3 animations, API integration, mobile-first responsive design
-- **Purpose:** Demonstrates client-side programming proficiency and UI/UX implementation skills
-
 ### **[WDF Certificate Program - The Last Mile Program](https://straydogsyn.github.io/WDF-GitLab-TheLastMileProgram/)**
 
 Highlighted projects from curriculum completion repository from The Last Mile's intensive web development program.
@@ -68,6 +69,14 @@ Highlighted projects from curriculum completion repository from The Last Mile's 
 - **Contents:** 100+ coding exercises, 20+ projects covering HTML/CSS/JavaScript fundamentals, Git workflow, collaborative development
 - **Certification:** Web Development Fundamentals (WDF) - January 2025
 - **Highlights:** Structured learning progression from basic syntax to complex DOM manipulation and API integration
+
+### **[Interactive Web Development Portfolio](https://straydogsyn.github.io/Learner-Files-v3.5/)**
+
+Comprehensive showcase of front-end development capabilities and interactive JavaScript applications.
+
+- **Contents:** Advanced calculator with particle effects, Marvel API trivia game, responsive layouts, interactive certifications display
+- **Technologies:** Vanilla JavaScript, CSS3 animations, API integration, mobile-first responsive design
+- **Purpose:** Demonstrates client-side programming proficiency and UI/UX implementation skills
 
 ---
 
