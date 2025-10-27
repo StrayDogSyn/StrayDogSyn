@@ -52,7 +52,7 @@ Interactive trivia game leveraging Marvel Comics API for dynamic content generat
 Multi-domain platform showcasing AI consultancy and justice reform initiatives (Under Active Development)
 
 - **Tech Stack:** Next.js 14, TypeScript, Tailwind CSS, Supabase, Claude API Integration
-- **Domains:** [Freelance LLC](https://www.straydog-syndications-llc.com/) | [Tech Portal](https://www.straydogsyndicationllc.tech/) | [Business Site](https://straydogsyndicationsllc.biz/) | [Non-Profit Initiative](https://www.straydog-secondstory.org/)
+- **Domains:** [Freelance LLC](https://www.straydog-syndications-llc.com/) | [Tech Portal](https://www.straydogsyndicationsllc.tech/) | [Business Site](https://straydogsyndicationsllc.biz/) | [Non-Profit Initiative](https://www.straydog-secondstory.org/)
 - **Purpose:** Living testing platform for new techniques and emerging technologies
 - [View Live Portfolio](https://straydogsyn.github.io/Learner-Files-v3.5/)
 
@@ -236,3 +236,4 @@ I'm always interested in discussing challenging technical problems, particularly
   <img src="https://komarev.com/ghpvc/?username=StrayDogSyn&style=flat&color=7AA2F7&label=Profile+Views" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/StrayDogSyn?label=Followers&style=flat&color=BB9AF7&logo=github&logoColor=white" alt="GitHub Followers" />
 </p>
+![1761603585229](image/README/1761603585229.png)
