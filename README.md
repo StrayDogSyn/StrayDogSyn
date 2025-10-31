@@ -302,8 +302,8 @@ Proves capability to design and implement enterprise-level architectures, manage
 <div align="center">
 
 ![Competitive Programming](https://img.shields.io/badge/Competitive_Programming-Active-9ECE6A?style=for-the-badge&logo=leetcode&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-500%2B_Solutions-7AA2F7?style=for-the-badge&logo=hackerrank&logoColor=white)
-![Algorithms](https://img.shields.io/badge/Algorithms-Advanced-F7768E?style=for-the-badge&logo=codewars&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-Active-7AA2F7?style=for-the-badge&logo=hackerrank&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-Active-F7768E?style=for-the-badge&logo=codewars&logoColor=white)
 
 </div>
 
@@ -326,20 +326,16 @@ Proves capability to design and implement enterprise-level architectures, manage
 <td align="center" style="width: 33%; background: #f6f8fa; padding: 20px; border-radius: 8px;">
 <h4>LeetCode</h4>
 
-![LeetCode Ranking](https://img.shields.io/badge/Contest_Rating-1500%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
-
 <a href="https://leetcode.com/StrayDogSyn">
 <img src="https://leetcard.jacoblin.cool/StrayDogSyn?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" style="border-radius: 6px; max-width: 100%;" />
 </a>
 <div style="margin-top: 10px;">
 <strong>Focus:</strong> Data Structures<br/>
-<strong>Problems Solved:</strong> 50+
+<strong>Status:</strong> Active
 </div>
 </td>
 <td align="center" style="width: 33%; background: #f6f8fa; padding: 20px; border-radius: 8px;">
 <h4>HackerRank</h4>
-
-![HackerRank](https://img.shields.io/badge/Gold_Badge-5_Star-gold?style=for-the-badge&logo=hackerrank&logoColor=white)
 
 <a href="https://www.hackerrank.com/straydogsyndica1">
 <img src="https://img.shields.io/badge/Python_Certified-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Certification" />
@@ -450,11 +446,7 @@ Community College of Rhode Island | In Progress | GPA: 3.40
 
 </div>
 
-<div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=StrayDogSyn&theme=tokyo-night&hide_border=true&area=true&bg_color=1A1B26&color=7AA2F7&line=BB9AF7&point=F7768E)
-
-</div>
 
 ---
 
