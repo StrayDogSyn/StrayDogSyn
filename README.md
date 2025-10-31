@@ -1,20 +1,18 @@
-![Hacker Banner](https://ishan-rest.vercel.app/svg/banner/hacker3/Eric%20Hunter%20Petross)
+# Eric "Hunter" Petross
 
 <div align="center">
-  <img src="https://github.com/StrayDogSyn/StrayDogSyn/blob/main/image/README/StrayDog%20Syndications%20LLC%20(Tag%20(US)).png?raw=true" alt="StrayDog Syndications LLC" width="350" />
+  <img src="https://raw.githubusercontent.com/StrayDogSyn/StrayDogSyn/main/image/README/StrayDog%20Syndications%20LLC%20(Tag%20(US)).png" alt="StrayDog Syndications LLC" width="400" />
+  <h2>Applied AI Solutions Engineer | Full-Stack Developer</h2>
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Applied+AI+Solutions+Engineer;Full-Stack+Developer;Enterprise+Architecture+Specialist)
+
 </div>
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=600&lines=Applied+AI+Solutions+Engineer;Full-Stack+Developer;Enterprise+Architecture+Specialist)
-
-</div>
-
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=StrayDogSyn&color=0366d6&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/StrayDogSyn?style=for-the-badge&logo=github&labelColor=000000&color=0366d6)
-![GitHub User's stars](https://img.shields.io/github/stars/StrayDogSyn?style=for-the-badge&logo=github&labelColor=000000&color=0366d6)
+![Profile Views](https://komarev.com/ghpvc/?username=StrayDogSyn&color=7AA2F7&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/StrayDogSyn?style=for-the-badge&logo=github&labelColor=1A1B26&color=7AA2F7)
+![GitHub User's stars](https://img.shields.io/github/stars/StrayDogSyn?style=for-the-badge&logo=github&labelColor=1A1B26&color=7AA2F7)
 
 </div>
 
@@ -26,7 +24,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://straydogsyn.github.io/Learner-Files-v3.5/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://huggingface.co/StrayDogSyn">
     <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
@@ -42,21 +40,15 @@
   </a>
 </div>
 
-<div align="center">
-  
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=StrayDogSyn&theme=github-light&hide_border=true&custom_title=Contribution%20Activity)
-
-</div>
-
 ---
 
 ## Professional Summary
 
 <div align="center">
   
-![Available for Hire](https://img.shields.io/badge/Status-Available%20for%20Hire-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white)
-![Remote Work](https://img.shields.io/badge/Remote-Available-blue?style=for-the-badge&logo=zoom&logoColor=white)
-![Response Time](https://img.shields.io/badge/Response%20Time-24%20Hours-orange?style=for-the-badge&logo=gmail&logoColor=white)
+![Available for Hire](https://img.shields.io/badge/Status-Available%20for%20Hire-9ECE6A?style=for-the-badge&logo=linkedin&logoColor=white)
+![Remote Work](https://img.shields.io/badge/Remote-Available-7AA2F7?style=for-the-badge&logo=zoom&logoColor=white)
+![Response Time](https://img.shields.io/badge/Response%20Time-24%20Hours-F7768E?style=for-the-badge&logo=gmail&logoColor=white)
 
 </div>
 
@@ -68,15 +60,13 @@ Experienced **Applied AI Solutions Engineer** and **Full-Stack Developer** with 
 
 <div align="center">
   
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it's%20bad.&author=Cory%20House)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it's%20bad.&author=Cory%20House)
 
 </div>
 
 ---
 
 ## Featured Projects Portfolio
-
-![Projects Banner](https://ishan-rest.vercel.app/svg/projects/dev/Task_Management_System[Enterprise%20MERN%20Stack,[MongoDB,Express,React,Node.js]]/Gaming_Application[Python%20OOP%20Design,[Python,Pygame,Algorithms]]/API_Trivia_Platform[Dynamic%20Web%20App,[JavaScript,Marvel%20API,CSS3]]/Digital_Ecosystem[Multi-Domain%20Platform,[Next.js,TypeScript,Supabase]])
 
 <table style="width: 100%; border-collapse: separate; border-spacing: 15px;">
 <tr>
@@ -274,7 +264,7 @@ Proves capability to design and implement enterprise-level architectures, manage
 
 ## Technical Expertise
 
-![Skills Banner](https://skillicons.dev/icons?i=python,typescript,javascript,nodejs,react,nextjs,mongodb,docker,git,aws,tailwind,express&theme=light)
+![Skills Banner](https://skillicons.dev/icons?i=python,typescript,javascript,nodejs,react,nextjs,mongodb,docker,git,aws,tailwind,express&theme=dark)
 
 ### Core Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -311,9 +301,9 @@ Proves capability to design and implement enterprise-level architectures, manage
 
 <div align="center">
 
-![Competitive Programming](https://img.shields.io/badge/Competitive_Programming-Active-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-500%2B_Solutions-blue?style=for-the-badge&logo=hackerrank&logoColor=white)
-![Algorithms](https://img.shields.io/badge/Algorithms-Advanced-orange?style=for-the-badge&logo=codewars&logoColor=white)
+![Competitive Programming](https://img.shields.io/badge/Competitive_Programming-Active-9ECE6A?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-500%2B_Solutions-7AA2F7?style=for-the-badge&logo=hackerrank&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-Advanced-F7768E?style=for-the-badge&logo=codewars&logoColor=white)
 
 </div>
 
@@ -339,7 +329,7 @@ Proves capability to design and implement enterprise-level architectures, manage
 ![LeetCode Ranking](https://img.shields.io/badge/Contest_Rating-1500%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 
 <a href="https://leetcode.com/StrayDogSyn">
-<img src="https://leetcard.jacoblin.cool/StrayDogSyn?theme=light&font=Karma&ext=contest" alt="LeetCode Stats" style="border-radius: 6px; max-width: 100%;" />
+<img src="https://leetcard.jacoblin.cool/StrayDogSyn?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" style="border-radius: 6px; max-width: 100%;" />
 </a>
 <div style="margin-top: 10px;">
 <strong>Focus:</strong> Data Structures<br/>
@@ -364,11 +354,11 @@ Proves capability to design and implement enterprise-level architectures, manage
 
 ### Core Competency Areas
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
-<span style="background: #0366d6; color: white; padding: 5px 15px; border-radius: 20px;">Algorithm Optimization</span>
-<span style="background: #0366d6; color: white; padding: 5px 15px; border-radius: 20px;">Data Structures</span>
-<span style="background: #0366d6; color: white; padding: 5px 15px; border-radius: 20px;">System Design</span>
-<span style="background: #0366d6; color: white; padding: 5px 15px; border-radius: 20px;">Performance Analysis</span>
-<span style="background: #0366d6; color: white; padding: 5px 15px; border-radius: 20px;">Problem Decomposition</span>
+<span style="background: #7AA2F7; color: white; padding: 5px 15px; border-radius: 20px;">Algorithm Optimization</span>
+<span style="background: #7AA2F7; color: white; padding: 5px 15px; border-radius: 20px;">Data Structures</span>
+<span style="background: #7AA2F7; color: white; padding: 5px 15px; border-radius: 20px;">System Design</span>
+<span style="background: #7AA2F7; color: white; padding: 5px 15px; border-radius: 20px;">Performance Analysis</span>
+<span style="background: #7AA2F7; color: white; padding: 5px 15px; border-radius: 20px;">Problem Decomposition</span>
 </div>
 </div>
 
@@ -445,41 +435,24 @@ Community College of Rhode Island | In Progress | GPA: 3.40
 
 ## GitHub Performance Analytics
 
+## GitHub Analytics
+
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=StrayDogSyn&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StrayDogSyn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StrayDogSyn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=1A1B26&title_color=7AA2F7&text_color=C0CAF5)
 
 </div>
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StrayDogSyn&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StrayDogSyn&layout=compact&theme=default&hide_border=true&langs_count=8)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=StrayDogSyn&theme=tokyonight&hide_border=true&background=1A1B26&ring=7AA2F7&fire=F7768E&currStreakLabel=C0CAF5)
 
 </div>
 
 <div align="center">
 
-![Commits](https://img.shields.io/github/commit-activity/y/StrayDogSyn/StrayDogSyn?style=for-the-badge&label=Annual%20Commits&color=0366d6)
-![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-100K%2B-brightgreen?style=for-the-badge&logo=github)
-![Repositories](https://img.shields.io/badge/Public%20Repos-20%2B-blue?style=for-the-badge&logo=github)
-![Pull Requests](https://img.shields.io/badge/Pull%20Requests-50%2B-orange?style=for-the-badge&logo=github)
-
-</div>
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=StrayDogSyn&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15)
-
-</div>
-
----
-
-## Coding Activity & Contributions
-
-<div align="center">
-  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=StrayDogSyn&theme=github-light&hide_border=true&area=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=StrayDogSyn&theme=tokyo-night&hide_border=true&area=true&bg_color=1A1B26&color=7AA2F7&line=BB9AF7&point=F7768E)
 
 </div>
 
@@ -512,7 +485,7 @@ I'm actively seeking opportunities in **AI Engineering**, **Full-Stack Developme
 
 <div align="center">
   
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=twinkling)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=26,27,38,122,162,247&height=100&section=footer&animation=twinkling)
 
 </div>
 
