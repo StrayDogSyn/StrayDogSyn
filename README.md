@@ -5,13 +5,48 @@
 
 ## Applied AI Solutions Engineer | Full-Stack Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eric-petross-766a08330)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eHunter@straydog-secondstory.org)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://straydogsyn.github.io/Learner-Files-v3.5/)
-[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/StrayDogSyn)
-[![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/StrayDogSyn)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/StrayDogSyn)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/straydogsyndica1)
+<div align="center" style="margin: 20px 0;">
+  <a href="https://linkedin.com/in/eric-petross-766a08330" target="_blank" style="text-decoration: none; margin: 0 8px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Profile" width="45" height="45" />
+  </a>
+  <a href="mailto:eHunter@straydog-secondstory.org" target="_blank" style="text-decoration: none; margin: 0 8px;">
+    <svg width="45" height="45" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="Email Contact">
+      <rect width="24" height="24" rx="4" fill="#D14836"/>
+      <path d="M20 6L12 13L4 6h16zm0 2v10H4V8l8 7 8-7z" fill="white"/>
+    </svg>
+  </a>
+  <a href="https://straydogsyn.github.io/Learner-Files-v3.5/" target="_blank" style="text-decoration: none; margin: 0 8px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Portfolio Website" width="45" height="45" />
+  </a>
+  <a href="https://huggingface.co/StrayDogSyn" target="_blank" style="text-decoration: none; margin: 0 8px;">
+    <svg width="45" height="45" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="Hugging Face Profile">
+      <rect width="24" height="24" rx="4" fill="#FFD21E"/>
+      <circle cx="8" cy="10" r="1.5" fill="black"/>
+      <circle cx="16" cy="10" r="1.5" fill="black"/>
+      <path d="M7 15c1 2 2 2 5 2s4 0 5-2" stroke="black" stroke-width="1.5" stroke-linecap="round"/>
+    </svg>
+  </a>
+  <a href="https://www.codewars.com/users/StrayDogSyn" target="_blank" style="text-decoration: none; margin: 0 8px;">
+    <svg width="45" height="45" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="CodeWars Profile">
+      <rect width="24" height="24" rx="4" fill="#B1361E"/>
+      <path d="M12 2L15.09 8.26L22 9L17 14L18.18 21L12 17.77L5.82 21L7 14L2 9L8.91 8.26L12 2Z" fill="white"/>
+    </svg>
+  </a>
+  <a href="https://leetcode.com/StrayDogSyn" target="_blank" style="text-decoration: none; margin: 0 8px;">
+    <svg width="45" height="45" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="LeetCode Profile">
+      <rect width="24" height="24" rx="4" fill="#FFA116"/>
+      <path d="M13.483 0a1.374 1.374 0 0 0-.961.438L7.116 6.226l-3.854 4.126a5.266 5.266 0 0 0-1.209 2.104 5.35 5.35 0 0 0-.125.513 5.527 5.527 0 0 0 .062 2.362 5.83 5.83 0 0 0 .349 1.017 5.938 5.938 0 0 0 1.271 1.818l4.277 4.193.039.038c2.248 2.165 5.852 2.133 8.063-.074l2.396-2.392c.54-.54.54-1.414.003-1.955a1.378 1.378 0 0 0-1.951-.003l-2.396 2.392a3.021 3.021 0 0 1-4.205.038l-.02-.019-4.276-4.193c-.652-.64-.972-1.469-.948-2.263a2.68 2.68 0 0 1 .066-.523 2.545 2.545 0 0 1 .619-1.164L9.13 8.114c1.058-1.134 3.204-1.27 4.43-.278l3.501 2.831c.593.48 1.461.387 1.94-.207a1.384 1.384 0 0 0-.207-1.943l-3.5-2.831c-.8-.647-1.766-1.045-2.774-1.202l2.015-2.158A1.384 1.384 0 0 0 13.483 0z" fill="black"/>
+    </svg>
+  </a>
+  <a href="https://www.hackerrank.com/straydogsyndica1" target="_blank" style="text-decoration: none; margin: 0 8px;">
+    <svg width="45" height="45" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="HackerRank Profile">
+      <rect width="24" height="24" rx="4" fill="#2EC866"/>
+      <path d="M12 0c1.285 0 9.75 4.886 10.392 6 .642 1.114.285 10.886-.357 12C21.393 19.114 13.285 24 12 24s-9.392-4.886-10.035-6C1.322 16.886 1.679 7.114 2.321 6 2.964 4.886 10.715 0 12 0z" fill="white"/>
+      <path d="M9.155 8.711h2.55v6.578h-2.55z" fill="#2EC866"/>
+      <path d="M12.845 8.711h2.55v6.578h-2.55z" fill="#2EC866"/>
+    </svg>
+  </a>
+</div>
 
 </div>
 
@@ -94,35 +129,57 @@ Comprehensive multi-domain platform showcasing AI consultancy services and socia
 ## Technical Expertise
 
 ### **Core Technologies**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="margin-right: 10px;" />
+</div>
 
 ### **Frameworks & Libraries**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=flat&logo=python&logoColor=white)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="Vite" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pygame/pygame-original.svg" alt="Pygame" width="40" height="40" style="margin-right: 10px;" />
+</div>
 
 ### **AI/ML & Data Management**
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40" style="margin-right: 10px;" />
+  <svg width="40" height="40" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-right: 10px;" alt="Claude AI">
+    <rect width="24" height="24" rx="4" fill="#D97757"/>
+    <path d="M7 8h10v2H7V8zm0 4h10v2H7v-2zm0 4h7v2H7v-2z" fill="white"/>
+  </svg>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" alt="Databricks" width="40" height="40" style="margin-right: 10px;" />
+  <svg width="40" height="40" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-right: 10px;" alt="Hugging Face">
+    <rect width="24" height="24" rx="4" fill="#FFD21E"/>
+    <circle cx="8" cy="10" r="1.5" fill="black"/>
+    <circle cx="16" cy="10" r="1.5" fill="black"/>
+    <path d="M7 15c1 2 2 2 5 2s4 0 5-2" stroke="black" stroke-width="1.5" stroke-linecap="round"/>
+  </svg>
+</div>
 
 ### **Development Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
-![Trae IDE](https://img.shields.io/badge/Trae_IDE-45E29D?style=flat&logo=code&logoColor=white)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" style="margin-right: 10px;" />
+  <svg width="40" height="40" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-right: 10px;" alt="Cursor IDE">
+    <rect width="24" height="24" rx="4" fill="#000000"/>
+    <path d="M6 6l12 6-12 6V6z" fill="white"/>
+  </svg>
+  <svg width="40" height="40" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-right: 10px;" alt="Trae IDE">
+    <rect width="24" height="24" rx="4" fill="#45E29D"/>
+    <path d="M8 8h8v2H8V8zm0 4h8v2H8v-2zm0 4h6v2H8v-2z" fill="white"/>
+  </svg>
+</div>
 
 ---
 
@@ -159,8 +216,11 @@ Comprehensive multi-domain platform showcasing AI consultancy services and socia
       <br>
       <sub>Problem Solving • Algorithms • Data Structures</sub>
       <br><br>
-      <a href="https://www.hackerrank.com/straydogsyndica1">
-        <img src="https://img.shields.io/badge/View_Profile-00EA64?style=flat&logo=hackerrank&logoColor=white" alt="View Profile" />
+      <a href="https://www.hackerrank.com/straydogsyndica1" style="text-decoration: none;">
+        <svg width="120" height="35" viewBox="0 0 120 35" fill="none" xmlns="http://www.w3.org/2000/svg" alt="View HackerRank Profile">
+          <rect width="120" height="35" rx="6" fill="#00EA64"/>
+          <text x="60" y="22" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">View Profile</text>
+        </svg>
       </a>
     </td>
   </tr>
@@ -220,69 +280,37 @@ Comprehensive multi-domain platform showcasing AI consultancy services and socia
 
 ---
 
-## Professional Contact & Opportunities
+## Let's Connect
 
 <div align="center">
 
-### **Open to Technical Leadership Opportunities**
+I'm always interested in discussing challenging technical problems, particularly those involving AI integration, scalable architectures, or social impact technology.
 
-**Currently seeking:** Full-time positions in **AI Engineering**, **Full-Stack Development**, or **Technical Architecture** roles where I can contribute to meaningful, scalable products that make a real-world impact.
-
-**Ideal Role Types:**
-- Senior AI Solutions Engineer
-- Full-Stack Technical Lead
-- AI/ML Engineering Manager
-- Technical Architecture Consultant
-- Enterprise Software Developer
-
-**Key Strengths for Technical Teams:**
-- Production-ready AI application development
-- Scalable full-stack architecture design
-- Cross-functional technical leadership
-- Enterprise-grade software delivery
-- Innovative problem-solving approach
+**Currently seeking:** Full-time opportunities in AI engineering, full-stack development, or technical architecture roles where I can contribute to meaningful products.
 
 <p align="center">
   <a href="https://dot.cards/straydog_syndications_llc">
     <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://dot.cards/straydog_syndications_llc" alt="Digital Business Card" />
   </a>
   <br>
-  <sub><strong>Scan for Complete Professional Contact Information</strong></sub>
+  <sub>Scan for complete contact information</sub>
 </p>
 
-**Direct Contact:** [eHunter@straydog-secondstory.org](mailto:eHunter@straydog-secondstory.org)  
-**LinkedIn:** [linkedin.com/in/eric-petross-766a08330](https://linkedin.com/in/eric-petross-766a08330)  
-**Portfolio:** [straydogsyn.github.io/Learner-Files-v3.5](https://straydogsyn.github.io/Learner-Files-v3.5/)
-
 </div>
 
 ---
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=StrayDogSyn&style=flat&color=7AA2F7&label=Profile+Views)
-![GitHub Followers](https://img.shields.io/github/followers/StrayDogSyn?label=Followers&style=flat&color=BB9AF7&logo=github&logoColor=white)
-
+<div align="center" style="margin: 20px 0;">
+  <svg width="140" height="28" viewBox="0 0 140 28" fill="none" xmlns="http://www.w3.org/2000/svg" alt="Profile Views Counter" style="margin: 0 10px;">
+    <rect width="140" height="28" rx="14" fill="#7AA2F7"/>
+    <text x="70" y="18" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Profile Views</text>
+  </svg>
+  
+  <a href="https://github.com/StrayDogSyn?tab=followers" target="_blank" style="text-decoration: none; margin: 0 10px;">
+    <svg width="120" height="28" viewBox="0 0 120 28" fill="none" xmlns="http://www.w3.org/2000/svg" alt="GitHub Followers">
+      <rect width="120" height="28" rx="14" fill="#BB9AF7"/>
+      <path d="M8 10c0-1.1.9-2 2-2s2 .9 2 2-.9 2-2 2-2-.9-2-2zm8 0c0 2.21-1.79 4-4 4s-4-1.79-4-4 1.79-4 4-4 4 1.79 4 4z" fill="white"/>
+      <text x="70" y="18" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Followers</text>
+    </svg>
+  </a>
 </div>
-
----
-
-## Document Change Summary
-
-**Transformation Date:** January 2025  
-**Version:** Professional Technical Resume Format v2.0
-
-### **Key Improvements Made:**
-1. **Professional Formatting:** Removed all emojis and replaced with clean, professional headers and icons
-2. **Enhanced Project Cards:** Added measurable impact statements and clear technical skill demonstrations for each project
-3. **Recruiter-Friendly Language:** Simplified technical jargon while maintaining technical accuracy
-4. **Digital Ecosystem Table:** Added comprehensive overview of production platforms and their purposes
-5. **Expanded Certifications:** Comprehensive listing of all professional certifications and training programs
-6. **Enhanced Professional Experience:** Added quantifiable achievements and technical impact statements
-7. **Strong Call-to-Action:** Added dedicated section for technical leadership opportunities with clear role targeting
-8. **Improved Contact Section:** Professional contact information with multiple engagement options
-9. **Consistent Formatting:** Optimized for wide-screen readability with consistent markdown structure
-10. **Technical Skills Organization:** Categorized and enhanced technical skills presentation with professional badges
-
-**Target Audience:** Technical Recruiters, CTOs, Engineering Managers, Technical Leadership Teams  
-**Purpose:** Comprehensive technical resume and portfolio showcase for senior-level technical positions
