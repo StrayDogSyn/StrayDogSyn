@@ -161,47 +161,189 @@ Comprehensive multi-domain platform showcasing AI consultancy services and socia
 
 ---
 
-## Competitive Programming & Problem Solving
+<style>
+@keyframes glow {
+  0% { box-shadow: 0 0 5px rgba(102, 126, 234, 0.3); }
+  50% { box-shadow: 0 0 20px rgba(102, 126, 234, 0.6), 0 0 30px rgba(118, 75, 162, 0.4); }
+  100% { box-shadow: 0 0 5px rgba(102, 126, 234, 0.3); }
+}
 
-<div align="center">
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+  100% { transform: scale(1); }
+}
 
-### **Active Practice Platforms**
+@keyframes slideIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.premium-card {
+  animation: slideIn 0.6s ease-out;
+  transition: all 0.3s ease;
+}
+
+.premium-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 15px 45px rgba(0, 0, 0, 0.4) !important;
+}
+
+.glow-effect {
+  animation: glow 3s ease-in-out infinite;
+}
+
+.pulse-effect:hover {
+  animation: pulse 0.6s ease-in-out;
+}
+
+@media (max-width: 768px) {
+  .premium-card {
+    padding: 15px !important;
+    margin: 10px 0 !important;
+  }
+  
+  .premium-grid {
+    grid-template-columns: 1fr !important;
+    gap: 8px !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .premium-card {
+    padding: 12px !important;
+  }
+  
+  .premium-text {
+    font-size: 10px !important;
+  }
+}
+</style>
+
+## 🚀 Competitive Programming & Problem Solving
+
+<div align="center" class="premium-card" style="background: linear-gradient(135deg, #0f0f0f 0%, #1a1a1a 50%, #0f0f0f 100%); padding: 30px; border-radius: 16px; margin: 20px 0; box-shadow: 0 12px 40px rgba(0, 0, 0, 0.4); border: 1px solid rgba(255, 255, 255, 0.1);">
+
+<div class="glow-effect pulse-effect" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 12px; margin-bottom: 30px; box-shadow: 0 8px 32px rgba(102, 126, 234, 0.3); cursor: pointer;">
+  <h3 style="color: white; margin: 0; font-weight: 800; font-size: 24px; text-shadow: 0 2px 8px rgba(0, 0, 0, 0.3); letter-spacing: 1px;">
+    ⚡ **Active Practice Platforms** ⚡
+  </h3>
+  <div style="color: rgba(255, 255, 255, 0.9); font-size: 14px; margin-top: 8px; font-weight: 500;">
+    Continuous skill development through algorithmic challenges
+  </div>
+</div>
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <h4><strong>CodeWars</strong></h4>
-      <a href="https://www.codewars.com/users/StrayDogSyn">
-        <img src="https://www.codewars.com/users/StrayDogSyn/badges/large" alt="CodeWars Badge" />
-      </a>
-      <br><br>
-      <sub><strong>Algorithmic Problem Solving</strong></sub>
+    <td align="center" width="33%" class="premium-card" style="padding: 20px; background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); border-radius: 12px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);">
+      <div class="pulse-effect" style="background: linear-gradient(135deg, #B1361E 0%, #8B2914 100%); padding: 12px; border-radius: 8px; margin-bottom: 16px; cursor: pointer;">
+        <h4 style="color: white; margin: 0; font-weight: 700; text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);"><strong>⚔️ CodeWars</strong></h4>
+      </div>
+      
+      <div style="background: rgba(177, 54, 30, 0.1); padding: 16px; border-radius: 10px; margin: 16px 0; border: 1px solid rgba(177, 54, 30, 0.3);">
+        <a href="https://www.codewars.com/users/StrayDogSyn" style="text-decoration: none;">
+          <img src="https://www.codewars.com/users/StrayDogSyn/badges/large" alt="CodeWars Badge" style="border-radius: 8px; box-shadow: 0 4px 16px rgba(177, 54, 30, 0.3);" />
+        </a>
+        <div style="margin-top: 12px; color: #E8E8E8; font-size: 12px; font-weight: 600;">
+          <span style="color: #B1361E;">🎯</span> Algorithmic Problem Solving
+        </div>
+      </div>
+      
+      <div style="padding: 8px; background: rgba(177, 54, 30, 0.05); border-radius: 6px; border: 1px solid rgba(177, 54, 30, 0.2);">
+        <div style="color: #B1361E; font-size: 10px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px;">
+          Honor & Kata Progress
+        </div>
+      </div>
     </td>
-    <td align="center" width="33%">
-      <h4><strong>LeetCode</strong></h4>
-      <a href="https://leetcode.com/StrayDogSyn">
-        <img src="https://leetcard.jacoblin.cool/StrayDogSyn?theme=dark&font=JetBrains%20Mono&ext=contest" alt="LeetCode Stats" />
-      </a>
+    
+    <td align="center" width="33%" class="premium-card" style="padding: 20px; background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); border-radius: 12px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);">
+      <div class="pulse-effect" style="background: linear-gradient(135deg, #FFA116 0%, #FF8F00 100%); padding: 12px; border-radius: 8px; margin-bottom: 16px; cursor: pointer;">
+        <h4 style="color: white; margin: 0; font-weight: 700; text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);"><strong>💻 LeetCode</strong></h4>
+      </div>
+      
+      <div style="background: rgba(255, 161, 22, 0.1); padding: 16px; border-radius: 10px; margin: 16px 0; border: 1px solid rgba(255, 161, 22, 0.3);">
+        <a href="https://leetcode.com/StrayDogSyn" style="text-decoration: none;">
+          <img src="https://leetcard.jacoblin.cool/StrayDogSyn?theme=dark&font=JetBrains%20Mono&ext=contest" alt="LeetCode Stats" style="border-radius: 8px; box-shadow: 0 4px 16px rgba(255, 161, 22, 0.3);" />
+        </a>
+      </div>
+      
+      <div style="padding: 8px; background: rgba(255, 161, 22, 0.05); border-radius: 6px; border: 1px solid rgba(255, 161, 22, 0.2);">
+        <div style="color: #FFA116; font-size: 10px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px;">
+          Contest Performance & Rankings
+        </div>
+      </div>
     </td>
-    <td align="center" width="33%">
-      <h4><strong>HackerRank</strong></h4>
-      <br>
-      <a href="https://www.hackerrank.com/straydogsyndica1">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Certification" />
-      </a>
-      <br><br>
-      <strong>Python Certified</strong>
-      <br>
-      <sub>Problem Solving • Algorithms • Data Structures</sub>
-      <br><br>
-      <a href="https://www.hackerrank.com/straydogsyndica1">
-        <img src="https://img.shields.io/badge/View_Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="View HackerRank Profile" />
-      </a>
+    <td align="center" width="33%" class="premium-card" style="padding: 20px; background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); border-radius: 12px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);">
+       <div class="pulse-effect" style="background: linear-gradient(135deg, #00EA64 0%, #00C853 100%); padding: 12px; border-radius: 8px; margin-bottom: 16px; cursor: pointer;">
+         <h4 style="color: white; margin: 0; font-weight: 700; text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);"><strong>🏆 HackerRank</strong></h4>
+       </div>
+      
+      <div style="background: linear-gradient(135deg, #3776AB 0%, #306998 100%); padding: 16px; border-radius: 10px; margin: 16px 0; box-shadow: 0 4px 16px rgba(55, 118, 171, 0.3);">
+        <a href="https://www.hackerrank.com/straydogsyndica1" style="text-decoration: none;">
+          <img src="https://img.shields.io/badge/Python_Certified-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=306998" alt="Python Certification" style="border-radius: 6px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);" />
+        </a>
+        <div style="margin-top: 12px;">
+          <div style="color: #FFD43B; font-weight: 700; font-size: 16px; text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);">⭐ Python Certified</div>
+          <div style="color: #E8E8E8; font-size: 12px; margin-top: 6px; line-height: 1.4;">
+            <span style="color: #00EA64;">●</span> Problem Solving<br>
+            <span style="color: #00EA64;">●</span> Algorithms<br>
+            <span style="color: #00EA64;">●</span> Data Structures
+          </div>
+        </div>
+      </div>
+      
+      <div style="margin-top: 20px;">
+        <a href="https://www.hackerrank.com/straydogsyndica1" style="text-decoration: none; display: inline-block; transition: transform 0.2s ease;">
+          <img src="https://img.shields.io/badge/View_Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=00C853" alt="View HackerRank Profile" style="border-radius: 6px; box-shadow: 0 4px 12px rgba(0, 234, 100, 0.3); transition: all 0.2s ease;" onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 6px 20px rgba(0, 234, 100, 0.4)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0, 234, 100, 0.3)'" />
+        </a>
+      </div>
+      
+      <div style="margin-top: 16px; padding: 12px; background: rgba(0, 234, 100, 0.1); border-radius: 8px; border: 1px solid rgba(0, 234, 100, 0.2);">
+        <div style="color: #00EA64; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px;">
+          🎯 Specializations
+        </div>
+        <div style="color: #B0B0B0; font-size: 10px; margin-top: 4px; line-height: 1.3;">
+          Algorithm Optimization • Performance Analysis • Code Quality
+        </div>
+      </div>
     </td>
   </tr>
 </table>
 
-**Core Focus Areas:** Algorithm optimization • Data structures implementation • System design • Problem decomposition • Performance analysis
+<div style="background: linear-gradient(135deg, #2d2d2d 0%, #1a1a1a 100%); padding: 20px; border-radius: 12px; margin-top: 30px; border: 1px solid rgba(255, 255, 255, 0.1); box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);">
+  <div style="text-align: center; margin-bottom: 16px;">
+    <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 12px; border-radius: 8px; display: inline-block; box-shadow: 0 4px 16px rgba(102, 126, 234, 0.3);">
+      <span style="color: white; font-weight: 700; font-size: 14px; text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);">🎯 Core Focus Areas</span>
+    </div>
+  </div>
+  
+  <div class="premium-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; margin-top: 16px;">
+    <div style="background: rgba(102, 126, 234, 0.1); padding: 12px; border-radius: 8px; border: 1px solid rgba(102, 126, 234, 0.2); text-align: center;">
+      <div style="color: #667eea; font-size: 11px; font-weight: 600; margin-bottom: 4px;">⚡ Algorithm Optimization</div>
+      <div style="color: #B0B0B0; font-size: 9px;">Performance & Efficiency</div>
+    </div>
+    
+    <div style="background: rgba(118, 75, 162, 0.1); padding: 12px; border-radius: 8px; border: 1px solid rgba(118, 75, 162, 0.2); text-align: center;">
+      <div style="color: #764ba2; font-size: 11px; font-weight: 600; margin-bottom: 4px;">🏗️ Data Structures</div>
+      <div style="color: #B0B0B0; font-size: 9px;">Implementation & Design</div>
+    </div>
+    
+    <div style="background: rgba(0, 234, 100, 0.1); padding: 12px; border-radius: 8px; border: 1px solid rgba(0, 234, 100, 0.2); text-align: center;">
+      <div style="color: #00EA64; font-size: 11px; font-weight: 600; margin-bottom: 4px;">🎨 System Design</div>
+      <div style="color: #B0B0B0; font-size: 9px;">Architecture & Scalability</div>
+    </div>
+    
+    <div style="background: rgba(255, 161, 22, 0.1); padding: 12px; border-radius: 8px; border: 1px solid rgba(255, 161, 22, 0.2); text-align: center;">
+      <div style="color: #FFA116; font-size: 11px; font-weight: 600; margin-bottom: 4px;">🔍 Problem Decomposition</div>
+      <div style="color: #B0B0B0; font-size: 9px;">Analysis & Strategy</div>
+    </div>
+    
+    <div style="background: rgba(177, 54, 30, 0.1); padding: 12px; border-radius: 8px; border: 1px solid rgba(177, 54, 30, 0.2); text-align: center;">
+      <div style="color: #B1361E; font-size: 11px; font-weight: 600; margin-bottom: 4px;">📊 Performance Analysis</div>
+      <div style="color: #B0B0B0; font-size: 9px;">Metrics & Optimization</div>
+    </div>
+  </div>
+</div>
 
 </div>
 
