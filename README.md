@@ -187,7 +187,7 @@ Comprehensive multi-domain platform showcasing AI consultancy services and socia
       <h4><strong>HackerRank</strong></h4>
       <br>
       <a href="https://www.hackerrank.com/straydogsyndica1">
-        ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Certification" />
       </a>
       <br><br>
       <strong>Python Certified</strong>
@@ -195,7 +195,7 @@ Comprehensive multi-domain platform showcasing AI consultancy services and socia
       <sub>Problem Solving • Algorithms • Data Structures</sub>
       <br><br>
       <a href="https://www.hackerrank.com/straydogsyndica1">
-        ![HackerRank](https://img.shields.io/badge/View_Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)
+        <img src="https://img.shields.io/badge/View_Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="View HackerRank Profile" />
       </a>
     </td>
   </tr>
