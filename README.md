@@ -93,9 +93,9 @@ A comprehensive task management application demonstrating enterprise-grade full-
 Demonstrates ability to architect and deploy full-stack applications using industry-standard MERN stack with modern DevOps practices.
 
 **Real-World Application:**  
-- **Database Design:** Implemented normalized MongoDB schemas reducing data redundancy by 40%
-- **API Performance:** Achieved <200ms response times for 95% of API calls
-- **User Experience:** Mobile-responsive design supporting 5+ device types
+- **Database Design:** Implemented normalized MongoDB schemas optimizing data structure
+- **API Performance:** Achieved fast, reliable API response times
+- **User Experience:** Mobile-responsive design supporting multiple device types
 - **Deployment:** Zero-downtime deployment strategy with automated testing
 
 **Career Impact:**  
@@ -126,10 +126,10 @@ Classic arcade game reimagined using object-oriented programming principles, dem
 Showcases advanced Python programming skills and ability to implement complex algorithms for real-time applications.
 
 **Real-World Application:**  
-- **Algorithm Optimization:** Implemented spatial partitioning reducing collision checks by 75%
-- **Performance:** Maintains 60 FPS with 100+ simultaneous objects
+- **Algorithm Optimization:** Implemented spatial partitioning for efficient collision detection
+- **Performance:** Maintains smooth 60 FPS with multiple simultaneous objects
 - **Code Architecture:** Applied SOLID principles for maintainable codebase
-- **State Management:** Complex FSM handling 8+ game states
+- **State Management:** Complex finite state machine handling multiple game states
 
 **Career Impact:**  
 Demonstrates proficiency in Python, algorithm optimization, and software architecture patterns applicable to performance-critical applications in fields like real-time data processing and simulation systems.
@@ -161,10 +161,10 @@ Dynamic trivia application leveraging external APIs for content generation, feat
 Demonstrates API integration expertise and ability to create engaging, data-driven user experiences.
 
 **Real-World Application:**  
-- **API Integration:** Handled 10K+ API requests with proper rate limiting
-- **Data Management:** Implemented caching reducing API calls by 60%
-- **User Engagement:** Average session duration of 12 minutes
-- **Performance:** Lazy loading reduced initial load time by 45%
+- **API Integration:** Handled high-volume API requests with proper rate limiting
+- **Data Management:** Implemented intelligent caching to optimize API usage
+- **User Engagement:** Strong user engagement with extended session durations
+- **Performance:** Lazy loading implementation for optimized load times
 
 **Career Impact:**  
 Highlights skills in API consumption, frontend optimization, and creating engaging user interfaces - critical for modern web development roles requiring third-party service integration.
@@ -194,10 +194,10 @@ Comprehensive multi-domain platform showcasing AI consultancy services and enter
 Demonstrates ability to architect and maintain complex, multi-tenant production environments with modern frameworks.
 
 **Real-World Application:**  
-- **Architecture:** Microservices design supporting 4 production domains
-- **Performance:** 95+ Lighthouse scores across all metrics
-- **Scalability:** Auto-scaling infrastructure handling 1000+ concurrent users
-- **Integration:** Successfully integrated 5+ third-party services
+- **Architecture:** Microservices design supporting multiple production domains
+- **Performance:** Excellent Lighthouse scores across all performance metrics
+- **Scalability:** Auto-scaling infrastructure handling high concurrent user loads
+- **Integration:** Successfully integrated multiple third-party services
 
 **Career Impact:**  
 Proves capability to design and implement enterprise-level architectures, manage multiple production environments, and integrate AI services - essential for senior engineering and architecture roles.
@@ -222,37 +222,37 @@ Proves capability to design and implement enterprise-level architectures, manage
 </thead>
 <tbody>
 <tr>
-<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;"><strong>StrayDog Syndications LLC</strong></td>
+<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;"><strong><a href="https://www.straydog-syndications-llc.com/" target="_blank" style="color: inherit; text-decoration: none;">StrayDog Syndications LLC</a></strong></td>
 <td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">Next.js 14, TypeScript, Tailwind CSS</td>
 <td style="padding: 12px; border-bottom: 1px solid #e1e4e8;"><span style="color: green;">● Production</span></td>
 <td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">AI Consultancy & Business Services</td>
 </tr>
 <tr>
-<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;"><strong>Tech Portal</strong></td>
+<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;"><strong><a href="https://tech-portal.straydog-syndications.com/" target="_blank" style="color: inherit; text-decoration: none;">Tech Portal</a></strong></td>
 <td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">Next.js, Supabase, Claude API</td>
 <td style="padding: 12px; border-bottom: 1px solid #e1e4e8;"><span style="color: green;">● Production</span></td>
 <td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">Developer Resources & Tools</td>
 </tr>
 <tr>
-<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;"><strong>Corporate Platform</strong></td>
+<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;"><strong><a href="https://corporate.straydog-syndications.com/" target="_blank" style="color: inherit; text-decoration: none;">Corporate Platform</a></strong></td>
 <td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">Next.js, TypeScript</td>
 <td style="padding: 12px; border-bottom: 1px solid #e1e4e8;"><span style="color: green;">● Production</span></td>
 <td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">Business Partnerships & Services</td>
 </tr>
 <tr>
-<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;"><strong>Second Story Initiative</strong></td>
+<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;"><strong><a href="https://secondstory.straydog-syndications.com/" target="_blank" style="color: inherit; text-decoration: none;">Second Story Initiative</a></strong></td>
 <td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">Next.js, Supabase</td>
 <td style="padding: 12px; border-bottom: 1px solid #e1e4e8;"><span style="color: green;">● Production</span></td>
 <td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">Justice Reform Technology</td>
 </tr>
 <tr>
-<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;"><strong>Interactive Portfolio</strong></td>
+<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;"><strong><a href="https://straydogsyn.github.io/Learner-Files-v3.5/" target="_blank" style="color: inherit; text-decoration: none;">Interactive Portfolio</a></strong></td>
 <td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">Vanilla JS, CSS3, APIs</td>
 <td style="padding: 12px; border-bottom: 1px solid #e1e4e8;"><span style="color: green;">● Production</span></td>
 <td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">Technical Skills Showcase</td>
 </tr>
 <tr>
-<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;"><strong>WDF Program Portfolio</strong></td>
+<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;"><strong><a href="https://straydogsyn.github.io/WDF-Portfolio/" target="_blank" style="color: inherit; text-decoration: none;">WDF Program Portfolio</a></strong></td>
 <td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">HTML/CSS/JS, Git</td>
 <td style="padding: 12px; border-bottom: 1px solid #e1e4e8;"><span style="color: green;">● Production</span></td>
 <td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">Educational Project Collection</td>
@@ -366,9 +366,9 @@ Proves capability to design and implement enterprise-level architectures, manage
 **October 2024 - Present**
 
 - Fine-tune and validate Large Language Model outputs for production deployment
-- Developed comprehensive testing frameworks improving model accuracy by 25%
-- Created validation pipelines processing 1000+ model responses daily
-- Implemented quality assurance protocols reducing error rates by 40%
+- Developed comprehensive testing frameworks improving model accuracy
+- Created validation pipelines processing high-volume model responses daily
+- Implemented quality assurance protocols significantly reducing error rates
 - **Technologies:** Python, AI/ML Frameworks, Testing Automation, Performance Monitoring
 
 ### Community Engagement Instructor | The Moth
@@ -376,8 +376,8 @@ Proves capability to design and implement enterprise-level architectures, manage
 
 - Design and deliver technical storytelling workshops for diverse audiences
 - Created innovative curriculum integrating digital tools with communication methods
-- Trained 50+ participants in technical communication and presentation skills
-- Developed interactive learning modules with 95% participant satisfaction rate
+- Trained multiple participants in technical communication and presentation skills
+- Developed interactive learning modules with excellent participant satisfaction
 - **Technologies:** Digital Presentation Tools, Curriculum Development Platforms, Interactive Media
 
 ---
