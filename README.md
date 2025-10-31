@@ -209,7 +209,7 @@ Comprehensive multi-domain platform showcasing AI consultancy services and socia
       <h4><strong>HackerRank</strong></h4>
       <br>
       <a href="https://www.hackerrank.com/straydogsyndica1">
-        <img src="./hackerrank-python.svg" alt="Python Badge" width="110" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Certification - HackerRank" width="40" height="40" style="margin-right: 10px;" />
       </a>
       <br><br>
       <strong>Python Certified</strong>
@@ -274,6 +274,15 @@ Comprehensive multi-domain platform showcasing AI consultancy services and socia
 ## GitHub Performance Analytics
 
 <div align="center">
+
+![GitHub Commits](https://img.shields.io/github/commit-activity/y/StrayDogSyn/StrayDogSyn?style=for-the-badge&color=7AA2F7&logo=github&logoColor=white&label=Commits)
+![GitHub Issues](https://img.shields.io/github/issues/StrayDogSyn/StrayDogSyn?style=for-the-badge&color=FF6B6B&logo=github&logoColor=white&label=Issues)
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/StrayDogSyn/StrayDogSyn?style=for-the-badge&color=4ECDC4&logo=github&logoColor=white&label=Pull%20Requests)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/StrayDogSyn/StrayDogSyn?style=for-the-badge&color=BB9AF7&logo=github&logoColor=white&label=Last%20Commit)
+
+</div>
+
+<div align="center">
   <img width="48%" src="https://github-readme-stats-chi-beryl.vercel.app/api?username=StrayDogSyn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img width="50%" src="https://github-readme-stats-chi-beryl.vercel.app/api/top-langs/?username=StrayDogSyn&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&text_color=C0CAF5" alt="Top Languages" />
 </div>
@@ -300,17 +309,11 @@ I'm always interested in discussing challenging technical problems, particularly
 
 ---
 
-<div align="center" style="margin: 20px 0;">
-  <svg width="140" height="28" viewBox="0 0 140 28" fill="none" xmlns="http://www.w3.org/2000/svg" alt="Profile Views Counter" style="margin: 0 10px;">
-    <rect width="140" height="28" rx="14" fill="#7AA2F7"/>
-    <text x="70" y="18" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Profile Views</text>
-  </svg>
-  
-  <a href="https://github.com/StrayDogSyn?tab=followers" target="_blank" style="text-decoration: none; margin: 0 10px;">
-    <svg width="120" height="28" viewBox="0 0 120 28" fill="none" xmlns="http://www.w3.org/2000/svg" alt="GitHub Followers">
-      <rect width="120" height="28" rx="14" fill="#BB9AF7"/>
-      <path d="M8 10c0-1.1.9-2 2-2s2 .9 2 2-.9 2-2 2-2-.9-2-2zm8 0c0 2.21-1.79 4-4 4s-4-1.79-4-4 1.79-4 4-4 4 1.79 4 4z" fill="white"/>
-      <text x="70" y="18" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Followers</text>
-    </svg>
-  </a>
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=StrayDogSyn&style=for-the-badge&color=7AA2F7&label=Profile+Views)
+![GitHub Followers](https://img.shields.io/github/followers/StrayDogSyn?label=Followers&style=for-the-badge&color=BB9AF7&logo=github&logoColor=white)
+![GitHub Stars](https://img.shields.io/github/stars/StrayDogSyn?label=Stars&style=for-the-badge&color=FFD700&logo=github&logoColor=white)
+![GitHub Repos](https://img.shields.io/badge/dynamic/json?label=Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FStrayDogSyn&style=for-the-badge&color=2EC866&logo=github&logoColor=white)
+
 </div>
