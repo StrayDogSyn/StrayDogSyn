@@ -264,7 +264,7 @@ Creative React application showcasing AI-generated artwork with dynamic gallery 
 <td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">Educational Project Collection</td>
 </tr>
 <tr>
-<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;"><strong><a href="https://github.com/StrayDogSyn/MiaBelovedMausi" target="_blank">React Art Gallery</a></strong></td>
+<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;"><strong><a href="https://straydogsyn.github.io/MiaBelovedMausi/" target="_blank">React Art Gallery</a></strong></td>
 <td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">React, AI Image Generation</td>
 <td style="padding: 12px; border-bottom: 1px solid #e1e4e8;"><span style="color: green;">● Live</span></td>
 <td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">AI-Powered Art Gallery</td>
