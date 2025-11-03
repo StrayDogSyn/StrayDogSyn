@@ -2,9 +2,9 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/StrayDogSyn/StrayDogSyn/main/image/README/StrayDog%20Syndications%20LLC%20(Tag%20(US)).png" alt="StrayDog Syndications LLC" width="400" />
-  <h2>Applied AI Solutions Engineer | Full-Stack Developer</h2>
+  <h2>Full-Stack Developer | AI Integration Specialist</h2>
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Applied+AI+Solutions+Engineer;Full-Stack+Developer;Enterprise+Architecture+Specialist)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+Integration+Specialist;Building+Justice+Reform+Technology)
 
 </div>
 
@@ -46,17 +46,18 @@
 
 <div align="center">
   
-![Available for Hire](https://img.shields.io/badge/Status-Available%20for%20Hire-9ECE6A?style=for-the-badge&logo=linkedin&logoColor=white)
-![Remote Work](https://img.shields.io/badge/Remote-Available-7AA2F7?style=for-the-badge&logo=zoom&logoColor=white)
-![Response Time](https://img.shields.io/badge/Response%20Time-24%20Hours-F7768E?style=for-the-badge&logo=gmail&logoColor=white)
+![Currently Studying](https://img.shields.io/badge/Status-CCRI_Student-blue?style=for-the-badge&logo=graduation-cap)
+![Employed](https://img.shields.io/badge/Employment-2_Active_Positions-green?style=for-the-badge&logo=briefcase)
+![Available](https://img.shields.io/badge/Freelance-Available-success?style=for-the-badge&logo=handshake)
+![Location](https://img.shields.io/badge/Based_in-Rhode_Island-red?style=for-the-badge&logo=map-pin)
 
 </div>
 
-Experienced **Applied AI Solutions Engineer** and **Full-Stack Developer** with proven expertise in building production-ready applications that drive business value. I specialize in architecting scalable web solutions using modern frameworks (React, Next.js, Node.js) while integrating cutting-edge AI capabilities. My technical foundation spans from low-level algorithm optimization to enterprise system architecture, with a focus on creating maintainable, performant code that solves real-world problems.
+Full-Stack Developer and AI Integration Specialist building modern web applications with a focus on social impact. Currently serving as AI Content Engineer at Outlier AI while pursuing Computer & Networking Technology degree (3.40 GPA) at Community College of Rhode Island. Specializing in React, Next.js, Node.js, and AI/ML integration with hands-on experience in production deployments.
 
-**Core Value Proposition:** I bridge the gap between complex technical implementation and business objectives, delivering solutions that are both innovative and practical. My experience includes building multi-domain platforms, implementing AI-driven features, and creating user-centric applications that scale.
+**Technical Foundation:** Proficient in JavaScript/TypeScript, Python, modern web frameworks, and AI API integration. Strong foundation in data structures, algorithms, and full-stack application architecture.
 
-**Current Focus:** Developing production-ready LLM applications, implementing RAG systems at scale, and building autonomous agent frameworks that enhance decision-making capabilities for enterprise clients.
+**Current Focus:** Developing production-ready web applications with AI features, contributing to justice reform technology initiatives through organizations like Justice Through Code and The Last Mile, and building scalable solutions for real-world challenges.
 
 <div align="center">
   
@@ -66,73 +67,71 @@ Experienced **Applied AI Solutions Engineer** and **Full-Stack Developer** with 
 
 ---
 
-## Featured Projects Portfolio
+## Featured Projects
 
 <table style="width: 100%; border-collapse: separate; border-spacing: 15px;">
 <tr>
 <td style="width: 50%; vertical-align: top;">
 
-### Enterprise Task Management System
+### Full-Stack Task Management App
+
 <div style="background: #f6f8fa; padding: 15px; border-radius: 8px; border-left: 4px solid #0366d6;">
 
-**[Live Demo](https://full-stack-to-do-list-hunter-fronte.vercel.app/) | [Source Code](https://github.com/StrayDogSyn/full-stack-ToDoList-Hunter)**
+**[Live Demo](https://full-stack-to-do-list-hunter-frontend-83tqcaqyl.vercel.app/) | [Source Code](https://github.com/StrayDogSyn/full-stack-ToDoList-Hunter)**
 
-A comprehensive task management application demonstrating enterprise-grade full-stack architecture with real-time data synchronization and responsive design.
+A comprehensive task management application demonstrating full-stack architecture with real-time data synchronization and responsive design.
 
 **Tech Stack:**  
-`MongoDB` `Express.js` `React` `Node.js` `JWT Auth` `Vercel`
+`MongoDB` `Express.js` `React` `Node.js` `Vercel`
 
 **Key Features:**
+
 - RESTful API with complete CRUD operations
-- JWT-based authentication system
 - Real-time data persistence
 - Responsive mobile-first design
-- Production CI/CD pipeline
+- Production deployment on Vercel
 
 **Purpose:**  
-Demonstrates ability to architect and deploy full-stack applications using industry-standard MERN stack with modern DevOps practices.
+Demonstrates ability to architect and deploy full-stack applications using modern MERN stack with production-grade deployment practices.
 
-**Real-World Application:**  
-- **Database Design:** Implemented normalized MongoDB schemas optimizing data structure
-- **API Performance:** Achieved fast, reliable API response times
-- **User Experience:** Mobile-responsive design supporting multiple device types
-- **Deployment:** Zero-downtime deployment strategy with automated testing
+**Development Highlights:**
 
-**Career Impact:**  
-This project showcases my ability to build scalable web applications from concept to production, demonstrating proficiency in both frontend and backend technologies essential for full-stack engineering roles.
+- **Database Design:** Implemented MongoDB schemas with efficient data structure
+- **API Development:** Built RESTful endpoints with proper error handling
+- **User Experience:** Created responsive interface supporting multiple device types
+- **Deployment:** Configured CI/CD pipeline with Vercel for automated deployments
 
 </div>
 </td>
 <td style="width: 50%; vertical-align: top;">
 
-### Interactive Gaming Application
+### Interactive Python Gaming Project
+
 <div style="background: #f6f8fa; padding: 15px; border-radius: 8px; border-left: 4px solid #0366d6;">
 
 **[Source Code](https://github.com/StrayDogSyn/pygame-asteriods-deluxe)**
 
-Classic arcade game reimagined using object-oriented programming principles, demonstrating complex state management and real-time collision detection algorithms.
+Classic arcade game built using object-oriented programming principles, demonstrating state management and collision detection algorithms.
 
 **Tech Stack:**  
-`Python` `Pygame` `OOP Design Patterns` `Game Physics`
+`Python` `Pygame` `OOP Design Patterns`
 
 **Key Features:**
+
 - Real-time collision detection system
-- Dynamic difficulty scaling algorithm
-- Sprite animation and particle effects
-- High-score persistence system
-- Frame-independent movement
+- Object-oriented architecture
+- Sprite animation implementation
+- Game physics simulation
 
 **Purpose:**  
-Showcases advanced Python programming skills and ability to implement complex algorithms for real-time applications.
+Showcases Python programming skills and ability to implement complex algorithms for interactive applications.
 
-**Real-World Application:**  
-- **Algorithm Optimization:** Implemented spatial partitioning for efficient collision detection
-- **Performance:** Maintains smooth 60 FPS with multiple simultaneous objects
+**Development Highlights:**
+
+- **Algorithm Design:** Implemented efficient collision detection algorithms
 - **Code Architecture:** Applied SOLID principles for maintainable codebase
-- **State Management:** Complex finite state machine handling multiple game states
-
-**Career Impact:**  
-Demonstrates proficiency in Python, algorithm optimization, and software architecture patterns applicable to performance-critical applications in fields like real-time data processing and simulation systems.
+- **State Management:** Built complex finite state machine for game flow
+- **Performance:** Optimized for smooth 60 FPS gameplay
 
 </div>
 </td>
@@ -140,67 +139,72 @@ Demonstrates proficiency in Python, algorithm optimization, and software archite
 <tr>
 <td style="width: 50%; vertical-align: top;">
 
-### API-Driven Trivia Platform
+### API-Integrated Trivia Platform
+
 <div style="background: #f6f8fa; padding: 15px; border-radius: 8px; border-left: 4px solid #0366d6;">
 
 **[Live Demo](https://straydogsyn.github.io/Marvel-Quiz/) | [Source Code](https://github.com/StrayDogSyn/Marvel-Quiz)**
 
-Dynamic trivia application leveraging external APIs for content generation, featuring persistent scoring and comprehensive data visualization.
+Dynamic trivia application leveraging Marvel API for content generation, featuring persistent scoring and engaging user experience.
 
 **Tech Stack:**  
-`JavaScript ES6+` `Marvel API` `Local Storage` `CSS3 Animations` `Responsive Design`
+`JavaScript ES6+` `Marvel API` `Local Storage` `CSS3 Animations`
 
 **Key Features:**
-- Dynamic content generation from Marvel API
-- Local storage for offline functionality
-- Progressive web app capabilities
+
+- Dynamic content generation from external API
+- Local storage for persistent data
 - Animated user interface
-- Character encyclopedia integration
+- Character information integration
 
 **Purpose:**  
 Demonstrates API integration expertise and ability to create engaging, data-driven user experiences.
 
-**Real-World Application:**  
-- **API Integration:** Handled high-volume API requests with proper rate limiting
-- **Data Management:** Implemented intelligent caching to optimize API usage
-- **User Engagement:** Strong user engagement with extended session durations
-- **Performance:** Lazy loading implementation for optimized load times
+**Development Highlights:**
 
-**Career Impact:**  
-Highlights skills in API consumption, frontend optimization, and creating engaging user interfaces - critical for modern web development roles requiring third-party service integration.
+- **API Integration:** Implemented proper rate limiting and error handling
+- **Data Management:** Utilized intelligent caching to optimize API usage
+- **User Engagement:** Created interactive quiz experience with visual feedback
+- **Performance:** Implemented lazy loading for optimized load times
 
 </div>
 </td>
 <td style="width: 50%; vertical-align: top;">
 
-### Multi-Domain Digital Ecosystem
+### Professional Business Platform
+
 <div style="background: #f6f8fa; padding: 15px; border-radius: 8px; border-left: 4px solid #0366d6;">
 
-**[Primary Platform](https://www.straydog-syndications-llc.com/)**
+**[Live Site](https://www.straydog-syndications-llc.com/)**
 
-Comprehensive multi-domain platform showcasing AI consultancy services and enterprise solutions across four production domains.
+Professional business website showcasing services and expertise with modern web technologies and responsive design.
 
 **Tech Stack:**  
-`Next.js 14` `TypeScript` `Tailwind CSS` `Supabase` `Claude API` `Vercel Edge`
+`Next.js 14` `TypeScript` `Tailwind CSS` `Vercel`
 
 **Key Features:**
-- Multi-domain architecture with shared components
-- AI-powered chat integration
-- Real-time database synchronization
-- SEO optimization and analytics
-- Enterprise-grade security
+
+- Modern responsive design
+- Service presentation and pricing
+- Project portfolio showcase
+- SEO optimization
 
 **Purpose:**  
-Demonstrates ability to architect and maintain complex, multi-tenant production environments with modern frameworks.
+Demonstrates ability to design and implement professional business websites with modern frameworks.
 
-**Real-World Application:**  
-- **Architecture:** Microservices design supporting multiple production domains
-- **Performance:** Excellent Lighthouse scores across all performance metrics
-- **Scalability:** Auto-scaling infrastructure handling high concurrent user loads
-- **Integration:** Successfully integrated multiple third-party services
+**Development Highlights:**
 
-**Career Impact:**  
-Proves capability to design and implement enterprise-level architectures, manage multiple production environments, and integrate AI services - essential for senior engineering and architecture roles.
+- **Framework:** Built with Next.js 14 App Router for optimal performance
+- **Design System:** Implemented Tailwind CSS for consistent, maintainable styles
+- **Performance:** Achieved strong Lighthouse scores across all metrics
+- **Deployment:** Configured Vercel hosting with automatic deployments
+
+**Future Development:**  
+Multi-domain expansion planned including:
+
+- Tech Portal: `https://www.straydogsyndicationsllc.tech/`
+- Business Services: `https://www.straydogsyndicationsllc.biz/`
+- Non-Profit Initiative: `https://www.straydog-secondstory.org/`
 
 </div>
 </td>
@@ -209,7 +213,28 @@ Proves capability to design and implement enterprise-level architectures, manage
 
 ---
 
-## Digital Ecosystem Overview
+## Additional Projects
+
+### React Art Gallery with AI-Generated Images
+
+**[Source Code](https://github.com/StrayDogSyn/MiaBelovedMausi)**
+
+Creative React application showcasing AI-generated artwork with dynamic gallery functionality and responsive design.
+
+**Tech Stack:** `React` `AI Image Generation` `CSS3` `Responsive Design`
+
+**Key Features:**
+
+- Dynamic gallery interface
+- AI-generated artwork integration
+- Responsive grid layout
+- Interactive user experience
+
+**Purpose:** Demonstrates creativity in combining React development with AI-generated content, showing ability to integrate emerging technologies into practical applications.
+
+---
+
+## Current Digital Presence
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -217,48 +242,53 @@ Proves capability to design and implement enterprise-level architectures, manage
 <th style="padding: 12px; text-align: left; border-bottom: 2px solid #d1d5da;">Platform</th>
 <th style="padding: 12px; text-align: left; border-bottom: 2px solid #d1d5da;">Technology Stack</th>
 <th style="padding: 12px; text-align: left; border-bottom: 2px solid #d1d5da;">Status</th>
-<th style="padding: 12px; text-align: left; border-bottom: 2px solid #d1d5da;">Business Purpose</th>
+<th style="padding: 12px; text-align: left; border-bottom: 2px solid #d1d5da;">Purpose</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;"><strong><a href="https://www.straydog-syndications-llc.com/" target="_blank" style="color: inherit; text-decoration: none;">StrayDog Syndications LLC</a></strong></td>
+<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;"><strong><a href="https://www.straydog-syndications-llc.com/" target="_blank">StrayDog Syndications LLC</a></strong></td>
 <td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">Next.js 14, TypeScript, Tailwind CSS</td>
-<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;"><span style="color: green;">● Production</span></td>
-<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">AI Consultancy & Business Services</td>
+<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;"><span style="color: green;">● Live</span></td>
+<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">Professional Business Site</td>
 </tr>
 <tr>
-<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;"><strong><a href="https://tech-portal.straydog-syndications.com/" target="_blank" style="color: inherit; text-decoration: none;">Tech Portal</a></strong></td>
-<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">Next.js, Supabase, Claude API</td>
-<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;"><span style="color: green;">● Production</span></td>
-<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">Developer Resources & Tools</td>
-</tr>
-<tr>
-<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;"><strong><a href="https://corporate.straydog-syndications.com/" target="_blank" style="color: inherit; text-decoration: none;">Corporate Platform</a></strong></td>
-<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">Next.js, TypeScript</td>
-<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;"><span style="color: green;">● Production</span></td>
-<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">Business Partnerships & Services</td>
-</tr>
-<tr>
-<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;"><strong><a href="https://secondstory.straydog-syndications.com/" target="_blank" style="color: inherit; text-decoration: none;">Second Story Initiative</a></strong></td>
-<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">Next.js, Supabase</td>
-<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;"><span style="color: green;">● Production</span></td>
-<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">Justice Reform Technology</td>
-</tr>
-<tr>
-<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;"><strong><a href="https://straydogsyn.github.io/Learner-Files-v3.5/" target="_blank" style="color: inherit; text-decoration: none;">Interactive Portfolio</a></strong></td>
-<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">Vanilla JS, CSS3, APIs</td>
-<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;"><span style="color: green;">● Production</span></td>
+<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;"><strong><a href="https://straydogsyn.github.io/Learner-Files-v3.5/" target="_blank">Interactive Portfolio</a></strong></td>
+<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">Vanilla JS, CSS3, HTML5</td>
+<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;"><span style="color: green;">● Live</span></td>
 <td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">Technical Skills Showcase</td>
 </tr>
 <tr>
-<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;"><strong><a href="https://straydogsyn.github.io/WDF-Portfolio/" target="_blank" style="color: inherit; text-decoration: none;">WDF Program Portfolio</a></strong></td>
+<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;"><strong><a href="https://straydogsyn.github.io/WDF-GitLab-TheLastMileProgram/" target="_blank">WDF Program Portfolio</a></strong></td>
 <td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">HTML/CSS/JS, Git</td>
-<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;"><span style="color: green;">● Production</span></td>
+<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;"><span style="color: green;">● Live</span></td>
 <td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">Educational Project Collection</td>
+</tr>
+<tr>
+<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;"><strong><a href="https://github.com/StrayDogSyn/MiaBelovedMausi" target="_blank">React Art Gallery</a></strong></td>
+<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">React, AI Image Generation</td>
+<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;"><span style="color: green;">● Live</span></td>
+<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">AI-Powered Art Gallery</td>
+</tr>
+<tr>
+<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;"><strong>Tech Portal</strong></td>
+<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">Next.js, Supabase, Claude API</td>
+<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;"><span style="color: orange;">⦿ In Development</span></td>
+<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">Developer Resources & Tools</td>
+</tr>
+<tr>
+<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;"><strong>Second Story Initiative</strong></td>
+<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">Next.js, Supabase</td>
+<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;"><span style="color: orange;">⦿ In Development</span></td>
+<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">Justice Reform Technology</td>
 </tr>
 </tbody>
 </table>
+
+**Legend:**  
+● Live - Fully functional and accessible  
+⦿ In Development - Actively being built  
+○ Planned - Roadmap stage
 
 ---
 
@@ -267,6 +297,7 @@ Proves capability to design and implement enterprise-level architectures, manage
 ![Skills Banner](https://skillicons.dev/icons?i=python,typescript,javascript,nodejs,react,nextjs,mongodb,docker,git,aws,tailwind,express&theme=dark)
 
 ### Core Technologies
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -275,6 +306,7 @@ Proves capability to design and implement enterprise-level architectures, manage
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks & Libraries
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
@@ -282,6 +314,7 @@ Proves capability to design and implement enterprise-level architectures, manage
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ### AI/ML & Data Management
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logoColor=white)
@@ -289,6 +322,7 @@ Proves capability to design and implement enterprise-level architectures, manage
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
 
 ### Development Tools & Platforms
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -349,6 +383,7 @@ Proves capability to design and implement enterprise-level architectures, manage
 </table>
 
 ### Core Competency Areas
+
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
 <span style="background: #7AA2F7; color: white; padding: 5px 15px; border-radius: 20px;">Algorithm Optimization</span>
 <span style="background: #7AA2F7; color: white; padding: 5px 15px; border-radius: 20px;">Data Structures</span>
@@ -363,7 +398,8 @@ Proves capability to design and implement enterprise-level architectures, manage
 ## Professional Experience
 
 ### AI Content Engineer | Outlier AI
-**October 2024 - Present**
+
+October 2024 - Present
 
 - Fine-tune and validate Large Language Model outputs for production deployment
 - Developed comprehensive testing frameworks improving model accuracy
@@ -372,7 +408,8 @@ Proves capability to design and implement enterprise-level architectures, manage
 - **Technologies:** Python, AI/ML Frameworks, Testing Automation, Performance Monitoring
 
 ### Community Engagement Instructor | The Moth
-**November 2024 - Present**
+
+November 2024 - Present
 
 - Design and deliver technical storytelling workshops for diverse audiences
 - Created innovative curriculum integrating digital tools with communication methods
@@ -406,11 +443,13 @@ Community College of Rhode Island | In Progress | GPA: 3.40
 </div>
 
 #### AI/ML Specializations
+
 - **Tech Pathways AI/ML Fundamentals** - Justice Through Code (2025)
 - **Building AI Agents with MongoDB** - MongoDB University (2025)
 - **Applied AI Professional Certificate** - Google (2024)
 
 #### Full-Stack Development
+
 - **Web Development Fundamentals (WDF)** - The Last Mile Program (2025)
 - **Full-Stack Development with Cursor Copilot** - Udemy (2025)
 - **JavaScript: ES6 and Beyond** - Udemy (2024)
@@ -418,11 +457,13 @@ Community College of Rhode Island | In Progress | GPA: 3.40
 - **Node.js Developer Course** - Udemy (2024)
 
 #### Cloud & DevOps
+
 - **AWS Certified Cloud Practitioner** - Amazon (In Progress)
 - **Docker Mastery** - Udemy (2024)
 - **CI/CD Pipeline Development** - Coursera (2024)
 
 #### Data & Analytics
+
 - **MongoDB University Certification** - MongoDB (2024)
 - **SQL for Data Science** - Coursera (2024)
 - **Python for Data Analysis** - DataCamp (2024)
@@ -446,19 +487,19 @@ Community College of Rhode Island | In Progress | GPA: 3.40
 
 </div>
 
-
-
 ---
 
 ## Let's Connect
 
-I'm actively seeking opportunities in **AI Engineering**, **Full-Stack Development**, and **Technical Architecture** roles where I can contribute to building innovative, scalable solutions that drive business value.
+I'm actively seeking opportunities in **Full-Stack Development**, **AI Integration**, and **Technical Development** roles where I can contribute to building innovative, scalable solutions.
 
-**What I Bring to Your Team:**
-- Proven ability to deliver production-ready applications from concept to deployment
-- Experience bridging technical implementation with business objectives
-- Strong foundation in both AI/ML integration and traditional software engineering
-- Track record of building scalable, maintainable systems that solve real problems
+**What I Bring:**
+
+- Hands-on experience with modern web technologies and AI integration
+- Strong foundation in computer science fundamentals and algorithms
+- Practical experience deploying production applications
+- Commitment to continuous learning and professional growth
+- Passion for using technology to create positive social impact
 
 <div align="center">
 <a href="https://dot.cards/straydog_syndications_llc">
