@@ -46,10 +46,9 @@
 
 <div align="center">
   
-![Currently Studying](https://img.shields.io/badge/Status-CCRI_Student-blue?style=for-the-badge&logo=graduation-cap)
-![Employed](https://img.shields.io/badge/Employment-2_Active_Positions-green?style=for-the-badge&logo=briefcase)
+![Currently Studying](https://img.shields.io/badge/Status-Full--Time_Student-blue?style=for-the-badge&logo=graduation-cap)
+![Employed](https://img.shields.io/badge/Employment-Contractor_Work-green?style=for-the-badge&logo=briefcase)
 ![Available](https://img.shields.io/badge/Freelance-Available-success?style=for-the-badge&logo=handshake)
-![Location](https://img.shields.io/badge/Based_in-Rhode_Island-red?style=for-the-badge&logo=map-pin)
 
 </div>
 
@@ -69,15 +68,15 @@ Full-Stack Developer and AI Integration Specialist building modern web applicati
 
 ## Featured Projects
 
-<table style="width: 100%; border-collapse: separate; border-spacing: 15px;">
+<table style="width: 100%; border-collapse: separate; border-spacing: 20px;">
 <tr>
 <td style="width: 50%; vertical-align: top;">
 
-### Full-Stack Task Management App
+<div style="background: #f6f8fa; padding: 20px; border-radius: 12px; border-left: 4px solid #0366d6; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
 
-<div style="background: #f6f8fa; padding: 15px; border-radius: 8px; border-left: 4px solid #0366d6;">
+### <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 2L2 7v10c0 5.55 3.84 9.95 9 11 5.16-1.05 9-5.45 9-11V7l-10-5z" fill="#0366d6"/></svg> [Full-Stack Task Management App](https://full-stack-to-do-list-hunter-frontend-83tqcaqyl.vercel.app/)
 
-**[Live Demo](https://full-stack-to-do-list-hunter-frontend-83tqcaqyl.vercel.app/) | [Source Code](https://github.com/StrayDogSyn/full-stack-ToDoList-Hunter)**
+**[🔗 Live Demo](https://full-stack-to-do-list-hunter-frontend-83tqcaqyl.vercel.app/) | [📂 Source Code](https://github.com/StrayDogSyn/full-stack-ToDoList-Hunter)**
 
 A comprehensive task management application demonstrating full-stack architecture with real-time data synchronization and responsive design.
 
@@ -105,11 +104,11 @@ Demonstrates ability to architect and deploy full-stack applications using moder
 </td>
 <td style="width: 50%; vertical-align: top;">
 
-### Interactive Python Gaming Project
+<div style="background: #f6f8fa; padding: 20px; border-radius: 12px; border-left: 4px solid #0366d6; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
 
-<div style="background: #f6f8fa; padding: 15px; border-radius: 8px; border-left: 4px solid #0366d6;">
+### <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z" fill="#0366d6"/></svg> [Interactive Python Gaming Project](https://github.com/StrayDogSyn/pygame-asteriods-deluxe)
 
-**[Source Code](https://github.com/StrayDogSyn/pygame-asteriods-deluxe)**
+**[📂 Source Code](https://github.com/StrayDogSyn/pygame-asteriods-deluxe)**
 
 Classic arcade game built using object-oriented programming principles, demonstrating state management and collision detection algorithms.
 
@@ -139,11 +138,11 @@ Showcases Python programming skills and ability to implement complex algorithms 
 <tr>
 <td style="width: 50%; vertical-align: top;">
 
-### API-Integrated Trivia Platform
+<div style="background: #f6f8fa; padding: 20px; border-radius: 12px; border-left: 4px solid #0366d6; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
 
-<div style="background: #f6f8fa; padding: 15px; border-radius: 8px; border-left: 4px solid #0366d6;">
+### <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z" fill="#0366d6"/></svg> [API-Integrated Trivia Platform](https://straydogsyn.github.io/Marvel-Quiz/)
 
-**[Live Demo](https://straydogsyn.github.io/Marvel-Quiz/) | [Source Code](https://github.com/StrayDogSyn/Marvel-Quiz)**
+**[🔗 Live Demo](https://straydogsyn.github.io/Marvel-Quiz/) | [📂 Source Code](https://github.com/StrayDogSyn/Marvel-Quiz)**
 
 Dynamic trivia application leveraging Marvel API for content generation, featuring persistent scoring and engaging user experience.
 
@@ -171,11 +170,11 @@ Demonstrates API integration expertise and ability to create engaging, data-driv
 </td>
 <td style="width: 50%; vertical-align: top;">
 
-### Professional Business Platform
+<div style="background: #f6f8fa; padding: 20px; border-radius: 12px; border-left: 4px solid #0366d6; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
 
-<div style="background: #f6f8fa; padding: 15px; border-radius: 8px; border-left: 4px solid #0366d6;">
+### <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M21 16V4a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2z" stroke="#0366d6" stroke-width="2" fill="none"/><path d="m7 10 5 5 5-5" stroke="#0366d6" stroke-width="2" fill="none"/></svg> [Professional Business Platform](https://www.straydog-syndications-llc.com/)
 
-**[Live Site](https://www.straydog-syndications-llc.com/)**
+**[🔗 Live Site](https://www.straydog-syndications-llc.com/)**
 
 Professional business website showcasing services and expertise with modern web technologies and responsive design.
 
@@ -200,11 +199,11 @@ Demonstrates ability to design and implement professional business websites with
 - **Deployment:** Configured Vercel hosting with automatic deployments
 
 **Future Development:**  
-Multi-domain expansion planned including:
+Multi-domain expansion including:
 
-- Tech Portal: `https://www.straydogsyndicationsllc.tech/`
-- Business Services: `https://www.straydogsyndicationsllc.biz/`
-- Non-Profit Initiative: `https://www.straydog-secondstory.org/`
+- Tech Portal: [`straydogsyndicationsllc.tech`](https://www.straydogsyndicationsllc.tech/)
+- Business Services: [`straydogsyndicationsllc.biz`](https://www.straydogsyndicationsllc.biz/)
+- Non-Profit Initiative: [`straydog-secondstory.org`](https://www.straydog-secondstory.org/)
 
 </div>
 </td>
@@ -215,9 +214,11 @@ Multi-domain expansion planned including:
 
 ## Additional Projects
 
-### React Art Gallery with AI-Generated Images
+<div style="background: #f6f8fa; padding: 20px; border-radius: 12px; border-left: 4px solid #0366d6; box-shadow: 0 2px 8px rgba(0,0,0,0.1); margin-bottom: 20px;">
 
-**[Source Code](https://github.com/StrayDogSyn/MiaBelovedMausi)**
+### <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M9 11H7l3-7 3 7h-2v8h-2v-8z" fill="#0366d6"/><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2z" stroke="#0366d6" stroke-width="2" fill="none"/></svg> [React Art Gallery with AI-Generated Images](https://github.com/StrayDogSyn/MiaBelovedMausi)
+
+**[📂 Source Code](https://github.com/StrayDogSyn/MiaBelovedMausi)**
 
 Creative React application showcasing AI-generated artwork with dynamic gallery functionality and responsive design.
 
@@ -231,6 +232,8 @@ Creative React application showcasing AI-generated artwork with dynamic gallery 
 - Interactive user experience
 
 **Purpose:** Demonstrates creativity in combining React development with AI-generated content, showing ability to integrate emerging technologies into practical applications.
+
+</div>
 
 ---
 
