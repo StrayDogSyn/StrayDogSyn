@@ -270,19 +270,19 @@ Creative React application showcasing AI-generated artwork with dynamic gallery 
 <td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">AI-Powered Art Gallery</td>
 </tr>
 <tr>
-<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;"><strong><a href="https://www.straydogsyndicationsllc.tech/" target="_blank">Tech Portal</a></strong></td>
+<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;"><strong><a href="https://stray-dog-technical-page.vercel.app" target="_blank">Tech Portal</a></strong></td>
 <td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">Next.js, Supabase, Claude API</td>
 <td style="padding: 12px; border-bottom: 1px solid #e1e4e8;"><span style="color: green;">● Live</span></td>
 <td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">Developer Resources & Tools</td>
 </tr>
 <tr>
-<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;"><strong><a href="https://www.straydogsyndicationsllc.biz/" target="_blank">Business Services Portal</a></strong></td>
+<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;"><strong><a href="https://www.straydogsyndicationsllc.biz" target="_blank">Business Services Portal</a></strong></td>
 <td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">Next.js, TypeScript, Tailwind CSS</td>
 <td style="padding: 12px; border-bottom: 1px solid #e1e4e8;"><span style="color: green;">● Live</span></td>
 <td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">Business Services & Solutions</td>
 </tr>
 <tr>
-<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;"><strong><a href="https://www.straydog-secondstory.org/" target="_blank">Second Story Initiative</a></strong></td>
+<td style="padding: 12px; border-bottom: 1px solid #e1e4e8;"><strong><a href="https://www.straydog-secondstory.org" target="_blank">Second Story Initiative</a></strong></td>
 <td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">Next.js, Supabase</td>
 <td style="padding: 12px; border-bottom: 1px solid #e1e4e8;"><span style="color: green;">● Live</span></td>
 <td style="padding: 12px; border-bottom: 1px solid #e1e4e8;">Justice Reform Technology</td>
