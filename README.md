@@ -357,7 +357,10 @@ Creative React application showcasing AI-generated artwork with dynamic gallery 
 <br/><br/>
 
 <a href="https://www.kaggle.com/ehunterpetross">
-<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/ehunterpetross/competition/light" alt="Kaggle Competition Badge" />
+<img src="https://img.shields.io/badge/Competition-Novice-teal?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle Competition Tier" />
+<img src="https://img.shields.io/badge/Datasets-Novice-teal?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle Datasets Tier" />
+<img src="https://img.shields.io/badge/Notebooks-Novice-teal?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle Notebooks Tier" />
+<img src="https://img.shields.io/badge/Discussion-Novice-teal?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle Discussion Tier" />
 </a>
 
 </div>
