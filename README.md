@@ -353,67 +353,80 @@ Creative React application showcasing AI-generated artwork with dynamic gallery 
 </div>
 
 <div align="center">
-<table style="width: 100%; max-width: 900px; border-collapse: separate; border-spacing: 15px;">
+<table style="width: 100%; max-width: 1200px; border-collapse: separate; border-spacing: 0;">
 <tr>
-<td align="center" style="width: 25%; background: #f6f8fa; padding: 20px; border-radius: 8px;">
-<h4>CodeWars</h4>
+<td align="center" style="width: 25%; background: #f6f8fa; padding: 25px 15px; border-radius: 8px; vertical-align: top; margin: 10px;">
+<h4 style="margin: 0 0 15px 0; color: #24292e;">CodeWars</h4>
 
 <a href="https://www.codewars.com/users/StrayDogSyn">
-<img src="https://www.codewars.com/users/StrayDogSyn/badges/large" alt="CodeWars Badge" style="border-radius: 6px;" />
+<img src="https://www.codewars.com/users/StrayDogSyn/badges/large" alt="CodeWars Badge" style="border-radius: 6px; max-width: 100%;" />
 </a>
-<div style="margin-top: 10px;">
+<div style="margin-top: 15px; font-size: 14px; line-height: 1.6;">
 <strong>Focus:</strong> Algorithm Optimization<br/>
 <strong>Status:</strong> Active
 </div>
 </td>
 
-<td align="center" style="width: 25%; background: #f6f8fa; padding: 20px; border-radius: 8px;">
-<h4>Kaggle</h4>
+<td style="width: 1%;"></td>
+
+<td align="center" style="width: 25%; background: #f6f8fa; padding: 25px 15px; border-radius: 8px; vertical-align: top;">
+<h4 style="margin: 0 0 15px 0; color: #24292e;">Kaggle</h4>
 
 <a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME">
-<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/YOUR_KAGGLE_USERNAME/competition" alt="Kaggle Competition Badge" style="border-radius: 6px; max-width: 100%;" />
+<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/YOUR_KAGGLE_USERNAME/competition" alt="Kaggle Competition Badge" style="border-radius: 6px; max-width: 100%; height: auto;" />
 </a>
-<div style="margin-top: 10px;">
+<div style="margin-top: 15px; font-size: 14px; line-height: 1.6;">
 <strong>Focus:</strong> Data Science & ML<br/>
 <strong>Badges:</strong> 6 Earned
 </div>
 </td>
 
-<td align="center" style="width: 25%; background: #f6f8fa; padding: 20px; border-radius: 8px;">
-<h4>LeetCode</h4>
+<td style="width: 1%;"></td>
+
+<td align="center" style="width: 25%; background: #f6f8fa; padding: 25px 15px; border-radius: 8px; vertical-align: top;">
+<h4 style="margin: 0 0 15px 0; color: #24292e;">LeetCode</h4>
 
 <a href="https://leetcode.com/StrayDogSyn">
 <img src="https://leetcard.jacoblin.cool/StrayDogSyn?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" style="border-radius: 6px; max-width: 100%;" />
 </a>
-<div style="margin-top: 10px;">
+<div style="margin-top: 15px; font-size: 14px; line-height: 1.6;">
 <strong>Focus:</strong> Data Structures<br/>
 <strong>Status:</strong> Active
 </div>
 </td>
 
-<td align="center" style="width: 25%; background: #f6f8fa; padding: 20px; border-radius: 8px;">
-<h4>HackerRank</h4>
+<td style="width: 1%;"></td>
+
+<td align="center" style="width: 25%; background: #f6f8fa; padding: 25px 15px; border-radius: 8px; vertical-align: top;">
+<h4 style="margin: 0 0 15px 0; color: #24292e;">HackerRank</h4>
 
 <a href="https://www.hackerrank.com/straydogsyndica1">
 <img src="https://img.shields.io/badge/Python_Certified-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Certification" />
 </a>
-<div style="margin-top: 10px;">
+<div style="margin-top: 15px; font-size: 14px; line-height: 1.6;">
 <strong>Certification:</strong> Python (Basic)<br/>
 <strong>Focus:</strong> Problem Solving
 </div>
 </td>
 </tr>
-</table>
 
-### Core Competency Areas
-
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
-<span style="background: #7AA2F7; color: white; padding: 5px 15px; border-radius: 20px;">Algorithm Optimization</span>
-<span style="background: #7AA2F7; color: white; padding: 5px 15px; border-radius: 20px;">Data Structures</span>
-<span style="background: #7AA2F7; color: white; padding: 5px 15px; border-radius: 20px;">System Design</span>
-<span style="background: #7AA2F7; color: white; padding: 5px 15px; border-radius: 20px;">Performance Analysis</span>
-<span style="background: #7AA2F7; color: white; padding: 5px 15px; border-radius: 20px;">Problem Decomposition</span>
+<tr>
+<td colspan="9" style="padding-top: 30px;">
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+<h3 style="margin: 0 0 20px 0; color: white; text-align: center; font-size: 18px; letter-spacing: 0.5px;">Core Competency Areas</h3>
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 12px;">
+<span style="background: rgba(255,255,255,0.95); color: #667eea; padding: 8px 18px; border-radius: 20px; font-weight: 600; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">Algorithm Optimization</span>
+<span style="background: rgba(255,255,255,0.95); color: #667eea; padding: 8px 18px; border-radius: 20px; font-weight: 600; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">Data Structures</span>
+<span style="background: rgba(255,255,255,0.95); color: #667eea; padding: 8px 18px; border-radius: 20px; font-weight: 600; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">System Design</span>
+<span style="background: rgba(255,255,255,0.95); color: #667eea; padding: 8px 18px; border-radius: 20px; font-weight: 600; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">Performance Analysis</span>
+<span style="background: rgba(255,255,255,0.95); color: #667eea; padding: 8px 18px; border-radius: 20px; font-weight: 600; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">Problem Decomposition</span>
+<span style="background: rgba(255,255,255,0.95); color: #667eea; padding: 8px 18px; border-radius: 20px; font-weight: 600; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">Machine Learning</span>
+<span style="background: rgba(255,255,255,0.95); color: #667eea; padding: 8px 18px; border-radius: 20px; font-weight: 600; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">Data Science</span>
 </div>
+</div>
+</td>
+</tr>
+</table>
 </div>
 
 ---
