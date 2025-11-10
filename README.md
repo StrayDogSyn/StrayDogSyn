@@ -344,14 +344,6 @@ Creative React application showcasing AI-generated artwork with dynamic gallery 
 
 ## Competitive Programming & Data Science
 
-<div align="center">
-
-![Competitive Programming](https://img.shields.io/badge/Competitive_Programming-Active-9ECE6A?style=for-the-badge&logo=leetcode&logoColor=white)
-![Data Science](https://img.shields.io/badge/Data_Science-Active-7AA2F7?style=for-the-badge&logo=kaggle&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-Learning-BB9AF7?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-</div>
-
 ### 🏆 Kaggle Progress & Data Science Learning
 
 <div align="center">
@@ -362,12 +354,12 @@ Creative React application showcasing AI-generated artwork with dynamic gallery 
 
 **6 Badges Earned** | **Active Learner** | **Competition Participant**
 
-</div>
+<br/><br/>
 
-<div align="center" style="margin: 20px 0;">
 <a href="https://www.kaggle.com/ehunterpetross">
-<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/ehunterpetross/competition" alt="Kaggle Competition Badge" style="border-radius: 8px; max-width: 90%; height: auto; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/ehunterpetross/competition/light" alt="Kaggle Competition Badge" />
 </a>
+
 </div>
 
 <div align="center">
