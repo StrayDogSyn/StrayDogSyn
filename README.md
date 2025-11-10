@@ -342,12 +342,12 @@ Creative React application showcasing AI-generated artwork with dynamic gallery 
 
 ---
 
-## Competitive Programming & Problem Solving
+## Competitive Programming & Data Science
 
 <div align="center">
 
 ![Competitive Programming](https://img.shields.io/badge/Competitive_Programming-Active-9ECE6A?style=for-the-badge&logo=leetcode&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-Active-7AA2F7?style=for-the-badge&logo=hackerrank&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data_Science-Active-7AA2F7?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/Algorithms-Active-F7768E?style=for-the-badge&logo=codewars&logoColor=white)
 
 </div>
@@ -355,20 +355,31 @@ Creative React application showcasing AI-generated artwork with dynamic gallery 
 <div align="center">
 <table style="width: 100%; max-width: 900px; border-collapse: separate; border-spacing: 15px;">
 <tr>
-<td align="center" style="width: 33%; background: #f6f8fa; padding: 20px; border-radius: 8px;">
+<td align="center" style="width: 25%; background: #f6f8fa; padding: 20px; border-radius: 8px;">
 <h4>CodeWars</h4>
-
-![CodeWars](https://img.shields.io/badge/dynamic/json?color=B1361E&label=Rank&query=%24.ranks.overall.name&url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2FStrayDogSyn&style=for-the-badge&logo=codewars&logoColor=white)
 
 <a href="https://www.codewars.com/users/StrayDogSyn">
 <img src="https://www.codewars.com/users/StrayDogSyn/badges/large" alt="CodeWars Badge" style="border-radius: 6px;" />
 </a>
 <div style="margin-top: 10px;">
 <strong>Focus:</strong> Algorithm Optimization<br/>
-<strong>Achievement:</strong> 5 Kyu Ranking
+<strong>Status:</strong> Active
 </div>
 </td>
-<td align="center" style="width: 33%; background: #f6f8fa; padding: 20px; border-radius: 8px;">
+
+<td align="center" style="width: 25%; background: #f6f8fa; padding: 20px; border-radius: 8px;">
+<h4>Kaggle</h4>
+
+<a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME">
+<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/YOUR_KAGGLE_USERNAME/competition" alt="Kaggle Competition Badge" style="border-radius: 6px; max-width: 100%;" />
+</a>
+<div style="margin-top: 10px;">
+<strong>Focus:</strong> Data Science & ML<br/>
+<strong>Badges:</strong> 6 Earned
+</div>
+</td>
+
+<td align="center" style="width: 25%; background: #f6f8fa; padding: 20px; border-radius: 8px;">
 <h4>LeetCode</h4>
 
 <a href="https://leetcode.com/StrayDogSyn">
@@ -379,7 +390,8 @@ Creative React application showcasing AI-generated artwork with dynamic gallery 
 <strong>Status:</strong> Active
 </div>
 </td>
-<td align="center" style="width: 33%; background: #f6f8fa; padding: 20px; border-radius: 8px;">
+
+<td align="center" style="width: 25%; background: #f6f8fa; padding: 20px; border-radius: 8px;">
 <h4>HackerRank</h4>
 
 <a href="https://www.hackerrank.com/straydogsyndica1">
@@ -387,7 +399,7 @@ Creative React application showcasing AI-generated artwork with dynamic gallery 
 </a>
 <div style="margin-top: 10px;">
 <strong>Certification:</strong> Python (Basic)<br/>
-<strong>Specialization:</strong> Problem Solving
+<strong>Focus:</strong> Problem Solving
 </div>
 </td>
 </tr>
