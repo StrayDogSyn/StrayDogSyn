@@ -59,6 +59,37 @@
 
 ---
 
+## <img src="https://cdn.simpleicons.org/users/355E3B" width="26" height="26" alt="Team" /> Team & Leadership
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### <img src="https://cdn.simpleicons.org/github/355E3B" width="22" height="22" alt="Eric" /> Eric "Hunter" Petross
+**Founder & Lead AI Solutions Engineer**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/eric-petross-766a08330)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/StrayDogSyn)
+
+Applied AI Solutions Engineer specializing in autonomous agent development, LLMOps infrastructure, and enterprise AI solutions. Leading the development of production-ready AI applications and justice reform technology initiatives.
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://cdn.simpleicons.org/github/355E3B" width="22" height="22" alt="Mia" /> Mia 'Mausi' Smith
+**Programming Manager & Freelance Developer**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mia-petross)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/miasmith81)
+
+Programming Manager overseeing technical development operations and code quality across the StrayDog ecosystem. Experienced freelance developer contributing to full-stack applications and development workflow optimization.
+
+</td>
+</tr>
+</table>
+
+---
+
 ## <img src="https://cdn.simpleicons.org/activitypub/355E3B" width="26" height="26" alt="Status" /> Current Status
 
 <div align="center">
