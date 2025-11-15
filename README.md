@@ -29,6 +29,9 @@
   <a href="https://linkedin.com/in/eric-petross-766a08330">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="32" />
   </a>
+  <a href="https://www.youtube.com/@EricHunterPetross">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="32" />
+  </a>
   <a href="mailto:eHunter@straydog-secondstory.org">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="32" />
   </a>
@@ -56,37 +59,6 @@
 </p>
 
 </div>
-
----
-
-## <img src="https://cdn.simpleicons.org/users/355E3B" width="26" height="26" alt="Team" /> Team & Leadership
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### <img src="https://cdn.simpleicons.org/github/355E3B" width="22" height="22" alt="Eric" /> Eric "Hunter" Petross
-**Founder & Lead AI Solutions Engineer**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/eric-petross-766a08330)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/StrayDogSyn)
-
-Applied AI Solutions Engineer specializing in autonomous agent development, LLMOps infrastructure, and enterprise AI solutions. Leading the development of production-ready AI applications and justice reform technology initiatives.
-
-</td>
-<td width="50%" valign="top">
-
-### <img src="https://cdn.simpleicons.org/github/355E3B" width="22" height="22" alt="Mia" /> Mia 'Mausi' Smith
-**Programming Manager & Freelance Developer**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mia-petross)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/miasmith81)
-
-Programming Manager overseeing technical development operations and code quality across the StrayDog ecosystem. Experienced freelance developer contributing to full-stack applications and development workflow optimization.
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -469,6 +441,7 @@ I'm actively seeking roles where I can contribute to building innovative, scalab
 
 [![Email](https://img.shields.io/badge/Email-eHunter%40straydog--secondstory.org-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eHunter@straydog-secondstory.org)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eric_Petross-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eric-petross-766a08330)
+[![YouTube](https://img.shields.io/badge/YouTube-Mentoring_%26_Programming-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@EricHunterPetross)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://straydogsyn.github.io/Learner-Files-v3.5/)
 
 </div>
