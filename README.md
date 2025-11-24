@@ -289,26 +289,42 @@ Dynamic trivia application leveraging SuperHero API for content generation with 
 
 <div align="center">
 
-<!-- GitHub Stats (single-image embeds for consistent rendering on GitHub) -->
+<!-- GitHub Stats (stable endpoints, accessible markup) -->
 <p>
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=StrayDogSyn&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&border_radius=8&rank_icon=github" width="495" height="195" loading="lazy" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=StrayDogSyn&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&border_radius=8"
+    alt="GitHub profile stats for @StrayDogSyn"
+    width="495" height="195"
+    loading="lazy" />
 </p>
 
 <p>
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrayDogSyn&layout=compact&theme=github_dark&hide_border=true&langs_count=8&border_radius=8" width="495" height="195" loading="lazy" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrayDogSyn&layout=compact&theme=github_dark&hide_border=true&langs_count=8&border_radius=8"
+    alt="Top languages used across public repositories"
+    width="495" height="195"
+    loading="lazy" />
 </p>
 
 <p>
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.demolab.com?user=StrayDogSyn&theme=github_dark&hide_border=true&background=0d1117&ring=355E3B&fire=355E3B&currStreakLabel=c9d1d9&border_radius=8" width="495" height="195" loading="lazy" />
+  <img
+    src="https://streak-stats.demolab.com?user=StrayDogSyn&theme=github_dark&hide_border=true&border_radius=8"
+    alt="GitHub contribution streak chart"
+    width="495" height="195"
+    loading="lazy" />
+</p>
+
 <details>
-</p>
-
-<details>
-<summary><b><img src="https://cdn.simpleicons.org/github/FFD700" width="18" height="18" alt="Trophy" /> GitHub Trophies</b></summary>
-<br>
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=StrayDogSyn&theme=dark&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&cache_seconds=1800)
-
+  <summary><b><img src="https://cdn.simpleicons.org/github/FFD700" width="18" height="18" alt="Trophy" /> GitHub Trophies</b></summary>
+  <br>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=StrayDogSyn&theme=onestar&no-frame=true&no-bg=true&margin-w=6&row=2&column=4&cache_seconds=3600"
+    alt="GitHub achievement trophies for @StrayDogSyn"
+    width="895"
+    loading="lazy" />
+  
+  <br>
+  <sub>Note: These badges use public endpoints and may be rate‑limited. Links above provide a quick overview if images fail to load.</sub>
 </details>
 
 </div>
