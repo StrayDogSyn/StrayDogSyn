@@ -289,43 +289,102 @@ Dynamic trivia application leveraging SuperHero API for content generation with 
 
 <div align="center">
 
-<!-- GitHub Stats (stable endpoints, accessible markup) -->
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=StrayDogSyn&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&border_radius=8"
-    alt="GitHub profile stats for @StrayDogSyn"
-    width="495" height="195"
-    loading="lazy" />
-</p>
+<!-- Premium GitHub Stats Grid -->
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; margin: 24px 0;">
+  
+  <!-- GitHub Profile Stats -->
+  <picture style="flex: 1 1 495px; max-width: 495px;">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=StrayDogSyn&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&border_radius=8&show=reviews,discussions_started,discussions_answered&hide=prs"
+      alt="GitHub profile stats for @StrayDogSyn"
+      width="495" height="195"
+      loading="lazy"
+      decoding="async"
+      style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);" />
+  </picture>
+  
+  <!-- GitHub Top Languages -->
+  <picture style="flex: 1 1 495px; max-width: 495px;">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrayDogSyn&layout=compact&theme=github_dark&hide_border=true&langs_count=8&border_radius=8&hide=html,css&exclude_repo=Learner-Files-v3.5"
+      alt="Top languages used across public repositories"
+      width="495" height="195"
+      loading="lazy"
+      decoding="async"
+      style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);" />
+  </picture>
+  
+</div>
 
-<p>
+<!-- GitHub Streak Stats -->
+<picture style="display: block; margin: 24px auto; max-width: 495px;">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrayDogSyn&layout=compact&theme=github_dark&hide_border=true&langs_count=8&border_radius=8"
-    alt="Top languages used across public repositories"
-    width="495" height="195"
-    loading="lazy" />
-</p>
-
-<p>
-  <img
-    src="https://streak-stats.demolab.com?user=StrayDogSyn&theme=github_dark&hide_border=true&border_radius=8"
+    src="https://streak-stats.demolab.com?user=StrayDogSyn&theme=github_dark&hide_border=true&border_radius=8&mode=daily&exclude_days=Sun&fire=FF6B6B&sideNums=FF6B6B&sideLabels=FF6B6B&dates=FF6B6B"
     alt="GitHub contribution streak chart"
     width="495" height="195"
-    loading="lazy" />
-</p>
+    loading="lazy"
+    decoding="async"
+    style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);" />
+</picture>
 
-<details>
-  <summary><b><img src="https://cdn.simpleicons.org/github/FFD700" width="18" height="18" alt="Trophy" /> GitHub Trophies</b></summary>
-  <br>
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=StrayDogSyn&theme=onestar&no-frame=true&no-bg=true&margin-w=6&row=2&column=4&cache_seconds=3600"
-    alt="GitHub achievement trophies for @StrayDogSyn"
-    width="895"
-    loading="lazy" />
-  
-  <br>
-  <sub>Note: These badges use public endpoints and may be rate‑limited. Links above provide a quick overview if images fail to load.</sub>
+<!-- GitHub Trophies -->
+<details style="margin: 24px 0;">
+  <summary style="cursor: pointer; font-size: 18px; font-weight: 600; color: #355E3B; display: flex; align-items: center; gap: 8px;">
+    <img src="https://cdn.simpleicons.org/github/FFD700" width="20" height="20" alt="Trophy" />
+    GitHub Trophies
+  </summary>
+  <div style="margin-top: 16px; text-align: center;">
+    <picture>
+      <img
+        src="https://github-profile-trophy.vercel.app/?username=StrayDogSyn&theme=onestar&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=2&column=5&cache_seconds=3600&rank=-C,SS,A,AA,AAA,S,SSS,UNKNOWN"
+        alt="GitHub achievement trophies for @StrayDogSyn"
+        width="895" height="auto"
+        loading="lazy"
+        decoding="async"
+        style="max-width: 100%; height: auto; border-radius: 8px; filter: drop-shadow(0 4px 8px rgba(0,0,0,0.2));" />
+    </picture>
+    <p style="margin-top: 12px; font-size: 14px; color: #666;">
+      <sub>Note: These badges use public endpoints and may be rate‑limited. Links above provide a quick overview if images fail to load.</sub>
+    </p>
+  </div>
 </details>
+
+<!-- Additional Analytics Metrics -->
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin: 24px 0;">
+  
+  <picture>
+    <img
+      src="https://img.shields.io/github/followers/StrayDogSyn?label=Followers&logo=github&style=for-the-badge&logoColor=white&color=355E3B&labelColor=1e1e1e"
+      alt="GitHub Followers"
+      loading="lazy"
+      style="border-radius: 6px;" />
+  </picture>
+  
+  <picture>
+    <img
+      src="https://img.shields.io/github/stars/StrayDogSyn?label=Total%20Stars&logo=github&style=for-the-badge&logoColor=white&color=355E3B&labelColor=1e1e1e"
+      alt="Total GitHub Stars"
+      loading="lazy"
+      style="border-radius: 6px;" />
+  </picture>
+  
+  <picture>
+    <img
+      src="https://img.shields.io/github/commit-activity/y/StrayDogSyn/StrayDogSyn?label=Commits%2FYear&logo=git&style=for-the-badge&logoColor=white&color=355E3B&labelColor=1e1e1e"
+      alt="GitHub Commit Activity"
+      loading="lazy"
+      style="border-radius: 6px;" />
+  </picture>
+  
+  <picture>
+    <img
+      src="https://img.shields.io/github/languages/count/StrayDogSyn/StrayDogSyn?label=Languages&logo=code&style=for-the-badge&logoColor=white&color=355E3B&labelColor=1e1e1e"
+      alt="Programming Languages Count"
+      loading="lazy"
+      style="border-radius: 6px;" />
+  </picture>
+  
+</div>
 
 </div>
 
