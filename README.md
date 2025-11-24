@@ -300,28 +300,6 @@ Dynamic trivia application leveraging SuperHero API for content generation with 
     <img src="https://github-profile-trophy.vercel.app/?username=StrayDogSyn&row=2&column=5&no-frame=true" alt="Trophies">
   </p>
 </details>
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=StrayDogSyn&row=2&column=5&no-frame=true" alt="Trophies">
-  </p>
-</details>
-
-<!--
-Maintenance notes:
-- Endpoints verified 2025-06-23 (GitHub Stats: 503, Streak: 500, Trophies: 200)
-- Alternative endpoints implemented for reliability:
-  - GitHub Stats: github-readme-stats.vercel.app (working)
-  - Top Languages: github-readme-stats.vercel.app (working)
-  - Streak: github-readme-streak-stats.herokuapp.com (alternative)
-  - Trophies: github-profile-trophy.vercel.app (verified working)
-- Responsive design: cards stack on mobile (< 840px), side-by-side on desktop
-- Performance: lazy loading enabled, optimized image sizes
-- Theme support: automatic light/dark mode switching with picture elements
-- Error handling: multiple fallback endpoints, direct GitHub API badges
-- Cache: GitHub API responses cached for 2 hours, static assets cached
-- Cross-browser compatibility: tested on Chrome, Firefox, Safari, Edge
-- Mobile optimization: responsive breakpoints at 840px width
-- SEO optimization: proper alt text, semantic HTML, loading attributes
--->
 
 
 
