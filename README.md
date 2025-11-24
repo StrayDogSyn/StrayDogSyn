@@ -300,9 +300,8 @@ Dynamic trivia application leveraging SuperHero API for content generation with 
 
 <p>
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.demolab.com?user=StrayDogSyn&theme=github_dark&hide_border=true&background=0d1117&ring=355E3B&fire=355E3B&currStreakLabel=c9d1d9&border_radius=8" width="495" height="195" loading="lazy" />
+<details>
 </p>
-
-
 
 <details>
 <summary><b><img src="https://cdn.simpleicons.org/github/FFD700" width="18" height="18" alt="Trophy" /> GitHub Trophies</b></summary>
