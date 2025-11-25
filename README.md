@@ -285,20 +285,44 @@ Dynamic trivia application leveraging SuperHero API for content generation with 
 
 ---
 
-## GitHub Analytics
+## <img src="https://cdn.simpleicons.org/github/355E3B" width="26" height="26" alt="Analytics" /> GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StrayDogSyn&show_icons=true&hide_border=true" alt="GitHub Stats" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrayDogSyn&layout=compact&hide_border=true" alt="Top Languages" width="49%">
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=StrayDogSyn&theme=dark&hide_border=true" alt="GitHub Streak">
-</p>
+<div align="center">
+
+<!-- Primary Stats - Using github-readme-stats with cache buster -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=StrayDogSyn&show_icons=true&hide_border=true&bg_color=0d1117&title_color=355E3B&text_color=c9d1d9&icon_color=355E3B&cache_seconds=86400">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=StrayDogSyn&show_icons=true&hide_border=true&theme=default">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=StrayDogSyn&show_icons=true&hide_border=true&theme=dark" height="195">
+</picture>
+
+<!-- Top Languages with extended visibility -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=StrayDogSyn&layout=compact&hide_border=true&bg_color=0d1117&title_color=355E3B&text_color=c9d1d9&langs_count=8&cache_seconds=86400">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=StrayDogSyn&layout=compact&hide_border=true&theme=default&langs_count=8">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrayDogSyn&layout=compact&hide_border=true&theme=dark&langs_count=8" height="195">
+</picture>
+
+</div>
+
+<div align="center">
+
+<!-- Streak Stats - Already using reliable demolab -->
+<img src="https://streak-stats.demolab.com/?user=StrayDogSyn&hide_border=true&background=0d1117&stroke=355E3B&ring=355E3B&fire=FF6B35&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=355E3B&sideLabels=355E3B&dates=8b949e" alt="GitHub Streak" />
+
+</div>
+
+<!-- Activity Graph - Alternative visualization -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=StrayDogSyn&bg_color=0d1117&color=355E3B&line=355E3B&point=c9d1d9&area=true&area_color=355E3B&hide_border=true" alt="Contribution Graph" width="95%" />
+</div>
+
 <details>
-  <summary align="center"><b>🏆 GitHub Trophies</b></summary>
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=StrayDogSyn&row=2&column=5&no-frame=true" alt="Trophies">
-  </p>
+<summary align="center"><b>🏆 GitHub Trophies</b></summary>
+<br>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=StrayDogSyn&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="Trophies" />
+</p>
 </details>
 
 
