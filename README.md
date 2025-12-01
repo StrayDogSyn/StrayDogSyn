@@ -1,4 +1,5 @@
-# Eric "Hunter" Petross - GitHub Profile
+About Me
+=======
 
 <div align="center">
 
@@ -344,13 +345,30 @@ Dynamic trivia application leveraging SuperHero API for content generation with 
 
 ### <img src="https://cdn.simpleicons.org/googlescholar/355E3B" width="22" height="22" alt="Education" /> Formal Education
 
-**Associate in Applied Science - Computer & Networking Technology**  
+**Associate in Applied Science — Computer & Networking Technology**  
 *Community College of Rhode Island* | **In Progress** | **GPA: 3.40**
 
-![Degree Progress](https://img.shields.io/badge/Degree_Progress-60%25_Complete-355E3B?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1e1e1e)
+![Overall Progress](https://img.shields.io/badge/Overall_Progress-75%25_Credits-355E3B?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1e1e1e)
+![Requirements](https://img.shields.io/badge/Requirements-22%25_Complete-355E3B?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1e1e1e)
 ![Academic Standing](https://img.shields.io/badge/Academic_Standing-Good_Standing-28a745?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1e1e1e)
 
+<sub>*Progress reflects continued education across multiple degree pathways*</sub>
+
 </div>
+
+<details>
+<summary><b><img src="https://cdn.simpleicons.org/bookstack/355E3B" width="18" height="18" alt="Coursework" /> Fall 2025 Coursework</b> <sub>(click to expand)</sub></summary>
+<br>
+
+| Course Code | Course Name | CompTIA A+ Alignment |
+|-------------|-------------|----------------------|
+| **CNVT 1000** | Computer Hardware & Software I | Core 1 (220-1101) — Hardware, Networking |
+| **CNVT 1010** | Computer Hardware & Software II | Core 2 (220-1102) — Operating Systems, Security |
+| **CNVT 1030** | Linux Networking | Network+ / Security+ Foundation |
+
+<sub>*Academic coursework directly supports CompTIA A+ certification preparation*</sub>
+
+</details>
 
 ### Professional Certifications
 
