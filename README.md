@@ -296,16 +296,13 @@ Dynamic trivia application leveraging SuperHero API for content generation with 
     <td align="center" width="50%">
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=StrayDogSyn&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=355E3B&text_color=c9d1d9&icon_color=355E3B&include_all_commits=true&count_private=true&rank_icon=github&border_radius=10" alt="GitHub Stats" width="100%" />
     </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=StrayDogSyn&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=355E3B&text_color=c9d1d9&icon_color=355E3B&langs_count=12&hide=html,css&border_radius=10&card_width=445&exclude_repo=StrayDogSyn" alt="Top Languages" width="100%" />
+    <td align="center" width="50%" rowspan="2">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=StrayDogSyn&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=355E3B&text_color=c9d1d9&icon_color=355E3B&langs_count=12&hide=html,css&border_radius=10&card_width=445&exclude_repo=StrayDogSyn" alt="Top Languages" width="100%" style="height: 100%;" />
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=StrayDogSyn&theme=github_dark&utcOffset=-5" alt="Productive Time" width="100%" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=StrayDogSyn&theme=dark&hide_border=true&bg_color=0d1117&title_color=355E3B&text_color=c9d1d9&layout=compact&border_radius=10" alt="Coding Activity" width="100%" />
     </td>
   </tr>
   <tr>
