@@ -289,41 +289,47 @@ Dynamic trivia application leveraging SuperHero API for content generation with 
 
 <div align="center">
 
-<!-- 2x2 ANALYTICS GRID - Static SVGs from GitHub Actions -->
+<!-- 2x3 ANALYTICS GRID -->
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="./metrics/github-stats.svg" alt="GitHub Statistics" width="400" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=StrayDogSyn&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=355E3B&text_color=c9d1d9&icon_color=355E3B&include_all_commits=true&count_private=true&rank_icon=github&border_radius=10" alt="GitHub Stats" width="100%" />
     </td>
     <td align="center" width="50%">
-      <img src="./metrics/contributions.svg" alt="Contribution Calendar" width="400" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=StrayDogSyn&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=355E3B&text_color=c9d1d9&icon_color=355E3B&langs_count=8&hide=html,css&border_radius=10&card_width=445" alt="Top Languages" width="100%" />
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="./metrics/languages.svg" alt="Top Languages" width="400" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=StrayDogSyn&theme=github_dark&utcOffset=-5" alt="Productive Time" width="100%" />
     </td>
     <td align="center" width="50%">
-      <img src="./metrics/habits.svg" alt="Coding Habits" width="400" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StrayDogSyn&theme=github_dark" alt="Profile Details" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=StrayDogSyn&theme=github-compact&hide_border=true&bg_color=0d1117&color=355E3B&line=355E3B&point=FF6B35&area=true&area_color=355E3B" alt="Contribution Graph" width="100%" />
     </td>
   </tr>
 </table>
 
-<!-- ACTIVITY BADGES - These use shields.io which is reliable -->
+<!-- ACTIVITY BADGES -->
 <p>
+  <img src="https://img.shields.io/github/followers/StrayDogSyn?style=for-the-badge&logo=github&logoColor=white&color=355E3B&labelColor=1e1e1e&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/StrayDogSyn?style=for-the-badge&logo=github&logoColor=white&color=355E3B&labelColor=1e1e1e&label=Total%20Stars" alt="Total Stars" />
   <img src="https://img.shields.io/github/commit-activity/m/StrayDogSyn/StrayDogSyn?style=for-the-badge&logo=github&logoColor=white&color=355E3B&labelColor=1e1e1e&label=Monthly%20Commits" alt="Monthly Commits" />
   <img src="https://img.shields.io/github/last-commit/StrayDogSyn/StrayDogSyn?style=for-the-badge&logo=github&logoColor=white&color=355E3B&labelColor=1e1e1e&label=Last%20Commit" alt="Last Commit" />
-  <img src="https://img.shields.io/github/repo-size/StrayDogSyn/StrayDogSyn?style=for-the-badge&logo=github&logoColor=white&color=355E3B&labelColor=1e1e1e" alt="Repo Size" />
 </p>
 
 </div>
 
-<!-- ACHIEVEMENTS - Collapsible -->
+<!-- ACHIEVEMENTS -->
 <details>
-  <summary align="center"><b>🏆 GitHub Achievements</b></summary>
+  <summary align="center"><b>🏆 GitHub Achievements & Trophies</b> <sub>(click to expand)</sub></summary>
   <br>
   <div align="center">
-    <img src="./metrics/achievements.svg" alt="Achievements" width="400" />
+    <img src="https://github-profile-trophy.vercel.app/?username=StrayDogSyn&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" width="100%" />
   </div>
 </details>
 
