@@ -297,7 +297,7 @@ Dynamic trivia application leveraging SuperHero API for content generation with 
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=StrayDogSyn&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=355E3B&text_color=c9d1d9&icon_color=355E3B&include_all_commits=true&count_private=true&rank_icon=github&border_radius=10" alt="GitHub Stats" width="100%" />
     </td>
     <td align="center" width="50%" rowspan="2">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=StrayDogSyn&layout=default&theme=dark&hide_border=true&bg_color=0d1117&title_color=355E3B&text_color=c9d1d9&icon_color=355E3B&langs_count=10&hide=html,css,jupyter%20notebook&border_radius=10&card_width=445&exclude_repo=StrayDogSyn" alt="Top Languages" width="100%" style="height: 100%;" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=StrayDogSyn&layout=default&theme=dark&hide_border=true&bg_color=0d1117&title_color=355E3B&text_color=c9d1d9&icon_color=355E3B&langs_count=12&hide=html,css,jupyter%20notebook,scss,less&exclude_repo=StrayDogSyn&size_weight=0.5&count_weight=0.5&custom_title=Most%20Used%20Languages&border_radius=10&card_width=445&hide_progress=false" alt="Top Languages" width="100%" style="height: 100%;" />
     </td>
   </tr>
   <tr>
