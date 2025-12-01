@@ -289,69 +289,59 @@ Dynamic trivia application leveraging SuperHero API for content generation with 
 
 <div align="center">
 
-  <!-- GitHub Profile Summary Cards -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=StrayDogSyn&theme=github_dark"
-       alt="GitHub Statistics"
-       title="Shows total stars, commits, PRs, issues and contributions"
-       width="400" height="180"
-       style="display: block; margin: 0 auto; max-width: 100%; height: auto;" />
+<!-- 2x2 ANALYTICS GRID -->
+<table>
+  <tr>
+    <!-- TOP LEFT: GitHub Stats Card -->
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=StrayDogSyn&show_icons=true&hide_border=true&bg_color=0d1117&title_color=355E3B&text_color=c9d1d9&icon_color=355E3B&include_all_commits=true&count_private=true&custom_title=GitHub%20Statistics"
+           alt="GitHub Statistics"
+           width="400" />
+    </td>
+    <!-- TOP RIGHT: Contribution Streak Card -->
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=StrayDogSyn&hide_border=true&background=0d1117&stroke=355E3B&ring=355E3B&fire=FF6B35&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=355E3B&sideLabels=355E3B&dates=8b949e"
+           alt="Contribution Streak"
+           width="400" />
+    </td>
+  </tr>
+  <tr>
+    <!-- BOTTOM LEFT: Top Languages Donut Chart -->
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrayDogSyn&layout=donut&hide_border=true&bg_color=0d1117&title_color=355E3B&text_color=c9d1d9&langs_count=6"
+           alt="Top Languages by Repository"
+           width="400" />
+    </td>
+    <!-- BOTTOM RIGHT: Language Distribution Compact Bar -->
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrayDogSyn&layout=compact&hide_border=true&bg_color=0d1117&title_color=355E3B&text_color=c9d1d9&langs_count=8&card_width=400"
+           alt="Language Distribution"
+           width="400" />
+    </td>
+  </tr>
+</table>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=StrayDogSyn&theme=github_dark"
-       alt="Repository Language Distribution"
-       title="Displays languages used across all repositories"
-       width="400" height="180"
-       style="display: block; margin: 10px auto; max-width: 100%; height: auto;" />
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=StrayDogSyn&theme=github_dark"
-       alt="Commit Language Breakdown"
-       title="Shows languages by commit frequency"
-       width="400" height="180"
-       style="display: block; margin: 0 auto; max-width: 100%; height: auto;" />
+<!-- ACTIVITY BADGES ROW -->
+<p>
+  <img src="https://img.shields.io/github/commit-activity/m/StrayDogSyn/StrayDogSyn?style=for-the-badge&logo=github&logoColor=white&color=355E3B&labelColor=1e1e1e&label=Monthly%20Commits" alt="Monthly Commits" />
+  <img src="https://img.shields.io/github/last-commit/StrayDogSyn/StrayDogSyn?style=for-the-badge&logo=github&logoColor=white&color=355E3B&labelColor=1e1e1e&label=Last%20Commit" alt="Last Commit" />
+  <img src="https://img.shields.io/github/repo-size/StrayDogSyn/StrayDogSyn?style=for-the-badge&logo=github&logoColor=white&color=355E3B&labelColor=1e1e1e" alt="Repo Size" />
+</p>
 
 </div>
 
-<div align="center">
-
-  <!-- GitHub Streak Statistics -->
-  <img src="https://streak-stats.demolab.com/?user=StrayDogSyn&hide_border=true&background=0d1117&stroke=355E3B&ring=355E3B&fire=FF6B35&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=355E3B&sideLabels=355E3B&dates=8b949e"
-       alt="Contribution Streak"
-       title="Displays current and longest contribution streak"
-       width="400" height="180"
-       style="display: block; margin: 10px auto; max-width: 100%; height: auto;" />
-
-</div>
-
+<!-- TROPHIES: Collapsible Section for Graceful Degradation -->
 <details>
-  <summary align="center"><b>🏆 GitHub Achievement Trophies</b></summary>
+  <summary align="center"><b>🏆 GitHub Achievement Trophies</b> <sub>(click to expand)</sub></summary>
   <br>
-  <p align="center">
+  <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=StrayDogSyn&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"
          alt="Profile Trophies"
-         title="Displays earned GitHub profile achievements"
-         width="800" height="180"
-         style="display: block; margin: 0 auto; max-width: 100%; height: auto;" />
-  </p>
+         width="800" />
+    <br>
+    <sub><i>Trophy images may occasionally be unavailable due to API rate limits.</i></sub>
+  </div>
 </details>
-
-<div align="center">
-
-  <!-- Shields.io badges -->
-  <img src="https://img.shields.io/github/commit-activity/m/StrayDogSyn/StrayDogSyn?style=for-the-badge&logo=github&logoColor=white&color=355E3B&labelColor=1e1e1e&label=Monthly%20Commits"
-       alt="Monthly Commits"
-       title="Monthly commit activity"
-       style="display: inline-block; margin: 5px; vertical-align: middle;" />
-
-  <img src="https://img.shields.io/github/last-commit/StrayDogSyn/StrayDogSyn?style=for-the-badge&logo=github&logoColor=white&color=355E3B&labelColor=1e1e1e&label=Last%20Commit"
-       alt="Last Commit"
-       title="Last commit timestamp"
-       style="display: inline-block; margin: 5px; vertical-align: middle;" />
-
-  <img src="https://img.shields.io/github/repo-size/StrayDogSyn/StrayDogSyn?style=for-the-badge&logo=github&logoColor=white&color=355E3B&labelColor=1e1e1e"
-       alt="Repo Size"
-       title="Repository size"
-       style="display: inline-block; margin: 5px; vertical-align: middle;" />
-
-</div>
 
 
 
