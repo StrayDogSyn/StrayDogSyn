@@ -305,12 +305,12 @@ Dynamic trivia application leveraging SuperHero API for content generation with 
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=StrayDogSyn&theme=github_dark&utcOffset=-5" alt="Productive Time" width="100%" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StrayDogSyn&theme=github_dark" alt="Profile Details" width="100%" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=StrayDogSyn&theme=dark&hide_border=true&bg_color=0d1117&title_color=355E3B&text_color=c9d1d9&layout=compact&border_radius=10" alt="Coding Activity" width="100%" />
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=StrayDogSyn&theme=github-compact&hide_border=true&bg_color=0d1117&color=355E3B&line=355E3B&point=FF6B35&area=true&area_color=355E3B" alt="Contribution Graph" width="100%" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StrayDogSyn&theme=github_dark" alt="Contribution Wave Graph" width="100%" />
     </td>
   </tr>
 </table>
