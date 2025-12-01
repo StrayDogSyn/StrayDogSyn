@@ -1,0 +1,99 @@
+name: Generate GitHub Metrics
+
+on:
+  # Run daily at midnight UTC
+  schedule:
+    - cron: "0 0 * * *"
+  # Run on push to main branch
+  push:
+    branches: ["main"]
+  # Allow manual trigger
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      # ======================
+      # CARD 1: GitHub Stats
+      # ======================
+      - name: Generate Stats Card
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics/github-stats.svg
+          user: StrayDogSyn
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: America/New_York
+          config_display: large
+          
+      # ======================
+      # CARD 2: Languages Donut
+      # ======================
+      - name: Generate Languages Card
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics/languages.svg
+          user: StrayDogSyn
+          template: classic
+          base: ""
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, cmake, shell
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
+          plugin_languages_indepth: yes
+          config_timezone: America/New_York
+
+      # ======================
+      # CARD 3: Contribution Calendar
+      # ======================
+      - name: Generate Contribution Calendar
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics/contributions.svg
+          user: StrayDogSyn
+          template: classic
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          config_timezone: America/New_York
+
+      # ======================
+      # CARD 4: Coding Habits
+      # ======================
+      - name: Generate Habits Card
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics/habits.svg
+          user: StrayDogSyn
+          template: classic
+          base: ""
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_trim: yes
+          config_timezone: America/New_York
+
+      # ======================
+      # CARD 5: Achievements
+      # ======================
+      - name: Generate Achievements Card
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics/achievements.svg
+          user: StrayDogSyn
+          template: classic
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          plugin_achievements_secrets: yes
+          plugin_achievements_display: detailed
+          config_timezone: America/New_York
