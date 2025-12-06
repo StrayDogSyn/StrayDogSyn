@@ -101,7 +101,7 @@ Applied AI Solutions Engineer building modern web applications with a focus on <
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://cdn.simpleicons.org/openai/355E3B" width="22" height="22" alt="AI" /> AI Content Engineer
+### <img src="https://cdn.simpleicons.org/anthropic/355E3B" width="22" height="22" alt="AI" /> AI Content Engineer
 
 **Outlier AI** | *October 2024 - Present*
 
