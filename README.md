@@ -331,17 +331,41 @@ Dynamic trivia application leveraging SuperHero API for content generation with 
 
 ### GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=StrayDogSyn&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=StrayDogSyn&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&row=2&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" width="100%" />
+</a>
 
 ---
 
----
+### Platform Certifications & Achievements
 
-### HackerRank Achievement
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.hackerrank.com/straydogsyndica1">
+        <img src="https://img.shields.io/badge/HackerRank-Python_Certified-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Python" />
+      </a>
+      <br><br>
+      <img src="https://img.shields.io/badge/⭐_5_Star-Problem_Solving-00EA64?style=flat-square&labelColor=1e1e1e" alt="5 Star Problem Solving" />
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.codewars.com/users/StrayDogSyn">
+        <img src="https://img.shields.io/badge/CodeWars-6_kyu-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="CodeWars" />
+      </a>
+      <br><br>
+      <img src="https://img.shields.io/badge/Honor-Algorithm_Specialist-B1361E?style=flat-square&labelColor=1e1e1e" alt="Algorithm Specialist" />
+    </td>
+    <td align="center" width="33%">
+      <a href="https://leetcode.com/StrayDogSyn">
+        <img src="https://img.shields.io/badge/LeetCode-Active-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+      </a>
+      <br><br>
+      <img src="https://img.shields.io/badge/Focus-Data_Structures-FFA116?style=flat-square&labelColor=1e1e1e" alt="Data Structures" />
+    </td>
+  </tr>
+</table>
 
-[![HackerRank Python Certificate](https://raw.githubusercontent.com/StrayDogSyn/StrayDogSyn/main/hackerrank-python.svg)](https://www.hackerrank.com/straydogsyndica1)
-
-</div>
+  </div>
 </details>
 
 ---
