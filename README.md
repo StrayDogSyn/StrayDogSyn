@@ -69,7 +69,7 @@ About Me
 
 ![Status](https://img.shields.io/badge/Status-Full--Time_Student_%7C_Contractor-355E3B?style=for-the-badge&labelColor=1e1e1e)
 ![Availability](https://img.shields.io/badge/Freelance-Available-28a745?style=for-the-badge&labelColor=1e1e1e)
-![GPA](https://img.shields.io/badge/GPA-3.40%2F4.0-355E3B?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1e1e1e)
+![GPA](https://img.shields.io/badge/GPA-3.49%2F4.0-355E3B?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1e1e1e)
 
 <p align="center">
 Applied AI Solutions Engineer building modern web applications with a focus on <strong>social impact and justice reform</strong>. Currently serving as <strong>AI Content Engineer at Outlier AI</strong> while pursuing a Computer & Networking Technology degree at Community College of Rhode Island. Founder of <strong>StrayDog Syndications LLC</strong> and the <strong>Second Story Initiative</strong>—leveraging technology to bridge the "Digital Cliff" for justice-impacted individuals.
@@ -343,7 +343,7 @@ Dynamic trivia application leveraging SuperHero API for content generation with 
 ### <img src="https://cdn.simpleicons.org/googlescholar/355E3B" width="22" height="22" alt="Education" /> Formal Education
 
 **Associate in Applied Science — Computer & Networking Technology**  
-*Community College of Rhode Island* | **In Progress** | **GPA: 3.40**
+*Community College of Rhode Island* | **In Progress** | **GPA: 3.49**
 
 ![Overall Progress](https://img.shields.io/badge/Overall_Progress-75%25_Credits-355E3B?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1e1e1e)
 ![Requirements](https://img.shields.io/badge/Requirements-22%25_Complete-355E3B?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1e1e1e)
