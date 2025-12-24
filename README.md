@@ -544,11 +544,11 @@ I'm actively seeking roles where I can contribute to building innovative, scalab
 
 <table>
   <tr>
-    <td align="center" width="20%"><img src="https://api.iconify.design/tabler/code.svg?color=%23355E3B" width="32" height="32" /><br><sub><strong>Modern Tech</strong></sub></td>
-    <td align="center" width="20%"><img src="https://api.iconify.design/tabler/brain.svg?color=%23355E3B" width="32" height="32" /><br><sub><strong>CS Fundamentals</strong></sub></td>
-    <td align="center" width="20%"><img src="https://api.iconify.design/tabler/rocket.svg?color=%23355E3B" width="32" height="32" /><br><sub><strong>Production Apps</strong></sub></td>
-    <td align="center" width="20%"><img src="https://api.iconify.design/tabler/book.svg?color=%23355E3B" width="32" height="32" /><br><sub><strong>Continuous Learning</strong></sub></td>
-    <td align="center" width="20%"><img src="https://api.iconify.design/tabler/heart-handshake.svg?color=%23355E3B" width="32" height="32" /><br><sub><strong>Social Impact</strong></sub></td>
+    <td align="center" width="20%"><img src="https://api.iconify.design/tabler/code.svg?color=%23355E3B" width="32" height="32" alt="Code" /><br><sub><strong>Modern Tech</strong></sub></td>
+    <td align="center" width="20%"><img src="https://api.iconify.design/tabler/brain.svg?color=%23355E3B" width="32" height="32" alt="Brain" /><br><sub><strong>CS Fundamentals</strong></sub></td>
+    <td align="center" width="20%"><img src="https://api.iconify.design/tabler/rocket.svg?color=%23355E3B" width="32" height="32" alt="Rocket" /><br><sub><strong>Production Apps</strong></sub></td>
+    <td align="center" width="20%"><img src="https://api.iconify.design/tabler/book.svg?color=%23355E3B" width="32" height="32" alt="Book" /><br><sub><strong>Continuous Learning</strong></sub></td>
+    <td align="center" width="20%"><img src="https://api.iconify.design/tabler/heart-handshake.svg?color=%23355E3B" width="32" height="32" alt="Heart" /><br><sub><strong>Social Impact</strong></sub></td>
   </tr>
 </table>
 
