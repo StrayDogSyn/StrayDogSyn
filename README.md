@@ -86,40 +86,50 @@ Applied AI Solutions Engineer building modern web applications with a focus on <
 
 <div align="center">
 
+[![Active Development](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=800&color=355E3B&center=true&vCenter=true&width=500&lines=Building+Production+AI+Agents;Teaching+MERN+Stack+Development;Pursuing+CompTIA+A%2B+Certification;Expanding+Second+Story+Initiative)](https://github.com/StrayDogSyn)
+
 <table>
   <tr>
-    <td align="center" width="50%">
-      <img src="https://api.iconify.design/tabler/brain.svg?color=%23355E3B" width="40" height="40" alt="AI" />
-      <br><br>
-      <strong>AI Agent Development</strong>
-      <br>
-      <sub>Building intelligent agents with LangChain, Claude API, and MongoDB for production deployments</sub>
+    <td align="center" width="25%">
+      <a href="https://github.com/StrayDogSyn?tab=repositories&q=ai&type=&language=&sort=">
+        <img src="https://api.iconify.design/tabler/robot.svg?color=%23355E3B" width="48" height="48" alt="AI" />
+        <br>
+        <strong>AI Agents</strong>
+        <br>
+        <sub>LangChain + Claude API</sub>
+      </a>
     </td>
-    <td align="center" width="50%">
-      <img src="https://api.iconify.design/tabler/certificate.svg?color=%23355E3B" width="40" height="40" alt="Cert" />
-      <br><br>
-      <strong>CompTIA A+ Certification</strong>
-      <br>
-      <sub>Hardware, networking, and security fundamentals through CCRI coursework</sub>
+    <td align="center" width="25%">
+      <a href="https://thelastmile.org">
+        <img src="https://api.iconify.design/tabler/chalkboard.svg?color=%23355E3B" width="48" height="48" alt="Teaching" />
+        <br>
+        <strong>TLM Instructor</strong>
+        <br>
+        <sub>MERN Stack + WDF</sub>
+      </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://api.iconify.design/tabler/code.svg?color=%23355E3B" width="40" height="40" alt="Code" />
-      <br><br>
-      <strong>Justice Through Code</strong>
-      <br>
-      <sub>Applied AI Solutions Engineering track with Columbia University</sub>
+    <td align="center" width="25%">
+      <a href="https://www.comptia.org/certifications/a">
+        <img src="https://api.iconify.design/tabler/certificate-2.svg?color=%23355E3B" width="48" height="48" alt="Cert" />
+        <br>
+        <strong>CompTIA A+</strong>
+        <br>
+        <sub>Hardware + Security</sub>
+      </a>
     </td>
-    <td align="center" width="50%">
-      <img src="https://api.iconify.design/tabler/heart-handshake.svg?color=%23355E3B" width="40" height="40" alt="Initiative" />
-      <br><br>
-      <strong>Second Story Initiative</strong>
-      <br>
-      <sub>Expanding technology pathways for justice-impacted individuals</sub>
+    <td align="center" width="25%">
+      <a href="https://straydog-secondstory.org">
+        <img src="https://api.iconify.design/tabler/heart-handshake.svg?color=%23355E3B" width="48" height="48" alt="Initiative" />
+        <br>
+        <strong>Second Story</strong>
+        <br>
+        <sub>Justice Reform Tech</sub>
+      </a>
     </td>
   </tr>
 </table>
+
+![Progress](https://img.shields.io/badge/Q1_2026_Goals-4_Active_Projects-355E3B?style=flat-square&labelColor=1e1e1e)
 
 </div>
 
@@ -157,9 +167,25 @@ Applied AI Solutions Engineer building modern web applications with a focus on <
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://api.iconify.design/tabler/users-group.svg?color=%23355E3B" width="22" height="22" alt="Teaching" /> Community Engagement Instructor
+### <img src="https://api.iconify.design/tabler/school.svg?color=%23355E3B" width="22" height="22" alt="Teaching" /> Remote Instructor
 
-**The Moth** | *November 2024 - Present*
+**[The Last Mile](https://thelastmile.org)** | *January 2026 - Present*
+
+<sub>▸ Teach MERN stack development to justice-impacted individuals</sub><br>
+<sub>▸ Deliver Web Development Fundamentals curriculum remotely</sub><br>
+<sub>▸ Mentor students through full-stack project development</sub><br>
+<sub>▸ Bridge the digital divide through technology education</sub>
+
+**Stack:** MongoDB, Express.js, React, Node.js
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### <img src="https://api.iconify.design/tabler/users-group.svg?color=%23355E3B" width="22" height="22" alt="Community" /> Community Engagement Instructor
+
+**[The Moth](https://themoth.org)** | *November 2024 - Present*
 
 <sub>▸ Design and deliver technical storytelling workshops</sub><br>
 <sub>▸ Create innovative curriculum integrating digital tools</sub><br>
@@ -167,6 +193,20 @@ Applied AI Solutions Engineer building modern web applications with a focus on <
 <sub>▸ Develop interactive learning modules</sub>
 
 **Stack:** Digital Presentation Tools, Interactive Media
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://api.iconify.design/tabler/building-community.svg?color=%23355E3B" width="22" height="22" alt="Founder" /> Founder & Lead Developer
+
+**StrayDog Syndications LLC** | *2024 - Present*
+
+<sub>▸ Architect and deploy full-stack web applications</sub><br>
+<sub>▸ Lead Second Story Initiative technology programs</sub><br>
+<sub>▸ Develop AI-integrated solutions for social impact</sub><br>
+<sub>▸ Manage open-source community projects</sub>
+
+**Stack:** Next.js, TypeScript, MongoDB, AI/ML APIs
 
 </td>
 </tr>
@@ -279,11 +319,9 @@ Dynamic trivia application leveraging SuperHero API for content generation with 
 <div align="center">
 
 <!-- GITHUB STREAK STATS -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=StrayDogSyn&theme=dark&hide_border=true&background=0d1117&ring=355E3B&fire=355E3B&currStreakLabel=355E3B&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681&border_radius=10">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=StrayDogSyn&theme=default&hide_border=true&ring=355E3B&fire=355E3B&currStreakLabel=355E3B&border_radius=10">
-  <img src="https://streak-stats.demolab.com?user=StrayDogSyn&theme=dark&hide_border=true&background=0d1117&ring=355E3B&fire=355E3B&currStreakLabel=355E3B&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681&border_radius=10" alt="GitHub Streak" width="100%" />
-</picture>
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=StrayDogSyn&theme=github-dark-blue&hide_border=true&background=0D1117&ring=355E3B&fire=355E3B&currStreakLabel=355E3B&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681" alt="GitHub Streak" width="100%" />
+</a>
 
 <!-- GITHUB STATS CARD -->
 <table>
@@ -343,41 +381,45 @@ Dynamic trivia application leveraging SuperHero API for content generation with 
 ### GitHub Trophies
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=StrayDogSyn&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&row=2&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=StrayDogSyn&theme=onestar&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=6" alt="GitHub Trophies" />
 </a>
+
+  </div>
+</details>
 
 ---
 
-### Platform Certifications & Achievements
+## <img src="https://api.iconify.design/tabler/trophy.svg?color=%23355E3B" width="26" height="26" alt="Competitive" /> Competitive Coding
+
+<div align="center">
 
 <table>
   <tr>
     <td align="center" width="33%">
       <a href="https://www.hackerrank.com/straydogsyndica1">
-        <img src="https://img.shields.io/badge/HackerRank-Python_Certified-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Python" />
+        <img src="https://img.shields.io/badge/HackerRank-Python_Certified-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
       </a>
-      <br><br>
-      <img src="https://img.shields.io/badge/5_Star-Problem_Solving-00EA64?style=flat-square&labelColor=1e1e1e" alt="5 Star Problem Solving" />
+      <br>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=StrayDogSyn&repo=HackerRank-Solutions&theme=dark&hide_border=true&bg_color=0d1117&title_color=00EA64&icon_color=00EA64" alt="HackerRank Repo" width="100%" />
     </td>
     <td align="center" width="33%">
       <a href="https://www.codewars.com/users/StrayDogSyn">
-        <img src="https://img.shields.io/badge/CodeWars-6_kyu-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="CodeWars" />
+        <img src="https://www.codewars.com/users/StrayDogSyn/badges/small" alt="CodeWars Badge" />
       </a>
       <br><br>
-      <img src="https://img.shields.io/badge/Honor-Algorithm_Specialist-B1361E?style=flat-square&labelColor=1e1e1e" alt="Algorithm Specialist" />
+      <img src="https://github.r2v.ch/codewars?user=StrayDogSyn&stroke=%23355E3B" alt="CodeWars Stats" />
     </td>
     <td align="center" width="33%">
       <a href="https://leetcode.com/StrayDogSyn">
         <img src="https://img.shields.io/badge/LeetCode-Active-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
       </a>
       <br><br>
-      <img src="https://img.shields.io/badge/Focus-Data_Structures-FFA116?style=flat-square&labelColor=1e1e1e" alt="Data Structures" />
+      <img src="https://leetcard.jacoblin.cool/StrayDogSyn?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats" width="100%" />
     </td>
   </tr>
 </table>
 
-  </div>
-</details>
+</div>
 
 ---
 
@@ -500,11 +542,15 @@ I'm actively seeking roles where I can contribute to building innovative, scalab
 
 ### What I Bring to the Table
 
-- Hands-on experience with modern web technologies and AI integration  
-- Strong foundation in computer science fundamentals and algorithms  
-- Practical experience deploying production applications  
-- Commitment to continuous learning and professional growth  
-- Passion for using technology to create meaningful social change  
+<table>
+  <tr>
+    <td align="center" width="20%"><img src="https://api.iconify.design/tabler/code.svg?color=%23355E3B" width="32" height="32" /><br><sub><strong>Modern Tech</strong></sub></td>
+    <td align="center" width="20%"><img src="https://api.iconify.design/tabler/brain.svg?color=%23355E3B" width="32" height="32" /><br><sub><strong>CS Fundamentals</strong></sub></td>
+    <td align="center" width="20%"><img src="https://api.iconify.design/tabler/rocket.svg?color=%23355E3B" width="32" height="32" /><br><sub><strong>Production Apps</strong></sub></td>
+    <td align="center" width="20%"><img src="https://api.iconify.design/tabler/book.svg?color=%23355E3B" width="32" height="32" /><br><sub><strong>Continuous Learning</strong></sub></td>
+    <td align="center" width="20%"><img src="https://api.iconify.design/tabler/heart-handshake.svg?color=%23355E3B" width="32" height="32" /><br><sub><strong>Social Impact</strong></sub></td>
+  </tr>
+</table>
 
 <br>
 
