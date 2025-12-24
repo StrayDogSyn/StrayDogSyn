@@ -82,6 +82,49 @@ Applied AI Solutions Engineer building modern web applications with a focus on <
 
 ---
 
+## <img src="https://api.iconify.design/tabler/flame.svg?color=%23355E3B" width="26" height="26" alt="Working On" /> Currently Working On
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://api.iconify.design/tabler/brain.svg?color=%23355E3B" width="40" height="40" alt="AI" />
+      <br><br>
+      <strong>AI Agent Development</strong>
+      <br>
+      <sub>Building intelligent agents with LangChain, Claude API, and MongoDB for production deployments</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://api.iconify.design/tabler/certificate.svg?color=%23355E3B" width="40" height="40" alt="Cert" />
+      <br><br>
+      <strong>CompTIA A+ Certification</strong>
+      <br>
+      <sub>Hardware, networking, and security fundamentals through CCRI coursework</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://api.iconify.design/tabler/code.svg?color=%23355E3B" width="40" height="40" alt="Code" />
+      <br><br>
+      <strong>Justice Through Code</strong>
+      <br>
+      <sub>Applied AI Solutions Engineering track with Columbia University</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://api.iconify.design/tabler/heart-handshake.svg?color=%23355E3B" width="40" height="40" alt="Initiative" />
+      <br><br>
+      <strong>Second Story Initiative</strong>
+      <br>
+      <sub>Expanding technology pathways for justice-impacted individuals</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 ## <img src="https://api.iconify.design/tabler/target-arrow.svg?color=%23355E3B" width="26" height="26" alt="Mission" /> Mission Statement
 
 <div align="center">
@@ -235,25 +278,48 @@ Dynamic trivia application leveraging SuperHero API for content generation with 
 
 <div align="center">
 
-<!-- GITHUB METRICS STATS CARD -->
+<!-- GITHUB STREAK STATS -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StrayDogSyn/StrayDogSyn/main/metrics/github-stats.svg">
-  <img src="https://raw.githubusercontent.com/StrayDogSyn/StrayDogSyn/main/metrics/github-stats.svg" alt="GitHub Metrics" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=StrayDogSyn&theme=dark&hide_border=true&background=0d1117&ring=355E3B&fire=355E3B&currStreakLabel=355E3B&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681&border_radius=10">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=StrayDogSyn&theme=default&hide_border=true&ring=355E3B&fire=355E3B&currStreakLabel=355E3B&border_radius=10">
+  <img src="https://streak-stats.demolab.com?user=StrayDogSyn&theme=dark&hide_border=true&background=0d1117&ring=355E3B&fire=355E3B&currStreakLabel=355E3B&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681&border_radius=10" alt="GitHub Streak" width="100%" />
+</picture>
+
+<!-- GITHUB STATS CARD -->
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=StrayDogSyn&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=355E3B&text_color=c9d1d9&icon_color=355E3B&include_all_commits=true&count_private=true&border_radius=10">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=StrayDogSyn&show_icons=true&theme=default&hide_border=true&title_color=355E3B&icon_color=355E3B&include_all_commits=true&count_private=true&border_radius=10">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=StrayDogSyn&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=355E3B&text_color=c9d1d9&icon_color=355E3B&include_all_commits=true&count_private=true&border_radius=10" alt="GitHub Stats" width="100%" />
+      </picture>
+    </td>
+    <td align="center" width="50%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=StrayDogSyn&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=355E3B&text_color=c9d1d9&icon_color=355E3B&langs_count=8&size_weight=0.5&count_weight=0.5&border_radius=10">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=StrayDogSyn&layout=compact&theme=default&hide_border=true&title_color=355E3B&icon_color=355E3B&langs_count=8&size_weight=0.5&count_weight=0.5&border_radius=10">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=StrayDogSyn&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=355E3B&text_color=c9d1d9&icon_color=355E3B&langs_count=8&size_weight=0.5&count_weight=0.5&border_radius=10" alt="Top Languages" width="100%" />
+      </picture>
+    </td>
+  </tr>
+</table>
+
+<!-- CONTRIBUTION GRAPH -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=StrayDogSyn&theme=github-dark&hide_border=true&bg_color=0d1117&color=c9d1d9&line=355E3B&point=355E3B&area=true&area_color=355E3B">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=StrayDogSyn&theme=github-light&hide_border=true&color=24292f&line=355E3B&point=355E3B&area=true&area_color=355E3B">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=StrayDogSyn&theme=github-dark&hide_border=true&bg_color=0d1117&color=c9d1d9&line=355E3B&point=355E3B&area=true&area_color=355E3B" alt="Contribution Graph" width="100%" />
 </picture>
 
 <!-- SUPPLEMENTARY ANALYTICS -->
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=StrayDogSyn&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=355E3B&text_color=c9d1d9&icon_color=355E3B&langs_count=8&size_weight=0.5&count_weight=0.5&custom_title=Most%20Used%20Languages&border_radius=10" alt="Top Languages" width="100%" />
-    </td>
-    <td align="center" width="50%">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=StrayDogSyn&theme=github_dark&utcOffset=-5" alt="Productive Time" width="100%" />
     </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StrayDogSyn&theme=github_dark" alt="Contribution Activity" width="100%" />
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=StrayDogSyn&theme=github_dark" alt="Repos Per Language" width="100%" />
     </td>
   </tr>
 </table>
