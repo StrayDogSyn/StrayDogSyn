@@ -1,5 +1,4 @@
-About Me
-=======
+# About Me
 
 <div align="center">
 
@@ -232,7 +231,7 @@ Dynamic trivia application leveraging SuperHero API for content generation with 
 
 ---
 
-## <img src="https://cdn.simpleicons.org/codechef/355E3B" width="26" height="26" alt="Achievements" /> Competitive Coding & Continuous Learning
+## <img src="https://cdn.simpleicons.org/codechef/355E3B" width="26" height="26" alt="Achievements" /> Competitive Coding
 
 <div align="center">
 
@@ -240,41 +239,37 @@ Dynamic trivia application leveraging SuperHero API for content generation with 
 <tr>
 <td align="center" width="33%">
 
-### <img src="https://cdn.simpleicons.org/codewars/B1361E" width="28" height="28" alt="CodeWars" /> CodeWars
-
-[![CodeWars Badge](https://img.shields.io/badge/Rank-6_kyu-B1361E?style=for-the-badge&logo=codewars&logoColor=white&labelColor=1e1e1e)](https://www.codewars.com/users/StrayDogSyn)
+### <img src="https://cdn.simpleicons.org/codewars/B1361E" width="24" height="24" alt="CodeWars" />
 
 [![CodeWars](https://github.r2v.ch/codewars?user=StrayDogSyn&stroke=%23B1361E&theme=dark)](https://www.codewars.com/users/StrayDogSyn)
 
-**Focus:** Algorithm Optimization
+**Algorithm Optimization**
 
 </td>
 <td align="center" width="33%">
 
-### <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="28" height="28" alt="LeetCode" /> LeetCode
-
-[![LeetCode Badge](https://img.shields.io/badge/Profile-Active-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1e1e1e)](https://leetcode.com/StrayDogSyn)
+### <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="24" height="24" alt="LeetCode" />
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/StrayDogSyn?theme=dark&font=JetBrains%20Mono&ext=contest&border=0&radius=10)](https://leetcode.com/StrayDogSyn)
 
-**Focus:** Data Structures
+**Data Structures**
 
 </td>
 <td align="center" width="33%">
 
-### <img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="28" height="28" alt="HackerRank" /> HackerRank
+### <img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="24" height="24" alt="HackerRank" />
 
-[![HackerRank Badge](https://img.shields.io/badge/Python-Certified-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1e1e1e)](https://www.hackerrank.com/straydogsyndica1)
+[![HackerRank](https://img.shields.io/badge/5★_Problem_Solving-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/straydogsyndica1)
 
-[![Python Certificate](https://img.shields.io/badge/5★_Problem_Solving-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1e1e1e)](https://www.hackerrank.com/straydogsyndica1)
+[![Python](https://img.shields.io/badge/Python_Certified-00EA64?style=flat-square&logo=hackerrank&logoColor=white&labelColor=1e1e1e)](https://www.hackerrank.com/straydogsyndica1)
 
-**Focus:** Problem Solving
+**Problem Solving**
 
 </td>
 </tr>
 </table>
 
-### <img src="https://cdn.simpleicons.org/udemy/355E3B" width="24" height="24" alt="Learning" /> Learning Platforms
+### <img src="https://cdn.simpleicons.org/udemy/355E3B" width="22" height="22" alt="Learning" /> Continuous Learning
 
 ![MongoDB University](https://img.shields.io/badge/MongoDB_University-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
@@ -290,83 +285,109 @@ Dynamic trivia application leveraging SuperHero API for content generation with 
 
 <div align="center">
 
-<!-- GITHUB METRICS STATS CARD -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StrayDogSyn/StrayDogSyn/main/metrics/github-stats.svg">
-  <img src="https://raw.githubusercontent.com/StrayDogSyn/StrayDogSyn/main/metrics/github-stats.svg" alt="GitHub Metrics" width="100%" />
-</picture>
-
-<!-- SUPPLEMENTARY ANALYTICS -->
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=StrayDogSyn&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=355E3B&text_color=c9d1d9&icon_color=355E3B&langs_count=8&size_weight=0.5&count_weight=0.5&custom_title=Most%20Used%20Languages&border_radius=10" alt="Top Languages" width="100%" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=StrayDogSyn&theme=github_dark&utcOffset=-5" alt="Productive Time" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StrayDogSyn&theme=github_dark" alt="Contribution Activity" width="100%" />
-    </td>
-  </tr>
-</table>
-
-<!-- ACTIVITY BADGES -->
+<!-- CORE STATS BADGES -->
 <p>
   <img src="https://img.shields.io/github/followers/StrayDogSyn?style=for-the-badge&logo=github&logoColor=white&color=355E3B&labelColor=1e1e1e&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/StrayDogSyn?style=for-the-badge&logo=github&logoColor=white&color=355E3B&labelColor=1e1e1e&label=Total%20Stars" alt="Total Stars" />
-  <img src="https://img.shields.io/github/commit-activity/m/StrayDogSyn/StrayDogSyn?style=for-the-badge&logo=github&logoColor=white&color=355E3B&labelColor=1e1e1e&label=Monthly%20Commits" alt="Monthly Commits" />
-  <img src="https://img.shields.io/github/last-commit/StrayDogSyn/StrayDogSyn?style=for-the-badge&logo=github&logoColor=white&color=355E3B&labelColor=1e1e1e&label=Last%20Commit" alt="Last Commit" />
+  <img src="https://img.shields.io/github/stars/StrayDogSyn?style=for-the-badge&logo=github&logoColor=white&color=355E3B&labelColor=1e1e1e&label=Stars" alt="Stars" />
+  <img src="https://img.shields.io/github/commit-activity/m/StrayDogSyn/StrayDogSyn?style=for-the-badge&logo=github&logoColor=white&color=355E3B&labelColor=1e1e1e&label=Monthly" alt="Monthly Commits" />
+  <img src="https://img.shields.io/github/last-commit/StrayDogSyn/StrayDogSyn?style=for-the-badge&logo=github&logoColor=white&color=355E3B&labelColor=1e1e1e&label=Latest" alt="Last Commit" />
 </p>
 
-</div>
-
-<!-- ACHIEVEMENTS & TROPHIES -->
-<details>
-  <summary align="center"><b>🏆 GitHub Achievements & Trophies</b> <sub>(click to expand)</sub></summary>
-  <br>
-  <div align="center">
-
-### GitHub Trophies
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=StrayDogSyn&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&row=2&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" width="100%" />
+<!-- CONTRIBUTION STREAK -->
+<a href="https://github.com/StrayDogSyn">
+  <img src="https://streak-stats.demolab.com?user=StrayDogSyn&theme=dark&hide_border=true&background=0D1117&ring=355E3B&fire=FF6B35&currStreakLabel=355E3B&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681&border_radius=10" alt="GitHub Streak" width="520" />
 </a>
 
 ---
 
-### Platform Certifications & Achievements
+### <img src="https://cdn.simpleicons.org/databricks/355E3B" width="22" height="22" alt="Languages" /> Languages & Technologies
 
+<!-- LANGUAGE BREAKDOWN - DESCENDING BAR VISUALIZATION -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrayDogSyn&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=355E3B&text_color=c9d1d9&langs_count=8&card_width=445" alt="Top Languages" />
+
+<br><br>
+
+<!-- DETAILED LANGUAGE BARS -->
 <table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://www.hackerrank.com/straydogsyndica1">
-        <img src="https://img.shields.io/badge/HackerRank-Python_Certified-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Python" />
-      </a>
-      <br><br>
-      <img src="https://img.shields.io/badge/⭐_5_Star-Problem_Solving-00EA64?style=flat-square&labelColor=1e1e1e" alt="5 Star Problem Solving" />
-    </td>
-    <td align="center" width="33%">
-      <a href="https://www.codewars.com/users/StrayDogSyn">
-        <img src="https://img.shields.io/badge/CodeWars-6_kyu-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="CodeWars" />
-      </a>
-      <br><br>
-      <img src="https://img.shields.io/badge/Honor-Algorithm_Specialist-B1361E?style=flat-square&labelColor=1e1e1e" alt="Algorithm Specialist" />
-    </td>
-    <td align="center" width="33%">
-      <a href="https://leetcode.com/StrayDogSyn">
-        <img src="https://img.shields.io/badge/LeetCode-Active-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-      </a>
-      <br><br>
-      <img src="https://img.shields.io/badge/Focus-Data_Structures-FFA116?style=flat-square&labelColor=1e1e1e" alt="Data Structures" />
-    </td>
-  </tr>
+<tr>
+<td width="100%">
+
+```text
+JavaScript   ████████████████████████████░░   71.66%
+Jupyter      █████░░░░░░░░░░░░░░░░░░░░░░░░░   15.54%
+TypeScript   ███░░░░░░░░░░░░░░░░░░░░░░░░░░░    9.55%
+Python       █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    3.07%
+PowerShell   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    0.11%
+SCSS         ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    0.05%
+```
+
+</td>
+</tr>
 </table>
 
-  </div>
-</details>
+---
+
+### <img src="https://cdn.simpleicons.org/activitypub/355E3B" width="22" height="22" alt="Activity" /> Contribution Activity
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StrayDogSyn&theme=github_dark" alt="Contribution Graph" width="100%" />
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=StrayDogSyn&theme=github_dark" alt="Repos per Language" width="100%" />
+</td>
+<td align="center" width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=StrayDogSyn&theme=github_dark&utcOffset=-5" alt="Productive Time" width="100%" />
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## <img src="https://cdn.simpleicons.org/medal/355E3B" width="26" height="26" alt="Trophies" /> Achievements & Trophies
+
+<div align="center">
+
+<!-- GITHUB TROPHIES - PREMIUM DISPLAY -->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=StrayDogSyn&theme=onestar&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" alt="GitHub Trophies" />
+</a>
+
+<br>
+
+<!-- PLATFORM ACHIEVEMENTS -->
+<table>
+<tr>
+<td align="center" width="33%">
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/straydogsyndica1)
+
+![Python Certified](https://img.shields.io/badge/Python-Certified-00EA64?style=flat-square&labelColor=1e1e1e)
+![5 Star](https://img.shields.io/badge/⭐_5_Star-Problem_Solving-00EA64?style=flat-square&labelColor=1e1e1e)
+
+</td>
+<td align="center" width="33%">
+
+[![CodeWars](https://img.shields.io/badge/CodeWars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/StrayDogSyn)
+
+![6 kyu](https://img.shields.io/badge/Rank-6_kyu-B1361E?style=flat-square&labelColor=1e1e1e)
+![Honor](https://img.shields.io/badge/Honor-Algorithm_Specialist-B1361E?style=flat-square&labelColor=1e1e1e)
+
+</td>
+<td align="center" width="33%">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/StrayDogSyn)
+
+![Active](https://img.shields.io/badge/Status-Active-FFA116?style=flat-square&labelColor=1e1e1e)
+![Focus](https://img.shields.io/badge/Focus-Data_Structures-FFA116?style=flat-square&labelColor=1e1e1e)
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -374,7 +395,7 @@ Dynamic trivia application leveraging SuperHero API for content generation with 
 
 <div align="center">
 
-### <img src="https://cdn.simpleicons.org/googlescholar/355E3B" width="22" height="22" alt="Education" /> Formal Education
+### Formal Education
 
 **Associate in Applied Science — Computer & Networking Technology**  
 *Community College of Rhode Island* | **In Progress** | **GPA: 3.49**
@@ -404,7 +425,7 @@ Dynamic trivia application leveraging SuperHero API for content generation with 
 ### Professional Certifications
 
 <details open>
-<summary><b><img src="https://cdn.simpleicons.org/openai/412991" width="18" height="18" alt="AI" /> AI/ML Specializations</b></summary>
+<summary><b><img src="https://cdn.simpleicons.org/openai/355E3B" width="18" height="18" alt="AI" /> AI/ML Specializations</b></summary>
 <br>
 
 - **Tech Pathways AI/ML Fundamentals** — Justice Through Code (2025)
@@ -415,7 +436,7 @@ Dynamic trivia application leveraging SuperHero API for content generation with 
 </details>
 
 <details open>
-<summary><b><img src="https://cdn.simpleicons.org/html5/007ACC" width="18" height="18" alt="Code" /> Full-Stack Development</b></summary>
+<summary><b><img src="https://cdn.simpleicons.org/html5/355E3B" width="18" height="18" alt="Code" /> Full-Stack Development</b></summary>
 <br>
 
 - **Web Development Fundamentals (WDF)** — The Last Mile Program (September 2024)
@@ -429,7 +450,7 @@ Dynamic trivia application leveraging SuperHero API for content generation with 
 </details>
 
 <details>
-<summary><b><img src="https://cdn.simpleicons.org/docker/3693F3" width="18" height="18" alt="Cloud" /> Cloud & DevOps</b></summary>
+<summary><b><img src="https://cdn.simpleicons.org/docker/355E3B" width="18" height="18" alt="Cloud" /> Cloud & DevOps</b></summary>
 <br>
 
 - **AWS Certified Cloud Practitioner** — Amazon (In Progress)
@@ -439,7 +460,7 @@ Dynamic trivia application leveraging SuperHero API for content generation with 
 </details>
 
 <details>
-<summary><b><img src="https://cdn.simpleicons.org/databricks/E97627" width="18" height="18" alt="Data" /> Data & Analytics</b></summary>
+<summary><b><img src="https://cdn.simpleicons.org/databricks/355E3B" width="18" height="18" alt="Data" /> Data & Analytics</b></summary>
 <br>
 
 - **MongoDB University Certification** — MongoDB (2024)
