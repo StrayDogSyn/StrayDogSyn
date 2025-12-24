@@ -329,51 +329,51 @@ Dynamic trivia application leveraging SuperHero API for content generation with 
 
 ---
 
-### <img src="https://api.iconify.design/tabler/code.svg?color=%23355E3B" width="22" height="22" alt="Languages" /> Most Used Languages
+### <img src="https://api.iconify.design/tabler/code.svg?color=%23355E3B" width="24" height="24" alt="Languages" /> Most Used Languages
 
-<!-- PREMIUM LANGUAGE PROFICIENCY CHART -->
+<!-- CLEAN LANGUAGE PROFICIENCY BARS -->
 <table>
   <tr>
-    <td align="right" width="120"><strong>Python</strong></td>
-    <td width="40" align="center"><img src="https://img.shields.io/badge/-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="20" /></td>
-    <td width="280"><img src="https://img.shields.io/badge/%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91-3776AB?style=flat-square" alt="35%" height="20" /></td>
-    <td width="50" align="right"><code>35%</code></td>
+    <td width="100" align="right"><strong>Python</strong></td>
+    <td width="350"><img src="https://img.shields.io/badge/35%25-3776AB?style=flat-square&labelColor=3776AB" height="22" /><img src="https://img.shields.io/badge/-%232d333b?style=flat-square&labelColor=2d333b" height="22" width="227" /></td>
+    <td width="60" align="right"><code>35%</code></td>
+    <td width="50" align="center"><img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" height="36" /></td>
   </tr>
   <tr>
     <td align="right"><strong>TypeScript</strong></td>
-    <td align="center"><img src="https://img.shields.io/badge/-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" height="20" /></td>
-    <td><img src="https://img.shields.io/badge/%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91-3178C6?style=flat-square" alt="33%" height="20" /></td>
+    <td><img src="https://img.shields.io/badge/33%25-3178C6?style=flat-square&labelColor=3178C6" height="22" /><img src="https://img.shields.io/badge/-%232d333b?style=flat-square&labelColor=2d333b" height="22" width="234" /></td>
     <td align="right"><code>33%</code></td>
+    <td align="center"><img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6" height="36" /></td>
   </tr>
   <tr>
     <td align="right"><strong>JavaScript</strong></td>
-    <td align="center"><img src="https://img.shields.io/badge/-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" height="20" /></td>
-    <td><img src="https://img.shields.io/badge/%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91-F7DF1E?style=flat-square" alt="17%" height="20" /></td>
+    <td><img src="https://img.shields.io/badge/17%25-F7DF1E?style=flat-square&labelColor=F7DF1E" height="22" /><img src="https://img.shields.io/badge/-%232d333b?style=flat-square&labelColor=2d333b" height="22" width="290" /></td>
     <td align="right"><code>17%</code></td>
+    <td align="center"><img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="36" /></td>
   </tr>
   <tr>
     <td align="right"><strong>Jupyter</strong></td>
-    <td align="center"><img src="https://img.shields.io/badge/-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" height="20" /></td>
-    <td><img src="https://img.shields.io/badge/%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91-F37626?style=flat-square" alt="8%" height="20" /></td>
+    <td><img src="https://img.shields.io/badge/8%25-F37626?style=flat-square&labelColor=F37626" height="22" /><img src="https://img.shields.io/badge/-%232d333b?style=flat-square&labelColor=2d333b" height="22" width="322" /></td>
     <td align="right"><code>8%</code></td>
+    <td align="center"><img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626" height="36" /></td>
   </tr>
   <tr>
     <td align="right"><strong>HTML</strong></td>
-    <td align="center"><img src="https://img.shields.io/badge/-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" height="20" /></td>
-    <td><img src="https://img.shields.io/badge/%E2%96%93%E2%96%93%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91-E34F26?style=flat-square" alt="4%" height="20" /></td>
+    <td><img src="https://img.shields.io/badge/4%25-E34F26?style=flat-square&labelColor=E34F26" height="22" /><img src="https://img.shields.io/badge/-%232d333b?style=flat-square&labelColor=2d333b" height="22" width="336" /></td>
     <td align="right"><code>4%</code></td>
+    <td align="center"><img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26" height="36" /></td>
   </tr>
   <tr>
     <td align="right"><strong>CSS</strong></td>
-    <td align="center"><img src="https://img.shields.io/badge/-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" height="20" /></td>
-    <td><img src="https://img.shields.io/badge/%E2%96%93%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91-1572B6?style=flat-square" alt="2%" height="20" /></td>
+    <td><img src="https://img.shields.io/badge/2%25-1572B6?style=flat-square&labelColor=1572B6" height="22" /><img src="https://img.shields.io/badge/-%232d333b?style=flat-square&labelColor=2d333b" height="22" width="343" /></td>
     <td align="right"><code>2%</code></td>
+    <td align="center"><img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6" height="36" /></td>
   </tr>
   <tr>
     <td align="right"><strong>Shell</strong></td>
-    <td align="center"><img src="https://img.shields.io/badge/-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Shell" height="20" /></td>
-    <td><img src="https://img.shields.io/badge/%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91-4EAA25?style=flat-square" alt="1%" height="20" /></td>
+    <td><img src="https://img.shields.io/badge/1%25-4EAA25?style=flat-square&labelColor=4EAA25" height="22" /><img src="https://img.shields.io/badge/-%232d333b?style=flat-square&labelColor=2d333b" height="22" width="346" /></td>
     <td align="right"><code>1%</code></td>
+    <td align="center"><img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25" height="36" /></td>
   </tr>
 </table>
 
