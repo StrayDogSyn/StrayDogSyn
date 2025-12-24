@@ -322,46 +322,18 @@ Dynamic trivia application leveraging SuperHero API for content generation with 
 
 <div align="center">
 
-<!-- GITHUB STREAK STATS -->
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=StrayDogSyn&theme=github-dark-blue&hide_border=true&background=0D1117&ring=355E3B&fire=355E3B&currStreakLabel=355E3B&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681" alt="GitHub Streak" width="100%" />
-</a>
+<!-- PRE-GENERATED METRICS - Always renders reliably -->
+<img src="https://raw.githubusercontent.com/StrayDogSyn/StrayDogSyn/main/metrics/github-stats.svg" alt="GitHub Stats" width="100%" />
 
-<!-- GITHUB STATS CARD -->
+<img src="https://raw.githubusercontent.com/StrayDogSyn/StrayDogSyn/main/metrics/contributions.svg" alt="Contributions" width="100%" />
+
 <table>
   <tr>
     <td align="center" width="50%">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=StrayDogSyn&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=355E3B&text_color=c9d1d9&icon_color=355E3B&include_all_commits=true&count_private=true&border_radius=10">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=StrayDogSyn&show_icons=true&theme=default&hide_border=true&title_color=355E3B&icon_color=355E3B&include_all_commits=true&count_private=true&border_radius=10">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=StrayDogSyn&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=355E3B&text_color=c9d1d9&icon_color=355E3B&include_all_commits=true&count_private=true&border_radius=10" alt="GitHub Stats" width="100%" />
-      </picture>
+      <img src="https://raw.githubusercontent.com/StrayDogSyn/StrayDogSyn/main/metrics/languages.svg" alt="Languages" width="100%" />
     </td>
     <td align="center" width="50%">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=StrayDogSyn&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=355E3B&text_color=c9d1d9&icon_color=355E3B&langs_count=8&size_weight=0.5&count_weight=0.5&border_radius=10">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=StrayDogSyn&layout=compact&theme=default&hide_border=true&title_color=355E3B&icon_color=355E3B&langs_count=8&size_weight=0.5&count_weight=0.5&border_radius=10">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=StrayDogSyn&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=355E3B&text_color=c9d1d9&icon_color=355E3B&langs_count=8&size_weight=0.5&count_weight=0.5&border_radius=10" alt="Top Languages" width="100%" />
-      </picture>
-    </td>
-  </tr>
-</table>
-
-<!-- CONTRIBUTION GRAPH -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=StrayDogSyn&theme=github-dark&hide_border=true&bg_color=0d1117&color=c9d1d9&line=355E3B&point=355E3B&area=true&area_color=355E3B">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=StrayDogSyn&theme=github-light&hide_border=true&color=24292f&line=355E3B&point=355E3B&area=true&area_color=355E3B">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=StrayDogSyn&theme=github-dark&hide_border=true&bg_color=0d1117&color=c9d1d9&line=355E3B&point=355E3B&area=true&area_color=355E3B" alt="Contribution Graph" width="100%" />
-</picture>
-
-<!-- SUPPLEMENTARY ANALYTICS -->
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=StrayDogSyn&theme=github_dark&utcOffset=-5" alt="Productive Time" width="100%" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=StrayDogSyn&theme=github_dark" alt="Repos Per Language" width="100%" />
+      <img src="https://raw.githubusercontent.com/StrayDogSyn/StrayDogSyn/main/metrics/habits.svg" alt="Coding Habits" width="100%" />
     </td>
   </tr>
 </table>
@@ -382,11 +354,7 @@ Dynamic trivia application leveraging SuperHero API for content generation with 
   <br>
   <div align="center">
 
-### GitHub Trophies
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=StrayDogSyn&theme=onestar&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=6" alt="GitHub Trophies" />
-</a>
+<img src="https://raw.githubusercontent.com/StrayDogSyn/StrayDogSyn/main/metrics/achievements.svg" alt="GitHub Achievements" width="100%" />
 
   </div>
 </details>
@@ -397,18 +365,23 @@ Dynamic trivia application leveraging SuperHero API for content generation with 
 
 <div align="center">
 
+<!-- LEETCODE ACTIVITY HEATMAP - Shows continuous progress across all platforms -->
+<a href="https://leetcode.com/StrayDogSyn">
+  <img src="https://leetcard.jacoblin.cool/StrayDogSyn?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Activity" width="100%" />
+</a>
+
+<br>
+
+<!-- PLATFORM BADGES -->
 <table>
   <tr>
     <td align="center" width="33%">
       <a href="https://www.hackerrank.com/straydogsyndica1">
-        <img src="https://img.shields.io/badge/HackerRank-Python_Certified-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+        <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
       </a>
       <br><br>
-      <img src="https://img.shields.io/badge/5_Star-Problem_Solving-00EA64?style=flat-square&labelColor=1e1e1e" alt="5 Star" />
-      <br>
-      <img src="https://img.shields.io/badge/Python-Gold_Badge-00EA64?style=flat-square&labelColor=1e1e1e" alt="Python Badge" />
-      <br>
-      <img src="https://img.shields.io/badge/SQL-Silver_Badge-00EA64?style=flat-square&labelColor=1e1e1e" alt="SQL Badge" />
+      <img src="https://img.shields.io/badge/Python-Certified-00EA64?style=flat-square&labelColor=1e1e1e" alt="Python Certified" />
+      <img src="https://img.shields.io/badge/5★-Problem_Solving-00EA64?style=flat-square&labelColor=1e1e1e" alt="5 Star" />
     </td>
     <td align="center" width="33%">
       <a href="https://www.codewars.com/users/StrayDogSyn">
@@ -419,10 +392,11 @@ Dynamic trivia application leveraging SuperHero API for content generation with 
     </td>
     <td align="center" width="33%">
       <a href="https://leetcode.com/StrayDogSyn">
-        <img src="https://img.shields.io/badge/LeetCode-Active-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
       </a>
       <br><br>
-      <img src="https://leetcard.jacoblin.cool/StrayDogSyn?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats" width="100%" />
+      <img src="https://img.shields.io/badge/26-Problems_Solved-FFA116?style=flat-square&labelColor=1e1e1e" alt="Problems Solved" />
+      <img src="https://img.shields.io/badge/Data_Structures-Focus-FFA116?style=flat-square&labelColor=1e1e1e" alt="Focus" />
     </td>
   </tr>
 </table>
