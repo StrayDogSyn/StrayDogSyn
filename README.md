@@ -157,7 +157,7 @@ Applied AI Solutions Engineer building modern web applications with a focus on <
 
 ### <img src="https://api.iconify.design/tabler/brain.svg?color=%23355E3B" width="22" height="22" alt="AI" /> AI Content Engineer
 
-**Outlier AI** | *October 2024 - Present*
+**[Outlier AI](https://outlier.ai)** | *October 2024 - Present*
 
 <sub>▸ Fine-tune and validate Large Language Model outputs for production</sub><br>
 <sub>▸ Develop comprehensive testing frameworks improving model accuracy</sub><br>
@@ -201,7 +201,7 @@ Applied AI Solutions Engineer building modern web applications with a focus on <
 
 ### <img src="https://api.iconify.design/tabler/building-community.svg?color=%23355E3B" width="22" height="22" alt="Founder" /> Founder & Lead Developer
 
-**StrayDog Syndications LLC** | *2024 - Present*
+**[StrayDog Syndications LLC](https://straydog-syndications-llc.com)** | *2024 - Present*
 
 <sub>▸ Architect and deploy full-stack web applications</sub><br>
 <sub>▸ Lead Second Story Initiative technology programs</sub><br>
