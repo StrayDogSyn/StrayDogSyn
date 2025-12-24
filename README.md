@@ -1,4 +1,4 @@
-# About Me
+![1766541382108](image/README/1766541382108.png)# About Me
 
 <div align="center">
 
@@ -322,21 +322,17 @@ Dynamic trivia application leveraging SuperHero API for content generation with 
 
 <div align="center">
 
-<!-- PRE-GENERATED METRICS - Always renders reliably -->
+<!-- PRE-GENERATED METRICS -->
 <img src="https://raw.githubusercontent.com/StrayDogSyn/StrayDogSyn/main/metrics/github-stats.svg" alt="GitHub Stats" width="100%" />
 
 <img src="https://raw.githubusercontent.com/StrayDogSyn/StrayDogSyn/main/metrics/contributions.svg" alt="Contributions" width="100%" />
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/StrayDogSyn/StrayDogSyn/main/metrics/languages.svg" alt="Languages" width="100%" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/StrayDogSyn/StrayDogSyn/main/metrics/habits.svg" alt="Coding Habits" width="100%" />
-    </td>
-  </tr>
-</table>
+---
+
+### <img src="https://api.iconify.design/tabler/code.svg?color=%23355E3B" width="22" height="22" alt="Languages" /> Most Used Languages
+
+<!-- DESCENDING BAR CHART VISUALIZATION -->
+<img src="https://raw.githubusercontent.com/StrayDogSyn/StrayDogSyn/main/metrics/languages.svg" alt="Languages" width="100%" />
 
 <!-- ACTIVITY BADGES -->
 <p>
@@ -348,56 +344,55 @@ Dynamic trivia application leveraging SuperHero API for content generation with 
 
 </div>
 
-<!-- ACHIEVEMENTS & TROPHIES -->
-<details>
-  <summary align="center"><b>GitHub Achievements & Trophies</b> <sub>(click to expand)</sub></summary>
-  <br>
-  <div align="center">
-
-<img src="https://raw.githubusercontent.com/StrayDogSyn/StrayDogSyn/main/metrics/achievements.svg" alt="GitHub Achievements" width="100%" />
-
-  </div>
-</details>
-
 ---
 
 ## <img src="https://api.iconify.design/tabler/trophy.svg?color=%23355E3B" width="26" height="26" alt="Competitive" /> Competitive Coding
 
 <div align="center">
 
-<!-- LEETCODE ACTIVITY HEATMAP - Shows continuous progress across all platforms -->
-<a href="https://leetcode.com/StrayDogSyn">
-  <img src="https://leetcard.jacoblin.cool/StrayDogSyn?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Activity" width="100%" />
-</a>
-
-<br>
-
-<!-- PLATFORM BADGES -->
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://www.hackerrank.com/straydogsyndica1">
-        <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-      </a>
-      <br><br>
-      <img src="https://img.shields.io/badge/Python-Certified-00EA64?style=flat-square&labelColor=1e1e1e" alt="Python Certified" />
-      <img src="https://img.shields.io/badge/5★-Problem_Solving-00EA64?style=flat-square&labelColor=1e1e1e" alt="5 Star" />
-    </td>
-    <td align="center" width="33%">
       <a href="https://www.codewars.com/users/StrayDogSyn">
-        <img src="https://www.codewars.com/users/StrayDogSyn/badges/small" alt="CodeWars Badge" />
+        <img src="https://api.iconify.design/tabler/code.svg?color=%23B1361E" width="32" height="32" alt="CodeWars" />
       </a>
-      <br><br>
-      <img src="https://github.r2v.ch/codewars?user=StrayDogSyn&stroke=%23355E3B" alt="CodeWars Stats" />
+      <br>
+      <a href="https://www.codewars.com/users/StrayDogSyn">
+        <img src="https://github.r2v.ch/codewars?user=StrayDogSyn&stroke=%23B1361E&theme=dark" alt="CodeWars Stats" />
+      </a>
+      <br>
+      <strong>Algorithm Optimization</strong>
     </td>
     <td align="center" width="33%">
       <a href="https://leetcode.com/StrayDogSyn">
-        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+        <img src="https://api.iconify.design/tabler/brand-leetcode.svg?color=%23FFA116" width="32" height="32" alt="LeetCode" />
+      </a>
+      <br>
+      <a href="https://leetcode.com/StrayDogSyn">
+        <img src="https://leetcard.jacoblin.cool/StrayDogSyn?theme=dark&font=JetBrains%20Mono&ext=contest&border=0&radius=10" alt="LeetCode Stats" />
+      </a>
+      <br>
+      <strong>Data Structures</strong>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.hackerrank.com/straydogsyndica1">
+        <img src="https://api.iconify.design/tabler/brand-hackerrank.svg?color=%2300EA64" width="32" height="32" alt="HackerRank" />
       </a>
       <br><br>
-      <img src="https://img.shields.io/badge/26-Problems_Solved-FFA116?style=flat-square&labelColor=1e1e1e" alt="Problems Solved" />
-      <img src="https://img.shields.io/badge/Data_Structures-Focus-FFA116?style=flat-square&labelColor=1e1e1e" alt="Focus" />
+      <a href="https://www.hackerrank.com/straydogsyndica1">
+        <img src="https://img.shields.io/badge/5%E2%98%85-Problem_Solving-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="5 Star Problem Solving" />
+      </a>
+      <br>
+      <a href="https://www.hackerrank.com/straydogsyndica1">
+        <img src="https://img.shields.io/badge/Python-Certified-00EA64?style=flat-square&logo=hackerrank&logoColor=white&labelColor=1e1e1e" alt="Python Certified" />
+      </a>
+      <br>
+      <strong>Problem Solving</strong>
     </td>
+  </tr>
+</table>
+
+</div>
   </tr>
 </table>
 
