@@ -333,13 +333,13 @@ Dynamic trivia application leveraging SuperHero API for content generation with 
 
 <!-- TOP 7 LANGUAGES - COLOR-CODED DESCENDING BAR CHART -->
 <table>
-  <tr><td><img src="https://img.shields.io/badge/JavaScript-71%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /></td><td width="300"><img src="https://progress-bar.xyz/71/?width=280&color=F7DF1E" alt="71%" /></td></tr>
-  <tr><td><img src="https://img.shields.io/badge/Jupyter-15%25-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" /></td><td><img src="https://progress-bar.xyz/15/?width=280&color=F37626" alt="15%" /></td></tr>
-  <tr><td><img src="https://img.shields.io/badge/TypeScript-9%25-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></td><td><img src="https://progress-bar.xyz/9/?width=280&color=3178C6" alt="9%" /></td></tr>
-  <tr><td><img src="https://img.shields.io/badge/Python-3%25-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></td><td><img src="https://progress-bar.xyz/3/?width=280&color=3776AB" alt="3%" /></td></tr>
-  <tr><td><img src="https://img.shields.io/badge/HTML-1%25-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" /></td><td><img src="https://progress-bar.xyz/1/?width=280&color=E34F26" alt="1%" /></td></tr>
-  <tr><td><img src="https://img.shields.io/badge/CSS-0.5%25-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" /></td><td><img src="https://progress-bar.xyz/1/?width=280&color=1572B6" alt="0.5%" /></td></tr>
-  <tr><td><img src="https://img.shields.io/badge/Shell-0.3%25-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Shell" /></td><td><img src="https://progress-bar.xyz/1/?width=280&color=4EAA25" alt="0.3%" /></td></tr>
+  <tr><td width="140"><img src="https://img.shields.io/badge/Python-35%25-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></td><td width="320"><img src="https://img.shields.io/static/v1?label=&message=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88&color=3776AB&style=flat-square" alt="35%" /></td></tr>
+  <tr><td><img src="https://img.shields.io/badge/TypeScript-33%25-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></td><td><img src="https://img.shields.io/static/v1?label=&message=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88&color=3178C6&style=flat-square" alt="33%" /></td></tr>
+  <tr><td><img src="https://img.shields.io/badge/JavaScript-17%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /></td><td><img src="https://img.shields.io/static/v1?label=&message=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88&color=F7DF1E&style=flat-square" alt="17%" /></td></tr>
+  <tr><td><img src="https://img.shields.io/badge/Jupyter-8%25-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" /></td><td><img src="https://img.shields.io/static/v1?label=&message=%E2%96%88%E2%96%88%E2%96%88%E2%96%88&color=F37626&style=flat-square" alt="8%" /></td></tr>
+  <tr><td><img src="https://img.shields.io/badge/HTML-4%25-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" /></td><td><img src="https://img.shields.io/static/v1?label=&message=%E2%96%88%E2%96%88&color=E34F26&style=flat-square" alt="4%" /></td></tr>
+  <tr><td><img src="https://img.shields.io/badge/CSS-2%25-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" /></td><td><img src="https://img.shields.io/static/v1?label=&message=%E2%96%88&color=1572B6&style=flat-square" alt="2%" /></td></tr>
+  <tr><td><img src="https://img.shields.io/badge/Shell-1%25-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Shell" /></td><td><img src="https://img.shields.io/static/v1?label=&message=%E2%96%8A&color=4EAA25&style=flat-square" alt="1%" /></td></tr>
 </table>
 
 <!-- ACTIVITY BADGES -->
