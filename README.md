@@ -1,4 +1,4 @@
-![1766541382108](image/README/1766541382108.png)# About Me
+# About Me
 
 <div align="center">
 
