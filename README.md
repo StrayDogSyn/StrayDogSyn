@@ -141,7 +141,7 @@ Applied AI Solutions Engineer building modern web applications with a focus on <
 
 > *"Using AI and technology to create meaningful impact in justice reform while demonstrating technical excellence and building sustainable, ethical solutions."*
 
-**[Second Story Initiative(https://www.straydog-secondstory.org)]** — Technology-driven pathways for justice-impacted individuals
+**[Second Story Initiative](https://www.straydog-secondstory.org)** — Technology-driven pathways for justice-impacted individuals
 
 </div>
 
