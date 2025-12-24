@@ -149,6 +149,8 @@ Applied AI Solutions Engineer building modern web applications with a focus on <
 
 ## <img src="https://api.iconify.design/tabler/briefcase.svg?color=%23355E3B" width="26" height="26" alt="Experience" /> Professional Experience
 
+<div align="center">
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -211,6 +213,8 @@ Applied AI Solutions Engineer building modern web applications with a focus on <
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -399,8 +403,12 @@ Dynamic trivia application leveraging SuperHero API for content generation with 
       <a href="https://www.hackerrank.com/straydogsyndica1">
         <img src="https://img.shields.io/badge/HackerRank-Python_Certified-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
       </a>
+      <br><br>
+      <img src="https://img.shields.io/badge/5_Star-Problem_Solving-00EA64?style=flat-square&labelColor=1e1e1e" alt="5 Star" />
       <br>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=StrayDogSyn&repo=HackerRank-Solutions&theme=dark&hide_border=true&bg_color=0d1117&title_color=00EA64&icon_color=00EA64" alt="HackerRank Repo" width="100%" />
+      <img src="https://img.shields.io/badge/Python-Gold_Badge-00EA64?style=flat-square&labelColor=1e1e1e" alt="Python Badge" />
+      <br>
+      <img src="https://img.shields.io/badge/SQL-Silver_Badge-00EA64?style=flat-square&labelColor=1e1e1e" alt="SQL Badge" />
     </td>
     <td align="center" width="33%">
       <a href="https://www.codewars.com/users/StrayDogSyn">
