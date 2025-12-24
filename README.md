@@ -331,49 +331,48 @@ Dynamic trivia application leveraging SuperHero API for content generation with 
 
 ### <img src="https://api.iconify.design/tabler/code.svg?color=%23355E3B" width="24" height="24" alt="Languages" /> Most Used Languages
 
-<!-- CLEAN LANGUAGE PROFICIENCY BARS -->
 <table>
   <tr>
-    <td width="100" align="right"><strong>Python</strong></td>
-    <td width="350"><img src="https://img.shields.io/badge/35%25-3776AB?style=flat-square&labelColor=3776AB" height="22" /><img src="https://img.shields.io/badge/-%232d333b?style=flat-square&labelColor=2d333b" height="22" width="227" /></td>
-    <td width="60" align="right"><code>35%</code></td>
-    <td width="50" align="center"><img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" height="36" /></td>
+    <td align="right" width="110"><strong>Python</strong></td>
+    <td width="400"><img src="https://img.shields.io/static/v1?label=&message=%20&color=3776AB&style=flat-square" width="350" height="24" /></td>
+    <td width="55" align="center"><code>35%</code></td>
+    <td width="48"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /></td>
   </tr>
   <tr>
     <td align="right"><strong>TypeScript</strong></td>
-    <td><img src="https://img.shields.io/badge/33%25-3178C6?style=flat-square&labelColor=3178C6" height="22" /><img src="https://img.shields.io/badge/-%232d333b?style=flat-square&labelColor=2d333b" height="22" width="234" /></td>
-    <td align="right"><code>33%</code></td>
-    <td align="center"><img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6" height="36" /></td>
+    <td><img src="https://img.shields.io/static/v1?label=&message=%20&color=3178C6&style=flat-square" width="330" height="24" /></td>
+    <td align="center"><code>33%</code></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" /></td>
   </tr>
   <tr>
     <td align="right"><strong>JavaScript</strong></td>
-    <td><img src="https://img.shields.io/badge/17%25-F7DF1E?style=flat-square&labelColor=F7DF1E" height="22" /><img src="https://img.shields.io/badge/-%232d333b?style=flat-square&labelColor=2d333b" height="22" width="290" /></td>
-    <td align="right"><code>17%</code></td>
-    <td align="center"><img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="36" /></td>
+    <td><img src="https://img.shields.io/static/v1?label=&message=%20&color=F7DF1E&style=flat-square" width="170" height="24" /></td>
+    <td align="center"><code>17%</code></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /></td>
   </tr>
   <tr>
     <td align="right"><strong>Jupyter</strong></td>
-    <td><img src="https://img.shields.io/badge/8%25-F37626?style=flat-square&labelColor=F37626" height="22" /><img src="https://img.shields.io/badge/-%232d333b?style=flat-square&labelColor=2d333b" height="22" width="322" /></td>
-    <td align="right"><code>8%</code></td>
-    <td align="center"><img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626" height="36" /></td>
+    <td><img src="https://img.shields.io/static/v1?label=&message=%20&color=F37626&style=flat-square" width="80" height="24" /></td>
+    <td align="center"><code>8%</code></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" /></td>
   </tr>
   <tr>
     <td align="right"><strong>HTML</strong></td>
-    <td><img src="https://img.shields.io/badge/4%25-E34F26?style=flat-square&labelColor=E34F26" height="22" /><img src="https://img.shields.io/badge/-%232d333b?style=flat-square&labelColor=2d333b" height="22" width="336" /></td>
-    <td align="right"><code>4%</code></td>
-    <td align="center"><img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26" height="36" /></td>
+    <td><img src="https://img.shields.io/static/v1?label=&message=%20&color=E34F26&style=flat-square" width="40" height="24" /></td>
+    <td align="center"><code>4%</code></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /></td>
   </tr>
   <tr>
     <td align="right"><strong>CSS</strong></td>
-    <td><img src="https://img.shields.io/badge/2%25-1572B6?style=flat-square&labelColor=1572B6" height="22" /><img src="https://img.shields.io/badge/-%232d333b?style=flat-square&labelColor=2d333b" height="22" width="343" /></td>
-    <td align="right"><code>2%</code></td>
-    <td align="center"><img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6" height="36" /></td>
+    <td><img src="https://img.shields.io/static/v1?label=&message=%20&color=1572B6&style=flat-square" width="20" height="24" /></td>
+    <td align="center"><code>2%</code></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /></td>
   </tr>
   <tr>
     <td align="right"><strong>Shell</strong></td>
-    <td><img src="https://img.shields.io/badge/1%25-4EAA25?style=flat-square&labelColor=4EAA25" height="22" /><img src="https://img.shields.io/badge/-%232d333b?style=flat-square&labelColor=2d333b" height="22" width="346" /></td>
-    <td align="right"><code>1%</code></td>
-    <td align="center"><img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25" height="36" /></td>
+    <td><img src="https://img.shields.io/static/v1?label=&message=%20&color=4EAA25&style=flat-square" width="10" height="24" /></td>
+    <td align="center"><code>1%</code></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" /></td>
   </tr>
 </table>
 
