@@ -328,23 +328,20 @@ Dynamic trivia application leveraging SuperHero API for content generation with 
   <summary align="center"><b>🏆 GitHub Achievements & Trophies</b> <sub>(click to expand)</sub></summary>
   <br>
   <div align="center">
-    
-  ### GitHub Trophies
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=StrayDogSyn&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" width="100%" />
-  
-  ### HackerRank Achievement
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StrayDogSyn/StrayDogSyn/main/hackerrank-python.svg">
-    <img src="https://raw.githubusercontent.com/StrayDogSyn/StrayDogSyn/main/hackerrank-python.svg" alt="HackerRank Python Certificate" width="600" />
-  </picture>
-  
-  </div>
+
+**GitHub Trophies**
+
+<img src="https://github-profile-trophy.vercel.app/?username=StrayDogSyn&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" width="100%" />
+
+**HackerRank Achievement**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StrayDogSyn/StrayDogSyn/main/hackerrank-python.svg">
+  <img src="https://raw.githubusercontent.com/StrayDogSyn/StrayDogSyn/main/hackerrank-python.svg" alt="HackerRank Python Certificate" width="600" />
+</picture>
+
+</div>
 </details>
-
-
-
 
 ---
 
@@ -370,7 +367,7 @@ Dynamic trivia application leveraging SuperHero API for content generation with 
 <br>
 
 | Course Code | Course Name | CompTIA A+ Alignment |
-|-------------|-------------|----------------------|
+| ----------- | ----------- | -------------------- |
 | **CNVT 1000** | Computer Hardware & Software I | Core 1 (220-1101) — Hardware, Networking |
 | **CNVT 1010** | Computer Hardware & Software II | Core 2 (220-1102) — Operating Systems, Security |
 | **CNVT 1030** | Linux Networking | Network+ / Security+ Foundation |
