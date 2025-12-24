@@ -4,9 +4,11 @@ on:
   # Run daily at midnight UTC
   schedule:
     - cron: "0 0 * * *"
-  # Run on push to main branch
+  # Run on push to main branch (but skip if commit message contains [Skip GitHub Action])
   push:
     branches: ["main"]
+    paths-ignore:
+      - 'metrics/**'
   # Allow manual trigger
   workflow_dispatch:
 
