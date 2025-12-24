@@ -329,16 +329,17 @@ Dynamic trivia application leveraging SuperHero API for content generation with 
   <br>
   <div align="center">
 
-**GitHub Trophies**
+### GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=StrayDogSyn&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" width="100%" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=StrayDogSyn&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
-**HackerRank Achievement**
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StrayDogSyn/StrayDogSyn/main/hackerrank-python.svg">
-  <img src="https://raw.githubusercontent.com/StrayDogSyn/StrayDogSyn/main/hackerrank-python.svg" alt="HackerRank Python Certificate" width="600" />
-</picture>
+---
+
+### HackerRank Achievement
+
+[![HackerRank Python Certificate](https://raw.githubusercontent.com/StrayDogSyn/StrayDogSyn/main/hackerrank-python.svg)](https://www.hackerrank.com/straydogsyndica1)
 
 </div>
 </details>
