@@ -449,25 +449,40 @@ Dynamic trivia application leveraging SuperHero API for content generation with 
 ### Formal Education
 
 **Associate in Applied Science — Computer & Networking Technology**  
-*Community College of Rhode Island* | **In Progress** | **GPA: 3.49**
+*Community College of Rhode Island* | **In Progress** | **GPA: 3.55**
 
 ![Overall Progress](https://img.shields.io/badge/Overall_Progress-75%25_Credits-355E3B?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1e1e1e)
 ![Requirements](https://img.shields.io/badge/Requirements-22%25_Complete-355E3B?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1e1e1e)
 ![Academic Standing](https://img.shields.io/badge/Academic_Standing-Good_Standing-28a745?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1e1e1e)
+
+> **Professional Summary:** Demonstrating the ability to maintain full-time employment while pursuing academic excellence, consistently achieving straight 'A' grades through effective time management and a balanced approach to professional and educational responsibilities.
 
 <sub>*Progress reflects continued education across multiple degree pathways*</sub>
 
 </div>
 
 <details>
-<summary><b><img src="https://api.iconify.design/tabler/book.svg?color=%23355E3B" width="18" height="18" alt="Coursework" /> Fall 2025 Coursework</b> <sub>(click to expand)</sub></summary>
+<summary><b><img src="https://api.iconify.design/tabler/book.svg?color=%23355E3B" width="18" height="18" alt="Coursework" /> Spring 2026 Coursework</b> <sub>(click to expand)</sub></summary>
 <br>
 
-| Course Code | Course Name | CompTIA A+ Alignment |
-| ----------- | ----------- | -------------------- |
-| **CNVT 1000** | Computer Hardware & Software I | Core 1 (220-1101) — Hardware, Networking |
-| **CNVT 1010** | Computer Hardware & Software II | Core 2 (220-1102) — Operating Systems, Security |
-| **CNVT 1030** | Linux Networking | Network+ / Security+ Foundation |
+| Course Code | Course Name | Technical Focus |
+| ----------- | ----------- | --------------- |
+| **COMI 1750** | Web Development 1 | Front-End Development, HTML/CSS |
+| **COMP 1200** | Database Design & Management | Database Theory, SQL, Data Modeling |
+
+<sub>*Continuing education in Full-Stack Development and Data Management*</sub>
+
+</details>
+
+<details>
+<summary><b><img src="https://api.iconify.design/tabler/checkbox.svg?color=%23355E3B" width="18" height="18" alt="Completed" /> Fall 2025 Coursework</b> <sub>(click to expand)</sub></summary>
+<br>
+
+| Course Code | Course Name | Final Grade | Status |
+| ----------- | ----------- | :---------: | :----: |
+| **CNVT 1000** | Computer Hardware & Software I | **A** | ✅ |
+| **CNVT 1010** | Computer Hardware & Software II | **A** | ✅ |
+| **CNVT 1030** | Linux Networking | **A** | ✅ |
 
 <sub>*Academic coursework directly supports CompTIA A+ certification preparation*</sub>
 
@@ -486,7 +501,7 @@ Dynamic trivia application leveraging SuperHero API for content generation with 
 
 </details>
 
-<details open>
+<details>
 <summary><b><img src="https://api.iconify.design/tabler/code.svg?color=%23355E3B" width="18" height="18" alt="Code" /> Full-Stack Development</b></summary>
 <br>
 
