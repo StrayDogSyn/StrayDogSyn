@@ -68,7 +68,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Full--Time_Student_%7C_Contractor-355E3B?style=for-the-badge&labelColor=1e1e1e)
 ![Availability](https://img.shields.io/badge/Freelance-Available-28a745?style=for-the-badge&labelColor=1e1e1e)
-![GPA](https://img.shields.io/badge/GPA-3.49%2F4.0-355E3B?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1e1e1e)
+![GPA](https://img.shields.io/badge/GPA-3.55%2F4.0-355E3B?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1e1e1e)
 
 <p align="center">
 Applied AI Solutions Engineer building modern web applications with a focus on <strong>social impact and justice reform</strong>. Currently serving as <strong>AI Content Engineer at Outlier AI</strong> while pursuing a Computer & Networking Technology degree at Community College of Rhode Island. Founder of <strong>StrayDog Syndications LLC</strong> and the <strong>Second Story Initiative</strong>—leveraging technology to bridge the "Digital Cliff" for justice-impacted individuals.
@@ -334,45 +334,45 @@ Dynamic trivia application leveraging SuperHero API for content generation with 
 <table>
   <tr>
     <td align="right" width="110"><strong>Python</strong></td>
-    <td width="400"><img src="https://img.shields.io/static/v1?label=&message=%20&color=3776AB&style=flat-square" width="350" height="24" /></td>
+    <td width="400"><img src="https://img.shields.io/static/v1?label=&message=%20&color=3776AB&style=flat-square" width="350" height="24" alt="Python Usage Bar" /></td>
     <td width="55" align="center"><code>35%</code></td>
-    <td width="48"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /></td>
+    <td width="48"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python Icon" /></td>
   </tr>
   <tr>
     <td align="right"><strong>TypeScript</strong></td>
-    <td><img src="https://img.shields.io/static/v1?label=&message=%20&color=3178C6&style=flat-square" width="330" height="24" /></td>
+    <td><img src="https://img.shields.io/static/v1?label=&message=%20&color=3178C6&style=flat-square" width="330" height="24" alt="TypeScript Usage Bar" /></td>
     <td align="center"><code>33%</code></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript Icon" /></td>
   </tr>
   <tr>
     <td align="right"><strong>JavaScript</strong></td>
-    <td><img src="https://img.shields.io/static/v1?label=&message=%20&color=F7DF1E&style=flat-square" width="170" height="24" /></td>
+    <td><img src="https://img.shields.io/static/v1?label=&message=%20&color=F7DF1E&style=flat-square" width="170" height="24" alt="JavaScript Usage Bar" /></td>
     <td align="center"><code>17%</code></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript Icon" /></td>
   </tr>
   <tr>
     <td align="right"><strong>Jupyter</strong></td>
-    <td><img src="https://img.shields.io/static/v1?label=&message=%20&color=F37626&style=flat-square" width="80" height="24" /></td>
+    <td><img src="https://img.shields.io/static/v1?label=&message=%20&color=F37626&style=flat-square" width="80" height="24" alt="Jupyter Usage Bar" /></td>
     <td align="center"><code>8%</code></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter Icon" /></td>
   </tr>
   <tr>
     <td align="right"><strong>HTML</strong></td>
-    <td><img src="https://img.shields.io/static/v1?label=&message=%20&color=E34F26&style=flat-square" width="40" height="24" /></td>
+    <td><img src="https://img.shields.io/static/v1?label=&message=%20&color=E34F26&style=flat-square" width="40" height="24" alt="HTML Usage Bar" /></td>
     <td align="center"><code>4%</code></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML Icon" /></td>
   </tr>
   <tr>
     <td align="right"><strong>CSS</strong></td>
-    <td><img src="https://img.shields.io/static/v1?label=&message=%20&color=1572B6&style=flat-square" width="20" height="24" /></td>
+    <td><img src="https://img.shields.io/static/v1?label=&message=%20&color=1572B6&style=flat-square" width="20" height="24" alt="CSS Usage Bar" /></td>
     <td align="center"><code>2%</code></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS Icon" /></td>
   </tr>
   <tr>
     <td align="right"><strong>Shell</strong></td>
-    <td><img src="https://img.shields.io/static/v1?label=&message=%20&color=4EAA25&style=flat-square" width="10" height="24" /></td>
+    <td><img src="https://img.shields.io/static/v1?label=&message=%20&color=4EAA25&style=flat-square" width="10" height="24" alt="Shell Usage Bar" /></td>
     <td align="center"><code>1%</code></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Shell Icon" /></td>
   </tr>
 </table>
 
@@ -620,3 +620,56 @@ I'm actively seeking roles where I can contribute to building innovative, scalab
 [![License: MIT](https://img.shields.io/badge/License-MIT-355E3B.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
 </div>
+
+<!-- Interactive Functionality Script -->
+<!-- Note: This script provides enhanced interactivity (persistence, animations) when viewed in a browser that supports script execution. -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const details = document.querySelectorAll('details');
+  
+  details.forEach((detail, index) => {
+    const id = 'details-state-' + index;
+    const summary = detail.querySelector('summary');
+    
+    // Accessibility
+    if (summary) {
+      summary.setAttribute('role', 'button');
+      summary.style.cursor = 'pointer';
+    }
+
+    // Restore state from localStorage
+    const savedState = localStorage.getItem(id);
+    if (savedState === 'true') {
+      detail.setAttribute('open', '');
+      if (summary) summary.setAttribute('aria-expanded', 'true');
+    } else {
+      detail.removeAttribute('open');
+      if (summary) summary.setAttribute('aria-expanded', 'false');
+    }
+
+    // Add toggle listener for persistence
+    detail.addEventListener('toggle', function() {
+      const isOpen = detail.hasAttribute('open');
+      localStorage.setItem(id, isOpen);
+      if (summary) summary.setAttribute('aria-expanded', isOpen);
+    });
+  });
+});
+</script>
+
+<style>
+/* Smooth transition for details */
+details > summary {
+  list-style: none;
+}
+details > summary::-webkit-details-marker {
+  display: none;
+}
+details[open] summary ~ * {
+  animation: sweep .5s ease-in-out;
+}
+@keyframes sweep {
+  0%    {opacity: 0; transform: translateY(-10px)}
+  100%  {opacity: 1; transform: translateY(0)}
+}
+</style>
