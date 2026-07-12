@@ -16,19 +16,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 78.8mb of code in 9227 edited files across 1012 commits</small>
+                <small>estimation from 80mb of code in 9436 edited files across 1097 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="216.82760115247567" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="216.82760115247567" y="0" width="113.64536149864466" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="330.4729626511203" y="0" width="61.51694075266181" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="391.98990340378214" y="0" width="58.06114799933211" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="450.0510514031143" y="0" width="8.087295412478994" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="458.13834681559325" y="0" width="1.6138211815362316" height="8" fill="#336790"/>
-                    <rect mask="url(#languages-bar)" x="459.7521679971295" y="0" width="0.24783200287053125" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="224.08414174019325" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="224.08414174019325" y="0" width="109.9495842111669" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="334.03372595136017" y="0" width="59.61916451386735" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="393.65289046522753" y="0" width="56.411102101829265" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="450.06399256705686" y="0" width="7.804658960587916" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="457.8686515276447" y="0" width="1.5574210292637853" height="8" fill="#336790"/>
+                    <rect mask="url(#languages-bar)" x="459.42607255690854" y="0" width="0.3138429996451524" height="8" fill="#e38c00"/>
+                    <rect mask="url(#languages-bar)" x="459.7399155565536" y="0" width="0.260084443446376" height="8" fill="#C1F12E"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -40,7 +41,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>47.14%</div>
+                                <div>48.71%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -51,7 +52,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>13.37%</div>
+                                <div>12.96%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -62,18 +63,18 @@
                                 PowerShell
                             </div>
                             <small>
-                                <div>1.76%</div>
+                                <div>1.7%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#C1F12E" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#e38c00" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Batchfile
+                                TSQL
                             </div>
                             <small>
-                                <div>0.05%</div>
+                                <div>0.07%</div>
                             </small>
                         </div>
                     </section>
@@ -86,7 +87,7 @@
                                 TSX
                             </div>
                             <small>
-                                <div>24.71%</div>
+                                <div>23.9%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -97,7 +98,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>12.62%</div>
+                                <div>12.26%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -108,7 +109,18 @@
                                 PLpgSQL
                             </div>
                             <small>
-                                <div>0.35%</div>
+                                <div>0.34%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#C1F12E" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Batchfile
+                            </div>
+                            <small>
+                                <div>0.06%</div>
                             </small>
                         </div>
                     </section>
