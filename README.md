@@ -33,7 +33,7 @@
   <a href="mailto:eHunter@straydog-secondstory.org">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="32" />
   </a>
-  <a href="https://straydogsyn.github.io/Learner-Files-v3.5/">
+  <a href="https://ehunter-straydogsyn.me/Learner-Files-v3.5/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="32" />
   </a>
   <a href="https://huggingface.co/StrayDogSyn">
@@ -98,7 +98,7 @@ Full-stack developer and Applied AI Solutions Engineer building web applications
       </a>
     </td>
     <td align="center" width="25%">
-      <a href="http://ehunter-straydogsyn.me/Next-Chapter-Retro-Game/portal/">
+      <a href="https://ehunter-straydogsyn.me/Next-Chapter-Retro-Game/portal/">
         <img src="https://api.iconify.design/tabler/device-gamepad-2.svg?color=%23355E3B" width="48" height="48" alt="Game" />
         <br>
         <strong>RetroVania</strong>
@@ -221,7 +221,7 @@ Full-stack developer and Applied AI Solutions Engineer building web applications
 
 ### Developer Portfolio — GitHub Pages
 
-[![Live Site](https://img.shields.io/badge/Live_Site-355E3B?style=for-the-badge&logo=github&logoColor=white)](https://straydogsyn.github.io/Learner-Files-v3.5/)
+[![Live Site](https://img.shields.io/badge/Live_Site-355E3B?style=for-the-badge&logo=github&logoColor=white)](https://ehunter-straydogsyn.me/Learner-Files-v3.5/)
 [![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StrayDogSyn/Learner-Files-v3.5)
 
 Single-page portfolio deployed on GitHub Pages with a custom domain. Features an embedded playable Marvel Quiz demo, an interactive developer-toolbox section, and a live AI analytics dashboard panel.
@@ -234,7 +234,7 @@ Single-page portfolio deployed on GitHub Pages with a custom domain. Features an
 
 ### RetroVania — Rogue-like Platformer (Next Chapter)
 
-[![Live Site](https://img.shields.io/badge/Launch_Portal-355E3B?style=for-the-badge&logo=itchdotio&logoColor=white)](http://ehunter-straydogsyn.me/Next-Chapter-Retro-Game/portal/)
+[![Live Site](https://img.shields.io/badge/Launch_Portal-355E3B?style=for-the-badge&logo=itchdotio&logoColor=white)](https://ehunter-straydogsyn.me/Next-Chapter-Retro-Game/portal/)
 [![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StrayDogSyn/Next-Chapter-Retro-Game)
 [![License](https://img.shields.io/badge/MIT-355E3B?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://github.com/StrayDogSyn/Next-Chapter-Retro-Game/blob/main/LICENSE)
 
@@ -674,7 +674,7 @@ I'm looking for roles where I can build scalable software and keep teaching what
 [![Email](https://img.shields.io/badge/Email-eHunter%40straydog--secondstory.org-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eHunter@straydog-secondstory.org)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eric_Petross-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-petross)
 [![YouTube](https://img.shields.io/badge/YouTube-Mentoring_%26_Programming-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@EricHunterPetross)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://straydogsyn.github.io/Learner-Files-v3.5/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ehunter-straydogsyn.me/Learner-Files-v3.5/)
 
 </div>
 
