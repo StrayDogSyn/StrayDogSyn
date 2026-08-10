@@ -498,7 +498,7 @@ Rebuild of an earlier movie-discovery project, migrated onto a MERN architecture
 
 </div>
 
-<details open>
+<details>
 <summary><b><img src="https://api.iconify.design/tabler/checkbox.svg?color=%23355E3B" width="18" height="18" alt="Spring 2026" /> Spring 2026 Coursework — Completed</b> <sub>(click to expand)</sub></summary>
 <br>
 
@@ -531,7 +531,7 @@ Rebuild of an earlier movie-discovery project, migrated onto a MERN architecture
 
 | Term | Course Code | Course Name | Technical Focus | Status |
 | ---- | ----------- | ----------- | --------------- | :----: |
-| Summer 2026 | **COMI 1150** | Programming Concepts | Python fundamentals, control flow, data structures | 🔄 In Progress |
+| Summer 2026 | **COMI 1150** | Programming Concepts | **A** | Python fundamentals, control flow, data structures | ✅ |
 | Fall 2026 | **COMI 1215** | Programming in C++ | Compiled languages, memory management | 📋 Registered |
 | Fall 2026 | **COMI 1240** | Object-Oriented Programming | Classes, inheritance, design patterns | 📋 Registered |
 | Fall 2026 | **COMI 1510** | Java Programming | JVM ecosystem, typed OOP | 📋 Registered |
@@ -571,7 +571,7 @@ Rebuild of an earlier movie-discovery project, migrated onto a MERN architecture
 <summary><b><img src="https://api.iconify.design/tabler/brain.svg?color=%23355E3B" width="18" height="18" alt="AI" /> AI/ML &amp; Applied Engineering</b></summary>
 <br>
 
-- **Applied AI Solutions Engineering (AISE) — 2026 Cohort** — Justice Through Code *(in progress)*
+- **Applied AI Solutions Engineering (AISE) — 2026 Cohort** — Fair Chance Futures *(formerly Justice Through Code)*
 - **Tech Pathways AI/ML Fundamentals** — Justice Through Code (2025)
 - **Building AI Agents with MongoDB** — MongoDB University (2025)
 - **Introduction to MongoDB** — MongoDB University (2025)
