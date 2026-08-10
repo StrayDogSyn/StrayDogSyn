@@ -532,9 +532,9 @@ Rebuild of an earlier movie-discovery project, migrated onto a MERN architecture
 | Term | Course Code | Course Name | Final Grade | Technical Focus | Status |
 | ---- | ----------- | ----------- | :---------: | --------------- | :----: |
 | Summer 2026 | **COMI 1150** | Programming Concepts | **A** | Python fundamentals, control flow, data structures | ✅ |
-| Fall 2026 | **COMI 1215** | Programming in C++ | Compiled languages, memory management | 📋 Registered |
-| Fall 2026 | **COMI 1240** | Object-Oriented Programming | Classes, inheritance, design patterns | 📋 Registered |
-| Fall 2026 | **COMI 1510** | Java Programming | JVM ecosystem, typed OOP | 📋 Registered |
+| Fall 2026 | **COMI 1215** | Programming in C++ |  ---  | Compiled languages, memory management | 📋 Registered |
+| Fall 2026 | **COMI 1240** | Object-Oriented Programming |  ---  | Classes, inheritance, design patterns | 📋 Registered |
+| Fall 2026 | **COMI 1510** | Java Programming |  ---  | JVM ecosystem, typed OOP | 📋 Registered |
 
 <sub>*Fall 2026 shifts focus from networking hardware to compiled and object-oriented languages — pairing the applied Python work in my repos with formal CS fundamentals.*</sub>
 
