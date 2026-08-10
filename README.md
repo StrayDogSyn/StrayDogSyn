@@ -234,7 +234,7 @@ Single-page portfolio deployed on GitHub Pages with a custom domain. Features an
 
 ### Next Chapter — Retro Game Showcase
 
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StrayDogSyn/Next-Chapter-Retro-Game)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)]([http://ehunter-straydogsyn.me/Next-Chapter-Retro-Game/portal/])
 [![License](https://img.shields.io/badge/MIT-355E3B?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://github.com/StrayDogSyn/Next-Chapter-Retro-Game/blob/main/LICENSE)
 
 A retro-inspired full-stack showcase blending SNES-style 2D sprite art, open-source chiptune SFX, and Python game logic inside a TypeScript/Next.js application.
