@@ -1,5 +1,3 @@
-# About Me
-
 <div align="center">
 
 <!-- HEADER SECTION -->
@@ -26,7 +24,7 @@
 
 <!-- SOCIAL LINKS -->
 <p>
-  <a href="https://linkedin.com/in/eric-petross-766a08330">
+  <a href="https://www.linkedin.com/in/eric-petross">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="32" />
   </a>
   <a href="https://www.youtube.com/@EricHunterPetross">
@@ -66,16 +64,16 @@
 
 <div align="center">
 
-![Status](https://img.shields.io/badge/Status-Full--Time_Student_%7C_Contractor-355E3B?style=for-the-badge&labelColor=1e1e1e)
-![Availability](https://img.shields.io/badge/Freelance-Available-28a745?style=for-the-badge&labelColor=1e1e1e)
-![GPA](https://img.shields.io/badge/GPA-3.55%2F4.0-355E3B?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1e1e1e)
+![Status](https://img.shields.io/badge/Status-Student_%7C_Founder_%7C_Instructor-355E3B?style=for-the-badge&labelColor=1e1e1e)
+![Availability](https://img.shields.io/badge/Open_To-Full--Time_%26_Freelance-28a745?style=for-the-badge&labelColor=1e1e1e)
+![GPA](https://img.shields.io/badge/GPA-3.59%2F4.0-355E3B?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1e1e1e)
 
 <p align="center">
-Applied AI Solutions Engineer building modern web applications with a focus on <strong>social impact and justice reform</strong>. Currently serving as <strong>AI Content Engineer at Outlier AI</strong> while pursuing a Computer & Networking Technology degree at Community College of Rhode Island. Founder of <strong>StrayDog Syndications LLC</strong> and the <strong>Second Story Initiative</strong>—leveraging technology to bridge the "Digital Cliff" for justice-impacted individuals.
+Full-stack developer and Applied AI Solutions Engineer building web applications with a focus on <strong>social impact and justice reform</strong>. Currently pursuing an A.A.S. in Computer &amp; Networking Technology at the Community College of Rhode Island, teaching with <strong>The Moth</strong>, and running <strong>StrayDog Syndications LLC</strong> and the <strong>Second Story Initiative</strong>—leveraging technology to bridge the "Digital Cliff" for justice-impacted individuals.
 </p>
 
 <p align="center">
-<strong>Core Expertise:</strong> Full-stack development with React/Next.js, Node.js, MongoDB, TypeScript, and AI/ML integration. Passionate about building production-ready applications that solve real-world problems and create meaningful social change.
+<strong>Core Stack:</strong> JavaScript/TypeScript, Python, React, Next.js, Node.js, Express, MongoDB, and LLM API integration. I build things that ship, document them properly, and use them to teach.
 </p>
 
 </div>
@@ -86,26 +84,26 @@ Applied AI Solutions Engineer building modern web applications with a focus on <
 
 <div align="center">
 
-[![Active Development](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=800&color=355E3B&center=true&vCenter=true&width=500&lines=Building+Production+AI+Agents;Teaching+MERN+Stack+Development;Pursuing+CompTIA+A%2B+Certification;Expanding+Second+Story+Initiative)](https://github.com/StrayDogSyn)
+[![Active Development](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=800&color=355E3B&center=true&vCenter=true&width=560&lines=AISE+2026+Cohort+%7C+Justice+Through+Code;Shipping+Next.js+%2B+TypeScript+Projects;Pursuing+CompTIA+A%2B+Certification;Expanding+the+Second+Story+Initiative)](https://github.com/StrayDogSyn)
 
 <table>
   <tr>
     <td align="center" width="25%">
-      <a href="https://github.com/StrayDogSyn?tab=repositories&q=ai&type=&language=&sort=">
+      <a href="https://github.com/StrayDogSyn/AISE-Curriculum-Weekly">
         <img src="https://api.iconify.design/tabler/robot.svg?color=%23355E3B" width="48" height="48" alt="AI" />
         <br>
-        <strong>AI Agents</strong>
+        <strong>AISE 2026</strong>
         <br>
-        <sub>LangChain + Claude API</sub>
+        <sub>Justice Through Code</sub>
       </a>
     </td>
     <td align="center" width="25%">
-      <a href="https://thelastmile.org">
-        <img src="https://api.iconify.design/tabler/chalkboard.svg?color=%23355E3B" width="48" height="48" alt="Teaching" />
+      <a href="https://github.com/StrayDogSyn/Next-Chapter-Retro-Game">
+        <img src="https://api.iconify.design/tabler/device-gamepad-2.svg?color=%23355E3B" width="48" height="48" alt="Game" />
         <br>
-        <strong>TLM Instructor</strong>
+        <strong>Next Chapter</strong>
         <br>
-        <sub>MERN Stack + WDF</sub>
+        <sub>Next.js + Python</sub>
       </a>
     </td>
     <td align="center" width="25%">
@@ -114,7 +112,7 @@ Applied AI Solutions Engineer building modern web applications with a focus on <
         <br>
         <strong>CompTIA A+</strong>
         <br>
-        <sub>Hardware + Security</sub>
+        <sub>Hardware + Software</sub>
       </a>
     </td>
     <td align="center" width="25%">
@@ -129,7 +127,8 @@ Applied AI Solutions Engineer building modern web applications with a focus on <
   </tr>
 </table>
 
-![Progress](https://img.shields.io/badge/Q1_2026_Goals-4_Active_Projects-355E3B?style=flat-square&labelColor=1e1e1e)
+![Progress](https://img.shields.io/badge/Public_Repositories-88-355E3B?style=flat-square&labelColor=1e1e1e)
+![Coursework](https://img.shields.io/badge/Fall_2026-4_Courses_Registered-355E3B?style=flat-square&labelColor=1e1e1e)
 
 </div>
 
@@ -150,70 +149,68 @@ Applied AI Solutions Engineer building modern web applications with a focus on <
 ## <img src="https://api.iconify.design/tabler/briefcase.svg?color=%23355E3B" width="26" height="26" alt="Experience" /> Professional Experience
 
 <div align="center">
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://api.iconify.design/tabler/brain.svg?color=%23355E3B" width="22" height="22" alt="AI" /> AI Content Engineer
+### <img src="https://api.iconify.design/tabler/building-community.svg?color=%23355E3B" width="22" height="22" alt="Founder" /> Founder &amp; Lead Developer
 
-**[Outlier AI](https://outlier.ai)** | *October 2024 - Present*
+**[StrayDog Syndications LLC](https://www.straydog-syndications-llc.com)** | *2024 - Present*
 
-<sub>▸ Fine-tune and validate Large Language Model outputs for production</sub><br>
-<sub>▸ Develop comprehensive testing frameworks improving model accuracy</sub><br>
-<sub>▸ Create validation pipelines processing high-volume responses</sub><br>
-<sub>▸ Implement quality assurance protocols reducing error rates</sub>
+<sub>▸ Build and deploy full-stack web applications end to end</sub><br>
+<sub>▸ Lead Second Story Initiative technology programs</sub><br>
+<sub>▸ Develop AI-integrated tools for social-impact use cases</sub><br>
+<sub>▸ Maintain open-source project repositories and documentation</sub>
 
-**Stack:** Python, AI/ML Frameworks, Testing Automation
-
-</td>
-<td width="50%" valign="top">
-
-### <img src="https://api.iconify.design/tabler/school.svg?color=%23355E3B" width="22" height="22" alt="Teaching" /> Remote Instructor
-
-**[The Last Mile](https://thelastmile.org)** | *January 2026 - Present*
-
-<sub>▸ Teach MERN stack development to justice-impacted individuals</sub><br>
-<sub>▸ Deliver Web Development Fundamentals curriculum remotely</sub><br>
-<sub>▸ Mentor students through full-stack project development</sub><br>
-<sub>▸ Bridge the digital divide through technology education</sub>
-
-**Stack:** MongoDB, Express.js, React, Node.js
+**Stack:** Next.js, TypeScript, MongoDB, LLM APIs
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### <img src="https://api.iconify.design/tabler/users-group.svg?color=%23355E3B" width="22" height="22" alt="Community" /> Community Engagement Instructor
 
 **[The Moth](https://themoth.org)** | *November 2024 - Present*
 
-<sub>▸ Design and deliver technical storytelling workshops</sub><br>
-<sub>▸ Create innovative curriculum integrating digital tools</sub><br>
-<sub>▸ Train participants in technical communication skills</sub><br>
+<sub>▸ Design and deliver storytelling workshops</sub><br>
+<sub>▸ Build curriculum integrating digital presentation tools</sub><br>
+<sub>▸ Coach participants on technical communication</sub><br>
 <sub>▸ Develop interactive learning modules</sub>
 
 **Stack:** Digital Presentation Tools, Interactive Media
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-### <img src="https://api.iconify.design/tabler/building-community.svg?color=%23355E3B" width="22" height="22" alt="Founder" /> Founder & Lead Developer
+### <img src="https://api.iconify.design/tabler/school.svg?color=%23355E3B" width="22" height="22" alt="Teaching" /> Remote Instructor
 
-**[StrayDog Syndications LLC](https://www.straydog-syndications-llc.com)** | *2024 - Present*
+**[The Last Mile](https://thelastmile.org)** | *January 2026 - June 2026*
 
-<sub>▸ Architect and deploy full-stack web applications</sub><br>
-<sub>▸ Lead Second Story Initiative technology programs</sub><br>
-<sub>▸ Develop AI-integrated solutions for social impact</sub><br>
-<sub>▸ Manage open-source community projects</sub>
+<sub>▸ Taught MERN stack development to justice-impacted students</sub><br>
+<sub>▸ Delivered the Web Development Fundamentals curriculum remotely</sub><br>
+<sub>▸ Mentored students through full-stack project builds</sub><br>
+<sub>▸ Role ended June 2026 due to program layoffs</sub>
 
-**Stack:** Next.js, TypeScript, MongoDB, AI/ML APIs
+**Stack:** MongoDB, Express.js, React, Node.js
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://api.iconify.design/tabler/brain.svg?color=%23355E3B" width="22" height="22" alt="AI" /> AI Content Engineer
+
+**[Outlier AI](https://outlier.ai)** | *October 2024 - 2026*
+
+<sub>▸ Reviewed and validated Large Language Model outputs</sub><br>
+<sub>▸ Wrote evaluation prompts and test cases across domains</sub><br>
+<sub>▸ Applied rubric-based quality assurance to model responses</sub><br>
+<sub>▸ Contributed to human-feedback training pipelines</sub>
+
+**Stack:** Python, LLM Evaluation, Prompt Engineering
 
 </td>
 </tr>
 </table>
-
 </div>
 
 ---
@@ -222,43 +219,85 @@ Applied AI Solutions Engineer building modern web applications with a focus on <
 
 <div align="center">
 
-### Full-Stack Task Management Application
+### Developer Portfolio — GitHub Pages
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-355E3B?style=for-the-badge&logo=vercel&logoColor=white)](https://full-stack-to-do-list-hunter-frontend-83tqcaqyl.vercel.app/)
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StrayDogSyn/full-stack-ToDoList-Hunter)
+[![Live Site](https://img.shields.io/badge/Live_Site-355E3B?style=for-the-badge&logo=github&logoColor=white)](https://straydogsyn.github.io/Learner-Files-v3.5/)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StrayDogSyn/Learner-Files-v3.5)
 
-Comprehensive task management application demonstrating full-stack MERN architecture with real-time data synchronization and responsive design.
+Single-page portfolio deployed on GitHub Pages with a custom domain. Features an embedded playable Marvel Quiz demo, an interactive developer-toolbox section, and a live AI analytics dashboard panel.
 
-**Technologies:** MongoDB · Express.js · React · Node.js · Vercel
+**Technologies:** HTML5 · CSS3 · JavaScript · GitHub Pages · Custom Domain (DNS/CNAME)
 
-**Key Features:** RESTful API with CRUD operations · Real-time data persistence · Mobile-first responsive design · Production CI/CD pipeline
-
----
-
-### Interactive Python Gaming Project
-
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StrayDogSyn/pygame-asteriods-deluxe)
-
-Classic arcade game built with object-oriented programming principles, demonstrating state management and collision detection algorithms.
-
-**Technologies:** Python · Pygame · OOP Design Patterns
-
-**Key Features:** Real-time collision detection · Object-oriented architecture · Sprite animation · Game physics simulation
+**Key Features:** Glassmorphic UI with backdrop filters · Embedded interactive demos · Fully responsive layout · Custom domain configuration
 
 ---
 
-### API-Integrated Trivia Platform
+### Next Chapter — Retro Game Showcase
+
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StrayDogSyn/Next-Chapter-Retro-Game)
+[![License](https://img.shields.io/badge/MIT-355E3B?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://github.com/StrayDogSyn/Next-Chapter-Retro-Game/blob/main/LICENSE)
+
+A retro-inspired full-stack showcase blending SNES-style 2D sprite art, open-source chiptune SFX, and Python game logic inside a TypeScript/Next.js application.
+
+**Technologies:** TypeScript · Next.js · Python · MIT Licensed
+
+**Key Features:** Sprite-based rendering · Python game-logic layer behind a TypeScript frontend · Chiptune audio integration · Documented, licensed open-source repo
+
+---
+
+### Marvel Quiz — API-Integrated Trivia Platform
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-355E3B?style=for-the-badge&logo=vercel&logoColor=white)](https://marvel-quiz-project-gz64pgi9x-eric-hunter-petross-projects.vercel.app/)
 [![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StrayDogSyn/Marvel-Quiz)
 
-Dynamic trivia application leveraging SuperHero API for content generation with persistent scoring and engaging UX.
+Trivia application with selectable difficulty tiers, API-sourced question content, persistent scoring, and a streak system.
 
-**Technologies:** JavaScript ES6+ · SuperHero API · Vercel Functions · Local Storage · CSS3
+**Technologies:** JavaScript ES6+ · SuperHero API · Vercel · Local Storage · CSS3
 
-**Key Features:** Dynamic API content generation · Persistent data storage · Animated UI · Intelligent caching
+**Key Features:** Three difficulty tiers (5/10/15 questions) · API content with caching · Score and streak persistence · Animated, mobile-friendly UI
+
+---
+
+### MERN Pomodoro TimeBlock
+
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StrayDogSyn/MERN-Stack-Pomodoro-TimeBlock-Application)
+
+Full-stack productivity application pairing Pomodoro timing with time-block scheduling, built on the MERN stack in TypeScript.
+
+**Technologies:** MongoDB · Express.js · React · Node.js · TypeScript
+
+**Key Features:** User authentication · Task and session management · Time-tracking persistence · Typed API layer
+
+---
+
+### MovieBuzz — MERN Revamp
+
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StrayDogSyn/MERN-Revamp_MovieBuzz)
+
+Rebuild of an earlier movie-discovery project, migrated onto a MERN architecture as a practical exercise in refactoring legacy frontend code.
+
+**Technologies:** MongoDB · Express.js · React · Node.js · HTML5
+
+**Key Features:** Legacy-to-MERN migration · Component-based refactor · External movie API integration
 
 </div>
+
+<details>
+<summary><b><img src="https://api.iconify.design/tabler/folders.svg?color=%23355E3B" width="18" height="18" alt="More" /> More Projects</b> <sub>(click to expand)</sub></summary>
+<br>
+
+| Repository | Description | Language |
+| ---------- | ----------- | -------- |
+| [weather_dashboard_E_Hunter_Petross](https://github.com/StrayDogSyn/weather_dashboard_E_Hunter_Petross) | Justice Through Code weather dashboard capstone, built for team collaboration | Python |
+| [AISE-Curriculum-Weekly](https://github.com/StrayDogSyn/AISE-Curriculum-Weekly) | Weekly assignments for the AISE 2026 cohort at Justice Through Code | Python |
+| [MyManaBox](https://github.com/StrayDogSyn/MyManaBox) | Collection manager for organizing Magic: The Gathering cards | Python |
+| [bring-back-BOLO](https://github.com/StrayDogSyn/bring-back-BOLO) | Rebuild of the classic LAN tank game Bolo using Pygame | Python |
+| [Handy-Haversack-Haverdashery](https://github.com/StrayDogSyn/Handy-Haversack-Haverdashery) | Consolidated overhaul of several earlier Python project repositories | Python |
+| [ollama-claude-workspace](https://github.com/StrayDogSyn/ollama-claude-workspace) | Local LLM workspace tooling and automation scripts | PowerShell |
+| [full-stack-ToDoList-Hunter](https://github.com/StrayDogSyn/full-stack-ToDoList-Hunter) | First full-stack application — a task manager built around ADHD-friendly workflows | Python |
+| [WDF-GitLab-TheLastMileProgram](https://github.com/StrayDogSyn/WDF-GitLab-TheLastMileProgram) | Coursework archive from The Last Mile's Web Development Fundamentals program | HTML |
+
+</details>
 
 ---
 
@@ -296,12 +335,12 @@ Dynamic trivia application leveraging SuperHero API for content generation with 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 ### Cloud & DevOps
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -379,7 +418,6 @@ Dynamic trivia application leveraging SuperHero API for content generation with 
 <!-- ACTIVITY BADGES -->
 <p>
   <img src="https://img.shields.io/github/followers/StrayDogSyn?style=for-the-badge&logo=github&logoColor=white&color=355E3B&labelColor=1e1e1e&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/StrayDogSyn?style=for-the-badge&logo=github&logoColor=white&color=355E3B&labelColor=1e1e1e&label=Total%20Stars" alt="Total Stars" />
   <img src="https://img.shields.io/github/commit-activity/m/StrayDogSyn/StrayDogSyn?style=for-the-badge&logo=github&logoColor=white&color=355E3B&labelColor=1e1e1e&label=Monthly%20Commits" alt="Monthly Commits" />
   <img src="https://img.shields.io/github/last-commit/StrayDogSyn/StrayDogSyn?style=for-the-badge&logo=github&logoColor=white&color=355E3B&labelColor=1e1e1e&label=Last%20Commit" alt="Last Commit" />
 </p>
@@ -403,7 +441,7 @@ Dynamic trivia application leveraging SuperHero API for content generation with 
         <img src="https://github.r2v.ch/codewars?user=StrayDogSyn&stroke=%23B1361E&theme=dark" alt="CodeWars Stats" />
       </a>
       <br>
-      <strong>Algorithm Optimization</strong>
+      <strong>Algorithm Practice</strong>
     </td>
     <td align="center" width="33%">
       <a href="https://leetcode.com/StrayDogSyn">
@@ -435,10 +473,6 @@ Dynamic trivia application leveraging SuperHero API for content generation with 
 </table>
 
 </div>
-  </tr>
-</table>
-
-</div>
 
 ---
 
@@ -448,56 +482,97 @@ Dynamic trivia application leveraging SuperHero API for content generation with 
 
 ### Formal Education
 
-**Associate in Applied Science — Computer & Networking Technology**  
-*Community College of Rhode Island* | **In Progress** | **GPA: 3.55**
+**Associate in Applied Science — Computer & Networking Technology**
+*Community College of Rhode Island* | **In Progress** | **Cumulative GPA: 3.59**
 
-![Overall Progress](https://img.shields.io/badge/Overall_Progress-75%25_Credits-355E3B?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1e1e1e)
-![Requirements](https://img.shields.io/badge/Requirements-22%25_Complete-355E3B?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1e1e1e)
+![Standing](https://img.shields.io/badge/Classification-Sophomore-355E3B?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1e1e1e)
+![Credits](https://img.shields.io/badge/Credits_Earned-42_of_61-355E3B?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1e1e1e)
 ![Academic Standing](https://img.shields.io/badge/Academic_Standing-Good_Standing-28a745?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1e1e1e)
 
-> **Professional Summary:** Demonstrating the ability to maintain full-time employment while pursuing academic excellence, consistently achieving straight 'A' grades through effective time management and a balanced approach to professional and educational responsibilities.
+> **Summary:** Balancing coursework with contract work and instruction. Every computing course completed to date has earned an **A or A−**, including the hardware, software, Linux, web development, and database sequences.
 
-<sub>*Progress reflects continued education across multiple degree pathways*</sub>
+<sub>*Concentration: Computer Networking Technology Hardware · Catalog year 2024–2025*</sub>
 
 </div>
 
-<details>
-<summary><b><img src="https://api.iconify.design/tabler/book.svg?color=%23355E3B" width="18" height="18" alt="Coursework" /> Spring 2026 Coursework</b> <sub>(click to expand)</sub></summary>
+<details open>
+<summary><b><img src="https://api.iconify.design/tabler/checkbox.svg?color=%23355E3B" width="18" height="18" alt="Spring 2026" /> Spring 2026 Coursework — Completed</b> <sub>(click to expand)</sub></summary>
 <br>
 
-| Course Code | Course Name | Technical Focus |
-| ----------- | ----------- | --------------- |
-| **COMI 1750** | Web Development 1 | Front-End Development, HTML/CSS |
-| **COMP 1200** | Database Design & Management | Database Theory, SQL, Data Modeling |
+| Course Code | Course Name | Final Grade | Technical Focus | Status |
+| ----------- | ----------- | :---------: | --------------- | :----: |
+| **COMI 1750** | Web Development 1 | **A** | HTML/CSS, front-end fundamentals | ✅ |
+| **COMP 1200** | Database Design & Management | **A−** | Relational modeling, SQL, normalization | ✅ |
 
-<sub>*Continuing education in Full-Stack Development and Data Management*</sub>
+<sub>*Directly reinforces the front-end and data-layer work in my MERN and Next.js projects.*</sub>
 
 </details>
 
 <details>
-<summary><b><img src="https://api.iconify.design/tabler/checkbox.svg?color=%23355E3B" width="18" height="18" alt="Completed" /> Fall 2025 Coursework</b> <sub>(click to expand)</sub></summary>
+<summary><b><img src="https://api.iconify.design/tabler/checkbox.svg?color=%23355E3B" width="18" height="18" alt="Fall 2025" /> Fall 2025 Coursework — Completed</b> <sub>(click to expand)</sub></summary>
 <br>
 
-| Course Code | Course Name | Final Grade | Status |
-| ----------- | ----------- | :---------: | :----: |
-| **CNVT 1000** | Computer Hardware & Software I | **A** | ✅ |
-| **CNVT 1010** | Computer Hardware & Software II | **A** | ✅ |
-| **CNVT 1030** | Linux Networking | **A** | ✅ |
+| Course Code | Course Name | Final Grade | Technical Focus | Status |
+| ----------- | ----------- | :---------: | --------------- | :----: |
+| **CNVT 1000** | Computer Repair A+ Hardware | **A** | Hardware diagnostics, components | ✅ |
+| **CNVT 1010** | Computer Repair A+ Software | **A** | OS installation, troubleshooting | ✅ |
+| **COMI 1800** | Computer Networking Software — Linux | **A** | Linux administration, shell, networking | ✅ |
 
-<sub>*Academic coursework directly supports CompTIA A+ certification preparation*</sub>
+<sub>*Maps directly to CompTIA A+ certification objectives.*</sub>
 
 </details>
 
-### Professional Certifications
+<details>
+<summary><b><img src="https://api.iconify.design/tabler/clock.svg?color=%23355E3B" width="18" height="18" alt="In Progress" /> Summer 2026 & Fall 2026 — In Progress / Registered</b> <sub>(click to expand)</sub></summary>
+<br>
+
+| Term | Course Code | Course Name | Technical Focus | Status |
+| ---- | ----------- | ----------- | --------------- | :----: |
+| Summer 2026 | **COMI 1150** | Programming Concepts | Python fundamentals, control flow, data structures | 🔄 In Progress |
+| Fall 2026 | **COMI 1215** | Programming in C++ | Compiled languages, memory management | 📋 Registered |
+| Fall 2026 | **COMI 1240** | Object-Oriented Programming | Classes, inheritance, design patterns | 📋 Registered |
+| Fall 2026 | **COMI 1510** | Java Programming | JVM ecosystem, typed OOP | 📋 Registered |
+
+<sub>*Fall 2026 shifts focus from networking hardware to compiled and object-oriented languages — pairing the applied Python work in my repos with formal CS fundamentals.*</sub>
+
+</details>
+
+<details>
+<summary><b><img src="https://api.iconify.design/tabler/list-details.svg?color=%23355E3B" width="18" height="18" alt="Full Record" /> Full Academic Record</b> <sub>(click to expand)</sub></summary>
+<br>
+
+| Term | Course | Title | Grade |
+| ---- | ------ | ----- | :---: |
+| Fall 2020 | ENGL 1200 | Introduction to Literature | A |
+| Spring 2021 | ENGL 1005 | College Writing | B+ |
+| Summer 2021 | SOCS 2020 | Marriage and Family | B+ |
+| Fall 2021 | ENGL 2270 | Multicultural American Literature | A |
+| Spring 2022 | ENGL 1220 | Introduction to Poetry | A |
+| Spring 2024 | ENGL 1010 | Composition I | A |
+| Spring 2024 | MATH 1005 | Business Mathematics | A |
+| Spring 2025 | ENGL 1260 | Readings in Shakespeare | C |
+| Spring 2025 | ENGL 2100 | Technical Writing | C |
+| Fall 2025 | CNVT 1000 | Computer Repair A+ Hardware | A |
+| Fall 2025 | CNVT 1010 | Computer Repair A+ Software | A |
+| Fall 2025 | COMI 1800 | Computer Networking Software — Linux | A |
+| Spring 2026 | COMI 1750 | Web Development 1 | A |
+| Spring 2026 | COMP 1200 | Database Design & Management | A− |
+
+<sub>*Source: CCRI Degree Works audit, 06/30/2026. An earlier Associate in Arts (General Studies) was previously awarded.*</sub>
+
+</details>
+
+### Professional Certifications & Programs
 
 <details open>
-<summary><b><img src="https://api.iconify.design/tabler/brain.svg?color=%23355E3B" width="18" height="18" alt="AI" /> AI/ML Specializations</b></summary>
+<summary><b><img src="https://api.iconify.design/tabler/brain.svg?color=%23355E3B" width="18" height="18" alt="AI" /> AI/ML &amp; Applied Engineering</b></summary>
 <br>
 
+- **Applied AI Solutions Engineering (AISE) — 2026 Cohort** — Justice Through Code *(in progress)*
 - **Tech Pathways AI/ML Fundamentals** — Justice Through Code (2025)
 - **Building AI Agents with MongoDB** — MongoDB University (2025)
-- **Applied AI Professional Certificate** — Google (2024)
 - **Introduction to MongoDB** — MongoDB University (2025)
+- **Applied AI Professional Certificate** — Google (2024)
 
 </details>
 
@@ -507,40 +582,37 @@ Dynamic trivia application leveraging SuperHero API for content generation with 
 
 - **Web Development Fundamentals (WDF)** — The Last Mile Program (September 2024)
 - **Full-Stack Development with Cursor Copilot** — Udemy (2025)
+- **React – The Complete Guide** — Udemy (2024)
+- **Node.js Developer Course** — Udemy (2024)
 - **JavaScript: ES6 and Beyond** — Udemy (2024)
 - **JavaScript: Understanding the Weird Parts** — Udemy (2024)
-- **React - The Complete Guide** — Udemy (2024)
-- **Node.js Developer Course** — Udemy (2024)
 - **Basic Git and GitHub Essentials** — Udemy (2024)
 
 </details>
 
 <details>
-<summary><b><img src="https://api.iconify.design/tabler/cloud.svg?color=%23355E3B" width="18" height="18" alt="Cloud" /> Cloud & DevOps</b></summary>
+<summary><b><img src="https://api.iconify.design/tabler/certificate.svg?color=%23355E3B" width="18" height="18" alt="In Progress" /> In Progress</b></summary>
 <br>
 
-- **AWS Certified Cloud Practitioner** — Amazon (In Progress)
-- **Docker Mastery** — Udemy (2024)
-- **CI/CD Pipeline Development** — Coursera (2024)
+- **CompTIA A+** — coursework complete (CNVT 1000 / CNVT 1010), exam pending
+- **AWS Certified Cloud Practitioner** — studying
 
 </details>
 
 <details>
-<summary><b><img src="https://api.iconify.design/tabler/database.svg?color=%23355E3B" width="18" height="18" alt="Data" /> Data & Analytics</b></summary>
+<summary><b><img src="https://api.iconify.design/tabler/tools.svg?color=%23355E3B" width="18" height="18" alt="Familiar" /> Working Familiarity</b> <sub>(coursework and self-study, not certified)</sub></summary>
 <br>
 
-- **MongoDB University Certification** — MongoDB (2024)
-- **SQL for Data Science** — Coursera (2024)
-- **Python for Data Analysis** — DataCamp (2024)
+Areas I've worked in enough to be productive and read the docs intelligently, listed honestly as familiarity rather than credentials:
+
+| Area | Where it came from |
+| ---- | ------------------ |
+| **SQL & relational design** | COMP 1200 Database Design & Management (A−), plus self-study |
+| **CI/CD pipelines** | GitHub Actions and Vercel deployments across my own repos |
+| **Docker & containers** | Self-study and local development environments |
+| **Data analysis in Python** | Justice Through Code weather dashboard capstone, Kaggle notebooks |
 
 </details>
-
-<div align="center">
-
-![Total Certifications](https://img.shields.io/badge/Total_Certifications-21%2B-355E3B?style=for-the-badge&logo=certificate&logoColor=white&labelColor=1e1e1e)
-![Learning Hours](https://img.shields.io/badge/Learning_Hours-500%2B-FF6B6B?style=for-the-badge&logo=clockify&logoColor=white&labelColor=1e1e1e)
-
-</div>
 
 ---
 
@@ -554,9 +626,9 @@ Dynamic trivia application leveraging SuperHero API for content generation with 
 
 **Programs:**
 
-<sub>Applied AI Solutions Engineering pathways | Full-stack development training with real-world projects | Professional mentorship from industry experts | Community-driven open-source initiatives</sub>
+<sub>Applied AI Solutions Engineering pathways | Full-stack development training with real-world projects | Professional mentorship | Community-driven open-source initiatives</sub>
 
-**Mentorship & Support:**
+**Mentorship & Community:**
 
 <sub>The Last Mile — Web Development Fundamentals | Justice Through Code — Applied AI Solutions Engineering | Tech industry professionals providing guidance and opportunities</sub>
 
@@ -570,18 +642,18 @@ Dynamic trivia application leveraging SuperHero API for content generation with 
 
 ### Open to Opportunities
 
-**Full-Stack Development** | **AI Integration** | **Technical Development** | **Justice Reform Technology**
+**Full-Stack Development** | **AI Integration** | **Technical Instruction** | **Justice Reform Technology**
 
-I'm actively seeking roles where I can contribute to building innovative, scalable solutions that create positive social impact.
+I'm looking for roles where I can build scalable software and keep teaching what I learn.
 
 ### What I Bring to the Table
 
 <table>
   <tr>
-    <td align="center" width="20%"><img src="https://api.iconify.design/tabler/code.svg?color=%23355E3B" width="32" height="32" alt="Code" /><br><sub><strong>Modern Tech</strong></sub></td>
+    <td align="center" width="20%"><img src="https://api.iconify.design/tabler/code.svg?color=%23355E3B" width="32" height="32" alt="Code" /><br><sub><strong>Modern Stack</strong></sub></td>
     <td align="center" width="20%"><img src="https://api.iconify.design/tabler/brain.svg?color=%23355E3B" width="32" height="32" alt="Brain" /><br><sub><strong>CS Fundamentals</strong></sub></td>
-    <td align="center" width="20%"><img src="https://api.iconify.design/tabler/rocket.svg?color=%23355E3B" width="32" height="32" alt="Rocket" /><br><sub><strong>Production Apps</strong></sub></td>
-    <td align="center" width="20%"><img src="https://api.iconify.design/tabler/book.svg?color=%23355E3B" width="32" height="32" alt="Book" /><br><sub><strong>Continuous Learning</strong></sub></td>
+    <td align="center" width="20%"><img src="https://api.iconify.design/tabler/rocket.svg?color=%23355E3B" width="32" height="32" alt="Rocket" /><br><sub><strong>Shipped Projects</strong></sub></td>
+    <td align="center" width="20%"><img src="https://api.iconify.design/tabler/chalkboard.svg?color=%23355E3B" width="32" height="32" alt="Teaching" /><br><sub><strong>Teaching &amp; Mentoring</strong></sub></td>
     <td align="center" width="20%"><img src="https://api.iconify.design/tabler/heart-handshake.svg?color=%23355E3B" width="32" height="32" alt="Heart" /><br><sub><strong>Social Impact</strong></sub></td>
   </tr>
 </table>
@@ -597,7 +669,7 @@ I'm actively seeking roles where I can contribute to building innovative, scalab
 **Ready to discuss how I can contribute to your technical team?**
 
 [![Email](https://img.shields.io/badge/Email-eHunter%40straydog--secondstory.org-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eHunter@straydog-secondstory.org)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eric_Petross-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eric-petross-766a08330)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eric_Petross-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-petross)
 [![YouTube](https://img.shields.io/badge/YouTube-Mentoring_%26_Programming-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@EricHunterPetross)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://straydogsyn.github.io/Learner-Files-v3.5/)
 
@@ -610,11 +682,11 @@ I'm actively seeking roles where I can contribute to building innovative, scalab
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21,23,24,27,28&height=100&section=footer&animation=twinkling)
 
 <p align="center">
-  <sub>Built with passion for clean code, innovative solutions, and social justice</sub>
+  <sub>Built with a preference for clean code, working software, and second chances</sub>
 </p>
 
 <p align="center">
-  <strong>2025 Eric "Hunter" Petross | StrayDog Syndications LLC | Second Story Initiative</strong>
+  <strong>© 2026 Eric "Hunter" Petross | StrayDog Syndications LLC | Second Story Initiative</strong>
 </p>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-355E3B.svg?style=flat-square)](https://opensource.org/licenses/MIT)
