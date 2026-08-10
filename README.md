@@ -128,7 +128,7 @@ Full-stack developer and Applied AI Solutions Engineer building web applications
 </table>
 
 ![Progress](https://img.shields.io/badge/Public_Repositories-88-355E3B?style=flat-square&labelColor=1e1e1e)
-![Coursework](https://img.shields.io/badge/Fall_2026-4_Courses_Registered-355E3B?style=flat-square&labelColor=1e1e1e)
+![Coursework](https://img.shields.io/badge/Fall_2026-3_Courses_Registered-355E3B?style=flat-square&labelColor=1e1e1e)
 
 </div>
 
