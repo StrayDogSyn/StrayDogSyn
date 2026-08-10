@@ -529,9 +529,9 @@ Rebuild of an earlier movie-discovery project, migrated onto a MERN architecture
 <summary><b><img src="https://api.iconify.design/tabler/clock.svg?color=%23355E3B" width="18" height="18" alt="In Progress" /> Summer 2026 & Fall 2026 — In Progress / Registered</b> <sub>(click to expand)</sub></summary>
 <br>
 
-| Term | Course Code | Course Name | Technical Focus | Status |
-| ---- | ----------- | ----------- | --------------- | :----: |
-| Summer 2026 | **COMI 1150** | Programming Concepts | Python fundamentals, control flow, data structures | ✅ **A** |
+| Term | Course Code | Course Name | Final Grade | Technical Focus | Status |
+| ---- | ----------- | ----------- | :---------: | --------------- | :----: |
+| Summer 2026 | **COMI 1150** | Programming Concepts | **A** | Python fundamentals, control flow, data structures | ✅ |
 | Fall 2026 | **COMI 1215** | Programming in C++ | Compiled languages, memory management | 📋 Registered |
 | Fall 2026 | **COMI 1240** | Object-Oriented Programming | Classes, inheritance, design patterns | 📋 Registered |
 | Fall 2026 | **COMI 1510** | Java Programming | JVM ecosystem, typed OOP | 📋 Registered |
