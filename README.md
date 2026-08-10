@@ -98,10 +98,10 @@ Full-stack developer and Applied AI Solutions Engineer building web applications
       </a>
     </td>
     <td align="center" width="25%">
-      <a href="https://github.com/StrayDogSyn/Next-Chapter-Retro-Game">
+      <a href="http://ehunter-straydogsyn.me/Next-Chapter-Retro-Game/portal/">
         <img src="https://api.iconify.design/tabler/device-gamepad-2.svg?color=%23355E3B" width="48" height="48" alt="Game" />
         <br>
-        <strong>Next Chapter</strong>
+        <strong>RetroVania</strong>
         <br>
         <sub>Next.js + Python</sub>
       </a>
@@ -232,16 +232,19 @@ Single-page portfolio deployed on GitHub Pages with a custom domain. Features an
 
 ---
 
-### Next Chapter — Retro Game Showcase
+### RetroVania — Rogue-like Platformer (Next Chapter)
 
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)]([http://ehunter-straydogsyn.me/Next-Chapter-Retro-Game/portal/])
+[![Live Site](https://img.shields.io/badge/Launch_Portal-355E3B?style=for-the-badge&logo=itchdotio&logoColor=white)](http://ehunter-straydogsyn.me/Next-Chapter-Retro-Game/portal/)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StrayDogSyn/Next-Chapter-Retro-Game)
 [![License](https://img.shields.io/badge/MIT-355E3B?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://github.com/StrayDogSyn/Next-Chapter-Retro-Game/blob/main/LICENSE)
 
-A retro-inspired full-stack showcase blending SNES-style 2D sprite art, open-source chiptune SFX, and Python game logic inside a TypeScript/Next.js application.
+A hand-rolled, full-stack rogue-like platformer with deterministic seeded runs, rarity-tiered combat, and SNES-style sprite art — playable in the browser with nothing to install. Fight through 24 randomized rooms across five zones, gear up on weapons with rolled stats and elemental affixes, and unlock double-jump and dash traversal to reach three boss encounters.
 
-**Technologies:** TypeScript · Next.js · Python · MIT Licensed
+The submission portal links the live build alongside the architecture spec, engineering-process writeup, and AI prompt history — the whole build documented from first commit to final boss.
 
-**Key Features:** Sprite-based rendering · Python game-logic layer behind a TypeScript frontend · Chiptune audio integration · Documented, licensed open-source repo
+**Technologies:** TypeScript · Next.js · React/Canvas · Python service layer · MIT Licensed
+
+**Key Features:** Deterministic seeded run generation · Rarity-tiered loot with elemental affixes · Progressive traversal unlocks (double-jump, dash) · React/Canvas rendering over a Python backend · Zero-JavaScript static portal page
 
 ---
 
