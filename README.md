@@ -117,7 +117,7 @@ Full-stack developer and Applied AI Solutions Engineer building web applications
         <br>
         <strong>Lead By Example</strong>
         <br>
-        <sub>Nonprofit Site <br> Created Pro Bono</sub>
+        <sub>Pro Bono Nonprofit Site</sub>
       </a>
     </td>
     <td align="center" width="25%">
