@@ -1,6 +1,7 @@
 <div align="center">
 
 <!-- HEADER SECTION -->
+<a name="top"></a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StrayDogSyn/StrayDogSyn/main/image/README/StrayDog%20Syndications%20LLC%20(Tag%20(US)).png">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StrayDogSyn/StrayDogSyn/main/image/README/StrayDog%20Syndications%20LLC%20(Tag%20(US)).png">
@@ -56,9 +57,27 @@
   </a>
 </p>
 
+<!-- IN-DOCUMENT NAVIGATION -->
+<sub>
+  <a href="#status">Status</a> &nbsp;•&nbsp;
+  <a href="#accomplishments">Recent Accomplishments</a> &nbsp;•&nbsp;
+  <a href="#mission">Mission</a> &nbsp;•&nbsp;
+  <a href="#experience">Experience</a> &nbsp;•&nbsp;
+  <a href="#projects">Projects</a> &nbsp;•&nbsp;
+  <a href="#stack">Stack</a>
+  <br>
+  <a href="#analytics">Analytics</a> &nbsp;•&nbsp;
+  <a href="#competitive">Competitive Coding</a> &nbsp;•&nbsp;
+  <a href="#education">Education &amp; Certifications</a> &nbsp;•&nbsp;
+  <a href="#secondstory">Second Story Initiative</a> &nbsp;•&nbsp;
+  <a href="#connect">Connect</a>
+</sub>
+
 </div>
 
 ---
+
+<a name="status"></a>
 
 ## <img src="https://api.iconify.design/tabler/activity-heartbeat.svg?color=%23355E3B" width="26" height="26" alt="Status" /> Current Status
 
@@ -80,21 +99,32 @@ Full-stack developer and Applied AI Solutions Engineer building web applications
 
 ---
 
-## <img src="https://api.iconify.design/tabler/flame.svg?color=%23355E3B" width="26" height="26" alt="Working On" /> Currently Working On
+<a name="accomplishments"></a>
+
+## <img src="https://api.iconify.design/tabler/trophy.svg?color=%23355E3B" width="26" height="26" alt="Accomplishments" /> Recent Accomplishments
 
 <div align="center">
 
-[![Active Development](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=800&color=355E3B&center=true&vCenter=true&width=560&lines=AISE+2026+Cohort+%7C+Justice+Through+Code;Shipping+Next.js+%2B+TypeScript+Projects;Pursuing+CompTIA+A%2B+Certification;Expanding+the+Second+Story+Initiative)](https://github.com/StrayDogSyn)
+[![Recent Work](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=800&color=355E3B&center=true&vCenter=true&width=560&lines=Justice+Through+Code+%7C+Columbia+Certified;Published+the+AISE+Manifesto;Featured+in+MassLive+with+The+Last+Mile;Partnered+with+Lead+By+Example+RI)](https://github.com/StrayDogSyn)
 
 <table>
   <tr>
     <td align="center" width="25%">
-      <a href="https://github.com/StrayDogSyn/AISE-Curriculum-Weekly">
-        <img src="https://api.iconify.design/tabler/robot.svg?color=%23355E3B" width="48" height="48" alt="AI" />
+      <a href="https://leadbyexample-ri.org">
+        <img src="https://api.iconify.design/tabler/users-group.svg?color=%23355E3B" width="48" height="48" alt="Lead By Example" />
         <br>
-        <strong>AISE 2026</strong>
+        <strong>Lead By Example</strong>
         <br>
-        <sub>Justice Through Code</sub>
+        <sub>Nonprofit Site · Pro Bono</sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/StrayDogSyn/StrayDogSyn/blob/main/docs/Justice-Through-Code-Certificate.pdf">
+        <img src="https://api.iconify.design/tabler/certificate-2.svg?color=%23355E3B" width="48" height="48" alt="Certificate" />
+        <br>
+        <strong>Justice Through Code</strong>
+        <br>
+        <sub>Columbia Certified</sub>
       </a>
     </td>
     <td align="center" width="25%">
@@ -104,15 +134,6 @@ Full-stack developer and Applied AI Solutions Engineer building web applications
         <strong>RetroVania</strong>
         <br>
         <sub>Next.js + Python</sub>
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://www.comptia.org/certifications/a">
-        <img src="https://api.iconify.design/tabler/certificate-2.svg?color=%23355E3B" width="48" height="48" alt="Cert" />
-        <br>
-        <strong>CompTIA A+</strong>
-        <br>
-        <sub>Hardware + Software</sub>
       </a>
     </td>
     <td align="center" width="25%">
@@ -127,12 +148,29 @@ Full-stack developer and Applied AI Solutions Engineer building web applications
   </tr>
 </table>
 
-![Progress](https://img.shields.io/badge/Public_Repositories-88-355E3B?style=flat-square&labelColor=1e1e1e)
-![Coursework](https://img.shields.io/badge/Fall_2026-3_Courses_Registered-355E3B?style=flat-square&labelColor=1e1e1e)
+<br>
+
+<!-- ═══ WRITING & PRESS ═══ -->
+
+[![The AISE Manifesto](https://img.shields.io/badge/Read-The_AISE_Manifesto-355E3B?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=1e1e1e)](https://github.com/StrayDogSyn/StrayDogSyn/blob/main/docs/AISE-Manifesto.pdf)
+[![MassLive Feature](https://img.shields.io/badge/Press-Featured_in_MassLive-B1361E?style=for-the-badge&logo=googlenews&logoColor=white&labelColor=1e1e1e)](https://www.masslive.com/news/2026/04/mass-inmates-are-being-trained-for-an-ai-economy-without-full-internet-access.html)
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <sub><strong><a href="https://github.com/StrayDogSyn/StrayDogSyn/blob/main/docs/AISE-Manifesto.pdf">The AISE Manifesto</a></strong> — Ten tenets for AI-Integrated Software Engineering, written for justice-impacted developers entering the field. Published through StrayDog Syndications and the Second Story Initiative.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <sub><strong><a href="https://www.masslive.com/news/2026/04/mass-inmates-are-being-trained-for-an-ai-economy-without-full-internet-access.html">MassLive Feature</a></strong> — Profiled in MassLive's report on how The Last Mile prepares incarcerated students for an AI economy without internet access, covering the path from student to remote instructor and business owner.</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
+
+<a name="mission"></a>
 
 ## <img src="https://api.iconify.design/tabler/target-arrow.svg?color=%23355E3B" width="26" height="26" alt="Mission" /> Mission Statement
 
@@ -145,6 +183,8 @@ Full-stack developer and Applied AI Solutions Engineer building web applications
 </div>
 
 ---
+
+<a name="experience"></a>
 
 ## <img src="https://api.iconify.design/tabler/briefcase.svg?color=%23355E3B" width="26" height="26" alt="Experience" /> Professional Experience
 
@@ -215,20 +255,37 @@ Full-stack developer and Applied AI Solutions Engineer building web applications
 
 ---
 
+<a name="projects"></a>
+
 ## <img src="https://api.iconify.design/tabler/rocket.svg?color=%23355E3B" width="26" height="26" alt="Projects" /> Featured Projects
 
 <div align="center">
 
-### Developer Portfolio — GitHub Pages
+### StrayDog Syndications LLC — Studio Platform
 
-[![Live Site](https://img.shields.io/badge/Live_Site-355E3B?style=for-the-badge&logo=github&logoColor=white)](https://ehunter-straydogsyn.me/Learner-Files-v3.5/)
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StrayDogSyn/Learner-Files-v3.5)
+[![Live Site](https://img.shields.io/badge/Live_Site-355E3B?style=for-the-badge&logo=nextdotjs&logoColor=white)](http://www.straydog-syndications-llc.com/)
+[![Private Repo](https://img.shields.io/badge/Private_Repo-6e7681?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StrayDogSyn/StrayDog-Revamp-LLC)
 
-Single-page portfolio deployed on GitHub Pages with a custom domain. Features an embedded playable Marvel Quiz demo, an interactive developer-toolbox section, and a live AI analytics dashboard panel.
+Production marketing and services platform for a two-person technology studio in Providence, Rhode Island. Presents four service lines (full-stack systems, AI orchestration, technical education, and technical infrastructure) with scoped intake routing that carries the selected service through to a discovery-call booking flow.
 
-**Technologies:** HTML5 · CSS3 · JavaScript · GitHub Pages · Custom Domain (DNS/CNAME)
+**Technologies:** Next.js · TypeScript · React · Tailwind CSS · Vercel · Custom Domain
 
-**Key Features:** Glassmorphic UI with backdrop filters · Embedded interactive demos · Fully responsive layout · Custom domain configuration
+**Key Features:** Service-aware contact routing via query parameters · Terminal-styled hero with live studio metrics · Partner network directory for reentry and workforce organizations · Responsive multi-page architecture with SEO and Open Graph metadata
+
+---
+
+### Python Essentials: Bridge The Dream — Interactive Curriculum
+
+[![Live Platform](https://img.shields.io/badge/Live_Platform-355E3B?style=for-the-badge&logo=jupyter&logoColor=white)](https://ehunter-straydogsyn.me/Python-Essentials-Bridge-The-Dream/)
+[![Private Repo](https://img.shields.io/badge/Private_Repo-6e7681?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StrayDogSyn/Python-Essentials-Bridge-The-Dream)
+
+An eleven-week Python curriculum built for the returned-citizen community, taking learners from language fundamentals through data engineering, SQL, machine learning, and Flask deployment. Each week ships an interactive HTML lesson plus paired Jupyter notebooks: one for solo practice, one for group session work. Colab, nbviewer, and local setup paths are all documented, so nobody is blocked by their environment.
+
+Created with Mia "Mausi" Smith-Petross for Code the Dream, and used as a teaching platform rather than a static reference.
+
+**Technologies:** Python · Jupyter · pandas · scikit-learn · Flask · SQL · HTML5/CSS3/JavaScript · GitHub Pages
+
+**Key Features:** 11 weeks of paired solo and group notebooks · Browser-based progress tracking with achievement unlocks · Three documented setup paths (Colab, local Jupyter, VS Code) · Data engineering and ML sequence built on real datasets
 
 ---
 
@@ -261,27 +318,16 @@ Trivia application with selectable difficulty tiers, API-sourced question conten
 
 ---
 
-### MERN Pomodoro TimeBlock
+### Developer Portfolio — GitHub Pages
 
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StrayDogSyn/MERN-Stack-Pomodoro-TimeBlock-Application)
+[![Live Site](https://img.shields.io/badge/Live_Site-355E3B?style=for-the-badge&logo=github&logoColor=white)](https://ehunter-straydogsyn.me/Learner-Files-v3.5/)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StrayDogSyn/Learner-Files-v3.5)
 
-Full-stack productivity application pairing Pomodoro timing with time-block scheduling, built on the MERN stack in TypeScript.
+Single-page portfolio deployed on GitHub Pages with a custom domain. Features an embedded playable Marvel Quiz demo, an interactive developer-toolbox section, and a live AI analytics dashboard panel.
 
-**Technologies:** MongoDB · Express.js · React · Node.js · TypeScript
+**Technologies:** HTML5 · CSS3 · JavaScript · GitHub Pages · Custom Domain (DNS/CNAME)
 
-**Key Features:** User authentication · Task and session management · Time-tracking persistence · Typed API layer
-
----
-
-### MovieBuzz — MERN Revamp
-
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StrayDogSyn/MERN-Revamp_MovieBuzz)
-
-Rebuild of an earlier movie-discovery project, migrated onto a MERN architecture as a practical exercise in refactoring legacy frontend code.
-
-**Technologies:** MongoDB · Express.js · React · Node.js · HTML5
-
-**Key Features:** Legacy-to-MERN migration · Component-based refactor · External movie API integration
+**Key Features:** Glassmorphic UI with backdrop filters · Embedded interactive demos · Fully responsive layout · Custom domain configuration
 
 </div>
 
@@ -291,6 +337,8 @@ Rebuild of an earlier movie-discovery project, migrated onto a MERN architecture
 
 | Repository | Description | Language |
 | ---------- | ----------- | -------- |
+| [MERN-Stack-Pomodoro-TimeBlock-Application](https://github.com/StrayDogSyn/MERN-Stack-Pomodoro-TimeBlock-Application) | Full-stack productivity app pairing Pomodoro timing with time-block scheduling, typed end to end | TypeScript |
+| [MERN-Revamp_MovieBuzz](https://github.com/StrayDogSyn/MERN-Revamp_MovieBuzz) | Legacy movie-discovery project migrated onto a MERN architecture as a refactoring exercise | JavaScript |
 | [weather_dashboard_E_Hunter_Petross](https://github.com/StrayDogSyn/weather_dashboard_E_Hunter_Petross) | Justice Through Code weather dashboard capstone, built for team collaboration | Python |
 | [AISE-Curriculum-Weekly](https://github.com/StrayDogSyn/AISE-Curriculum-Weekly) | Weekly assignments for the AISE 2026 cohort at Justice Through Code | Python |
 | [MyManaBox](https://github.com/StrayDogSyn/MyManaBox) | Collection manager for organizing Magic: The Gathering cards | Python |
@@ -303,6 +351,8 @@ Rebuild of an earlier movie-discovery project, migrated onto a MERN architecture
 </details>
 
 ---
+
+<a name="stack"></a>
 
 ## <img src="https://api.iconify.design/tabler/code.svg?color=%23355E3B" width="26" height="26" alt="Skills" /> Technical Arsenal
 
@@ -336,8 +386,9 @@ Rebuild of an earlier movie-discovery project, migrated onto a MERN architecture
 
 ![Claude](https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 ### Cloud & DevOps
@@ -359,6 +410,8 @@ Rebuild of an earlier movie-discovery project, migrated onto a MERN architecture
 </div>
 
 ---
+
+<a name="analytics"></a>
 
 ## <img src="https://api.iconify.design/tabler/chart-bar.svg?color=%23355E3B" width="26" height="26" alt="Analytics" /> GitHub Analytics
 
@@ -429,6 +482,8 @@ Rebuild of an earlier movie-discovery project, migrated onto a MERN architecture
 
 ---
 
+<a name="competitive"></a>
+
 ## <img src="https://api.iconify.design/tabler/trophy.svg?color=%23355E3B" width="26" height="26" alt="Competitive" /> Competitive Coding
 
 <div align="center">
@@ -478,6 +533,8 @@ Rebuild of an earlier movie-discovery project, migrated onto a MERN architecture
 </div>
 
 ---
+
+<a name="education"></a>
 
 ## <img src="https://api.iconify.design/tabler/school.svg?color=%23355E3B" width="26" height="26" alt="Education" /> Education & Certifications
 
@@ -572,7 +629,7 @@ Rebuild of an earlier movie-discovery project, migrated onto a MERN architecture
 <br>
 
 - **Applied AI Solutions Engineering (AISE) — 2026 Cohort** — Fair Chance Futures *(formerly Justice Through Code)*
-- **Tech Pathways AI/ML Fundamentals** — Justice Through Code (2025)
+- **[Tech Pathways AI/ML Fundamentals](https://github.com/StrayDogSyn/StrayDogSyn/blob/main/docs/Justice-Through-Code-Certificate.pdf)** — Justice Through Code, Columbia Business School (2025) · [View certificate](https://github.com/StrayDogSyn/StrayDogSyn/blob/main/docs/Justice-Through-Code-Certificate.pdf)
 - **Building AI Agents with MongoDB** — MongoDB University (2025)
 - **Introduction to MongoDB** — MongoDB University (2025)
 - **Applied AI Professional Certificate** — Google (2024)
@@ -610,6 +667,9 @@ Areas I've worked in enough to be productive and read the docs intelligently, li
 
 | Area | Where it came from |
 | ---- | ------------------ |
+| **AI orchestration** | Multi-step LLM workflows and human-in-the-loop pipelines, built as a StrayDog Syndications service line |
+| **LangChain & agent frameworks** | Self-study and prototype builds across personal repos |
+| **MCP servers** | Configuring and running Model Context Protocol servers to extend local agent tooling |
 | **SQL & relational design** | COMP 1200 Database Design & Management (A−), plus self-study |
 | **CI/CD pipelines** | GitHub Actions and Vercel deployments across my own repos |
 | **Docker & containers** | Self-study and local development environments |
@@ -618,6 +678,8 @@ Areas I've worked in enough to be productive and read the docs intelligently, li
 </details>
 
 ---
+
+<a name="secondstory"></a>
 
 ## <img src="https://api.iconify.design/tabler/heart-handshake.svg?color=%23355E3B" width="26" height="26" alt="Initiative" /> The Second Story Initiative
 
@@ -633,11 +695,15 @@ Areas I've worked in enough to be productive and read the docs intelligently, li
 
 **Mentorship & Community:**
 
-<sub>The Last Mile — Web Development Fundamentals | Justice Through Code — Applied AI Solutions Engineering | Tech industry professionals providing guidance and opportunities</sub>
+<sub>The Last Mile — Web Development Fundamentals | Justice Through Code — Applied AI Solutions Engineering | Code the Dream — Python instruction | Lead By Example RI — community partnership | Tech industry professionals providing guidance and opportunities</sub>
+
+**Further reading:** [The AISE Manifesto](https://github.com/StrayDogSyn/StrayDogSyn/blob/main/docs/AISE-Manifesto.pdf) — the framework behind this work, written for practitioners coming up the same road.
 
 </div>
 
 ---
+
+<a name="connect"></a>
 
 ## <img src="https://api.iconify.design/tabler/address-book.svg?color=%23355E3B" width="26" height="26" alt="Connect" /> Let's Connect
 
@@ -683,6 +749,8 @@ I'm looking for roles where I can build scalable software and keep teaching what
 <div align="center">
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21,23,24,27,28&height=100&section=footer&animation=twinkling)
+
+<sub><a href="#top">Back to top ↑</a></sub>
 
 <p align="center">
   <sub>Built with a preference for clean code, working software, and second chances</sub>
