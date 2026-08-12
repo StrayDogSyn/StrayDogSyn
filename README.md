@@ -86,6 +86,8 @@
 ![Status](https://img.shields.io/badge/Status-Student_%7C_Founder_%7C_Instructor-355E3B?style=for-the-badge&labelColor=1e1e1e)
 ![Availability](https://img.shields.io/badge/Open_To-Full--Time_%26_Freelance-28a745?style=for-the-badge&labelColor=1e1e1e)
 ![GPA](https://img.shields.io/badge/GPA-3.59%2F4.0-355E3B?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1e1e1e)
+![Progress](https://img.shields.io/badge/Public_Repositories-88-355E3B?style=for-the-badge&labelColor=1e1e1e)
+![Coursework](https://img.shields.io/badge/Fall_2026-3_Courses_Registered-355E3B?style=for-the-badge&labelColor=1e1e1e)
 
 <p align="center">
 Full-stack developer and Applied AI Solutions Engineer building web applications with a focus on <strong>social impact and justice reform</strong>. Currently pursuing an A.A.S. in Computer &amp; Networking Technology at the Community College of Rhode Island, teaching with <strong>The Moth</strong>, and running <strong>StrayDog Syndications LLC</strong> and the <strong>Second Story Initiative</strong>—leveraging technology to bridge the "Digital Cliff" for justice-impacted individuals.
