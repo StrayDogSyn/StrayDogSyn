@@ -107,7 +107,7 @@ Full-stack developer and Applied AI Solutions Engineer building web applications
 
 <div align="center">
 
-[![Recent Work](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=800&color=355E3B&center=true&vCenter=true&width=560&lines=Justice+Through+Code+%7C+Columbia+Certified;Published+the+AISE+Manifesto;Featured+in+MassLive+with+The+Last+Mile;Partnered+with+Lead+By+Example+RI)](https://github.com/StrayDogSyn)
+[![Recent Work](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=800&color=355E3B&center=true&vCenter=true&width=560&lines=Justice+Through+Code+%7C+Columbia+Certified;Published+the+AISE+Manifesto;Featured+in+MassLive+with+The+Last+Mile;Deployed+website+for+Lead+By+Example+RI)](https://github.com/StrayDogSyn)
 
 <table>
   <tr>
@@ -117,7 +117,7 @@ Full-stack developer and Applied AI Solutions Engineer building web applications
         <br>
         <strong>Lead By Example</strong>
         <br>
-        <sub>Nonprofit Site · Pro Bono</sub>
+        <sub>Nonprofit Site \n · Pro Bono</sub>
       </a>
     </td>
     <td align="center" width="25%">
