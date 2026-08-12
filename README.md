@@ -151,10 +151,9 @@ Full-stack developer and Applied AI Solutions Engineer building web applications
 <br>
 
 <!-- ═══ WRITING & PRESS ═══ -->
-<!-- TODO before pushing: replace the MassLive href below with the real article URL from the TLM newsletter. -->
 
 [![The AISE Manifesto](https://img.shields.io/badge/Read-The_AISE_Manifesto-355E3B?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=1e1e1e)](https://github.com/StrayDogSyn/StrayDogSyn/blob/main/docs/AISE-Manifesto.pdf)
-[![MassLive Feature](https://img.shields.io/badge/Press-Featured_in_MassLive-B1361E?style=for-the-badge&logo=googlenews&logoColor=white&labelColor=1e1e1e)](https://www.masslive.com/REPLACE-WITH-ARTICLE-URL)
+[![MassLive Feature](https://img.shields.io/badge/Press-Featured_in_MassLive-B1361E?style=for-the-badge&logo=googlenews&logoColor=white&labelColor=1e1e1e)](https://www.masslive.com/news/2026/04/mass-inmates-are-being-trained-for-an-ai-economy-without-full-internet-access.html)
 
 <table>
   <tr>
@@ -162,13 +161,10 @@ Full-stack developer and Applied AI Solutions Engineer building web applications
       <sub><strong><a href="https://github.com/StrayDogSyn/StrayDogSyn/blob/main/docs/AISE-Manifesto.pdf">The AISE Manifesto</a></strong> — Ten tenets for AI-Integrated Software Engineering, written for justice-impacted developers entering the field. Published through StrayDog Syndications and the Second Story Initiative.</sub>
     </td>
     <td width="50%" valign="top">
-      <sub><strong>MassLive Feature</strong> — Profiled in MassLive's report on how The Last Mile prepares incarcerated students for an AI economy without internet access, covering the path from student to remote instructor and business owner.</sub>
+      <sub><strong><a href="https://www.masslive.com/news/2026/04/mass-inmates-are-being-trained-for-an-ai-economy-without-full-internet-access.html">MassLive Feature</a></strong> — Profiled in MassLive's report on how The Last Mile prepares incarcerated students for an AI economy without internet access, covering the path from student to remote instructor and business owner.</sub>
     </td>
   </tr>
 </table>
-
-![Progress](https://img.shields.io/badge/Public_Repositories-88-355E3B?style=flat-square&labelColor=1e1e1e)
-![Coursework](https://img.shields.io/badge/Fall_2026-3_Courses_Registered-355E3B?style=flat-square&labelColor=1e1e1e)
 
 </div>
 
@@ -309,19 +305,6 @@ The submission portal links the live build alongside the architecture spec, engi
 
 ---
 
-### Developer Portfolio — GitHub Pages
-
-[![Live Site](https://img.shields.io/badge/Live_Site-355E3B?style=for-the-badge&logo=github&logoColor=white)](https://ehunter-straydogsyn.me/Learner-Files-v3.5/)
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StrayDogSyn/Learner-Files-v3.5)
-
-Single-page portfolio deployed on GitHub Pages with a custom domain. Features an embedded playable Marvel Quiz demo, an interactive developer-toolbox section, and a live AI analytics dashboard panel.
-
-**Technologies:** HTML5 · CSS3 · JavaScript · GitHub Pages · Custom Domain (DNS/CNAME)
-
-**Key Features:** Glassmorphic UI with backdrop filters · Embedded interactive demos · Fully responsive layout · Custom domain configuration
-
----
-
 ### Marvel Quiz — API-Integrated Trivia Platform
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-355E3B?style=for-the-badge&logo=vercel&logoColor=white)](https://marvel-quiz-project-gz64pgi9x-eric-hunter-petross-projects.vercel.app/)
@@ -332,6 +315,19 @@ Trivia application with selectable difficulty tiers, API-sourced question conten
 **Technologies:** JavaScript ES6+ · SuperHero API · Vercel · Local Storage · CSS3
 
 **Key Features:** Three difficulty tiers (5/10/15 questions) · API content with caching · Score and streak persistence · Animated, mobile-friendly UI
+
+---
+
+### Developer Portfolio — GitHub Pages
+
+[![Live Site](https://img.shields.io/badge/Live_Site-355E3B?style=for-the-badge&logo=github&logoColor=white)](https://ehunter-straydogsyn.me/Learner-Files-v3.5/)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StrayDogSyn/Learner-Files-v3.5)
+
+Single-page portfolio deployed on GitHub Pages with a custom domain. Features an embedded playable Marvel Quiz demo, an interactive developer-toolbox section, and a live AI analytics dashboard panel.
+
+**Technologies:** HTML5 · CSS3 · JavaScript · GitHub Pages · Custom Domain (DNS/CNAME)
+
+**Key Features:** Glassmorphic UI with backdrop filters · Embedded interactive demos · Fully responsive layout · Custom domain configuration
 
 </div>
 
