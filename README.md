@@ -734,19 +734,26 @@ I'm looking for roles where I can build scalable software and keep teaching what
 
 <br>
 
-[![Digital Business Card](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://dot.cards/straydog_syndications_llc)](https://dot.cards/straydog_syndications_llc)
-
-<sub>Scan for complete contact information</sub>
-
-<br>
-
-### Follow My Articles On Substack
-
-<a href="https://straydogsyn.substack.com">
-  <img src="https://raw.githubusercontent.com/StrayDogSyn/StrayDogSyn/main/image/README/qr-code.png" alt="Follow My Articles On Substack QR Code" width="180" />
-</a>
-
-<sub>Scan to follow articles on Substack</sub>
+<table>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <h3>Contact Information</h3>
+      <a href="https://dot.cards/straydog_syndications_llc">
+        <img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=https://dot.cards/straydog_syndications_llc" alt="Contact Information QR Code" width="180" />
+      </a>
+      <br>
+      <sub>Scan for complete contact information</sub>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <h3>Follow My Articles On Substack</h3>
+      <a href="https://straydogsyn.substack.com">
+        <img src="https://raw.githubusercontent.com/StrayDogSyn/StrayDogSyn/main/image/README/qr-code.png" alt="Follow My Articles On Substack QR Code" width="180" />
+      </a>
+      <br>
+      <sub>Scan to follow articles on Substack</sub>
+    </td>
+  </tr>
+</table>
 
 <br>
 
