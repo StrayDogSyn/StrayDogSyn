@@ -28,6 +28,9 @@
   <a href="https://www.linkedin.com/in/eric-petross">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="32" />
   </a>
+  <a href="https://ccri.joinhandshake.com/profiles/bg75y4">
+    <img src="https://img.shields.io/badge/Handshake-00ADEF?style=for-the-badge&logo=handshake&logoColor=white" alt="Handshake" height="32" />
+  </a>
   <a href="https://www.youtube.com/@EricHunterPetross">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="32" />
   </a>
@@ -107,7 +110,7 @@ Full-stack developer and Applied AI Solutions Engineer building web applications
 
 <div align="center">
 
-[![Recent Work](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=800&color=355E3B&center=true&vCenter=true&width=560&lines=Justice+Through+Code+%7C+Columbia+Certified;Published+the+AISE+Manifesto;Featured+in+MassLive+with+The+Last+Mile;Deployed+website+for+Lead+By+Example+RI)](https://github.com/StrayDogSyn)
+[![Recent Work](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=800&color=355E3B&center=true&vCenter=true&width=560&lines=Justice+Through+Code+%7C+Columbia+Certified;Published+the+AISE+Manifesto;Featured+in+MassLive+with+The+Last+Mile;Partnered+with+Lead+By+Example+RI)](https://github.com/StrayDogSyn)
 
 <table>
   <tr>
@@ -117,7 +120,7 @@ Full-stack developer and Applied AI Solutions Engineer building web applications
         <br>
         <strong>Lead By Example</strong>
         <br>
-        <sub>Pro Bono Nonprofit Site</sub>
+        <sub>Nonprofit Site · Pro Bono</sub>
       </a>
     </td>
     <td align="center" width="25%">
@@ -741,6 +744,7 @@ I'm looking for roles where I can build scalable software and keep teaching what
 
 [![Email](https://img.shields.io/badge/Email-eHunter%40straydog--secondstory.org-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eHunter@straydog-secondstory.org)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eric_Petross-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-petross)
+[![Handshake](https://img.shields.io/badge/Handshake-Profile-00ADEF?style=for-the-badge&logo=handshake&logoColor=white)](https://ccri.joinhandshake.com/profiles/bg75y4)
 [![YouTube](https://img.shields.io/badge/YouTube-Mentoring_%26_Programming-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@EricHunterPetross)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ehunter-straydogsyn.me/Learner-Files-v3.5/)
 
