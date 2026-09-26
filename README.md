@@ -746,7 +746,7 @@ I'm looking for roles where I can build scalable software and keep teaching what
     </td>
     <td align="center" width="50%" valign="top">
       <h3>Follow On Substack</h3>
-      <a href="https://straydogsyn.substack.com">
+      <a href="https://ehunterpetross.substack.com">
         <img src="https://raw.githubusercontent.com/StrayDogSyn/StrayDogSyn/main/image/README/qr-code.png" alt="Follow My Articles On Substack QR Code" width="180" />
       </a>
       <br>
